@@ -6755,3 +6755,10 @@ Entries:
   id: 774
   time: '2025-07-09T08:58:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1249
+- author: tonotom1
+  changes:
+    - type: Add
+      message: Uranium directional windows and diagonal walls are now constructable.
+  id: 775
+  time: '2025-07-09T10:20:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1258
