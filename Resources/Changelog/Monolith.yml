@@ -6927,3 +6927,12 @@ Entries:
   id: 794
   time: '2025-07-09T20:39:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1290
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed Admin ID cards missing some access.
+    - type: Fix
+      message: Fixed TSF engi access displaying as "id-card-access-level-tfs-engineer"
+  id: 795
+  time: '2025-07-09T23:47:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1294
