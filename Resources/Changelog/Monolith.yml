@@ -6888,3 +6888,10 @@ Entries:
   id: 789
   time: '2025-07-09T17:29:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1283
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed Legionnaire description still mentioning a prison cell.
+  id: 790
+  time: '2025-07-09T17:31:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1284
