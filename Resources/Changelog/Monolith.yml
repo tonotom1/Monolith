@@ -6844,3 +6844,20 @@ Entries:
   id: 785
   time: '2025-07-09T17:03:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1275
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Tarnyxs duration decreased to 5 seconds from 7.5, battery drain for
+        systems decreased, firecost decreased
+    - type: Tweak
+      message: Rubicon emp duration increased from 5 seconds to 10, speed buffed
+    - type: Tweak
+      message: Tovek missile max speed decreased slightly
+    - type: Tweak
+      message: Pulsar M25 moved to superlight ship class
+    - type: Tweak
+      message: PTK shot capacity increased from 10 to 100
+  id: 786
+  time: '2025-07-09T17:04:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1274
