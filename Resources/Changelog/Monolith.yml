@@ -6911,3 +6911,10 @@ Entries:
   id: 792
   time: '2025-07-09T20:21:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1289
+- author: wewman222
+  changes:
+    - type: Fix
+      message: Fixes Flail construction to make the proper mech
+  id: 793
+  time: '2025-07-09T20:21:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1286
