@@ -6796,3 +6796,14 @@ Entries:
   id: 779
   time: '2025-07-09T13:05:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1264
+- author: starch70
+  changes:
+    - type: Add
+      message: Readded RX-01 modsuit to Rogue T3 equipment research.
+    - type: Tweak
+      message: >-
+        Removed RX-01 modsuit speed bonus (replaced with slowdowns now), buffed
+        heat and fire resist.
+  id: 780
+  time: '2025-07-09T14:18:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1271
