@@ -6837,3 +6837,10 @@ Entries:
   id: 784
   time: '2025-07-09T17:02:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1278
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Updates guidebook with Charonette and updates Charon guidebook
+  id: 785
+  time: '2025-07-09T17:03:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1275
