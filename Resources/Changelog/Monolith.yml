@@ -6870,3 +6870,10 @@ Entries:
   id: 787
   time: '2025-07-09T17:05:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1267
+- author: RealSchepka
+  changes:
+    - type: Fix
+      message: Captain's locker should have only one voidsuit selector at a time now.
+  id: 788
+  time: '2025-07-09T17:07:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1282
