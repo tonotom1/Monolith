@@ -6877,3 +6877,14 @@ Entries:
   id: 788
   time: '2025-07-09T17:07:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1282
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Wall durability powercreep gone, shipgun explosives made less damaging
+        instead
+    - type: Fix
+      message: Fixed basic wall diagonals having reinforced wall level stats
+  id: 789
+  time: '2025-07-09T17:29:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1283
