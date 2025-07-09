@@ -6904,3 +6904,10 @@ Entries:
   id: 791
   time: '2025-07-09T17:52:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1281
+- author: UnicornOnLSD
+  changes:
+    - type: Fix
+      message: DIS Rig hulls are on the public market again
+  id: 792
+  time: '2025-07-09T20:21:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1289
