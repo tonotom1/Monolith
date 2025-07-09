@@ -6918,3 +6918,12 @@ Entries:
   id: 793
   time: '2025-07-09T20:21:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1286
+- author: starch70
+  changes:
+    - type: Add
+      message: Added 35 points/s R&D generators to Halcyon and Rogue base.
+    - type: Tweak
+      message: Improved the rogue base hallways slightly.
+  id: 794
+  time: '2025-07-09T20:39:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1290
