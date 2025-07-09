@@ -6762,3 +6762,12 @@ Entries:
   id: 775
   time: '2025-07-09T10:20:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1258
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Faction leaders have unique weapons in loadout now (by request of lore
+        team)
+  id: 776
+  time: '2025-07-09T10:29:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1260
