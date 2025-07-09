@@ -6895,3 +6895,12 @@ Entries:
   id: 790
   time: '2025-07-09T17:31:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1284
+- author: Scyron
+  changes:
+    - type: Tweak
+      message: Changed Prowler cloak only heats when moving!
+    - type: Tweak
+      message: Prowler cloak heat capacity has been reduced to 60 seconds!
+  id: 791
+  time: '2025-07-09T17:52:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1281
