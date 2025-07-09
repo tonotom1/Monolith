@@ -6807,3 +6807,10 @@ Entries:
   id: 780
   time: '2025-07-09T14:18:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1271
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Increased USSP research point costs.
+  id: 781
+  time: '2025-07-09T14:19:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1268
