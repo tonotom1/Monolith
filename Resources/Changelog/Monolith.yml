@@ -6787,3 +6787,12 @@ Entries:
   id: 778
   time: '2025-07-09T11:25:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1263
+- author: RealSchepka
+  changes:
+    - type: Tweak
+      message: >-
+        Reduced TSF Engineer job slots on Halcyon by default from 4 to 1,
+        Colonel can still increase the job slots if needed.
+  id: 779
+  time: '2025-07-09T13:05:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1264
