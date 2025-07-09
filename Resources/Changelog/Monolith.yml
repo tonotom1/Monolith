@@ -6828,3 +6828,12 @@ Entries:
   id: 783
   time: '2025-07-09T14:21:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1266
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: TSFMC budget taxed less from contra crates being sold
+    - type: Tweak
+      message: tsfmc subsidies increased
+  id: 784
+  time: '2025-07-09T17:02:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1278
