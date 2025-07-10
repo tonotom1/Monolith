@@ -6961,3 +6961,10 @@ Entries:
   id: 798
   time: '2025-07-10T11:38:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1303
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Respawn menu updated with current rules
+  id: 799
+  time: '2025-07-10T15:11:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1308
