@@ -6945,3 +6945,12 @@ Entries:
   id: 796
   time: '2025-07-10T02:01:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1295
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Fixes reinforced diagonal walls so that they can be rotated in
+        construction
+  id: 797
+  time: '2025-07-10T03:07:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1300
