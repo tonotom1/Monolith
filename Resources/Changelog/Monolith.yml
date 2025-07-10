@@ -6954,3 +6954,10 @@ Entries:
   id: 797
   time: '2025-07-10T03:07:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1300
+- author: Scyron
+  changes:
+    - type: Add
+      message: Added a black cloak.
+  id: 798
+  time: '2025-07-10T11:38:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1303
