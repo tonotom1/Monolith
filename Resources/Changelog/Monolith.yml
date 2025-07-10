@@ -6936,3 +6936,12 @@ Entries:
   id: 795
   time: '2025-07-09T23:47:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1294
+- author: crazy1112345
+  changes:
+    - type: Tweak
+      message: >-
+        Updated the Arribane with M25 mining pulsers, more gas storage, and
+        misc. improvements/fixes.
+  id: 796
+  time: '2025-07-10T02:01:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1295
