@@ -7057,3 +7057,12 @@ Entries:
   id: 809
   time: '2025-07-11T19:13:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1328
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: >-
+        The DIS Olympus is available to all on the public market. For a price.
+        (TOSS ANY FEEDBACK IN THE DISCORD AND PING ME)
+  id: 810
+  time: '2025-07-11T19:27:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1315
