@@ -7035,3 +7035,18 @@ Entries:
   id: 807
   time: '2025-07-11T17:50:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1326
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Hristov penetrates armor, slightly less damage. Hristov scope range
+        increased to 7.
+    - type: Tweak
+      message: Scope re-added to MR-8C, comes with slowdown on wield.
+    - type: Tweak
+      message: Cost to print with mats/buy with tc increased
+    - type: Fix
+      message: Hristov doesn't miss in separated view.
+  id: 808
+  time: '2025-07-11T19:12:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1327
