@@ -7073,3 +7073,10 @@ Entries:
   id: 811
   time: '2025-07-11T19:58:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1330
+- author: tonotom1
+  changes:
+    - type: Add
+      message: Adds the UW Sellsword, a small and fragile mercenary ship with big guns.
+  id: 812
+  time: '2025-07-11T19:59:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1325
