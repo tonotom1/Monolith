@@ -7017,3 +7017,14 @@ Entries:
   id: 805
   time: '2025-07-11T03:30:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1317
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Romerol to the Rogue uplink for 250 DC.
+    - type: Remove
+      message: Removed zombie immunity from the majority of exped/vgroid mobs.
+    - type: Tweak
+      message: Edited a certain POI a bit more.
+  id: 806
+  time: '2025-07-11T16:44:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1324
