@@ -7080,3 +7080,10 @@ Entries:
   id: 812
   time: '2025-07-11T19:59:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1325
+- author: RealSchepka
+  changes:
+    - type: Add
+      message: Added DME EVA Suit to DME Shareholder, sail in style.
+  id: 813
+  time: '2025-07-11T21:48:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1287
