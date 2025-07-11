@@ -7096,3 +7096,12 @@ Entries:
   id: 814
   time: '2025-07-11T21:50:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1333
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Buffed docking port HP
+    - type: Tweak
+      message: Tiny/directional fans are destructible now, and are anchorable.
+  id: 815
+  time: '2025-07-11T23:45:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1331
