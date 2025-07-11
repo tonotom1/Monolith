@@ -7066,3 +7066,10 @@ Entries:
   id: 810
   time: '2025-07-11T19:27:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1315
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: ASM-501 now has it's own proper sprite.
+  id: 811
+  time: '2025-07-11T19:58:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1330
