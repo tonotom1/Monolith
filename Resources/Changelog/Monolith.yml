@@ -7087,3 +7087,12 @@ Entries:
   id: 813
   time: '2025-07-11T21:48:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1287
+- author: UnicornOnLSD
+  changes:
+    - type: Fix
+      message: >-
+        DIS Olympus is now geared with directionnal fans after customer
+        lawsuits.
+  id: 814
+  time: '2025-07-11T21:50:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1333
