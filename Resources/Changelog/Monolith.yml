@@ -7050,3 +7050,10 @@ Entries:
   id: 808
   time: '2025-07-11T19:12:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1327
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Fixed the Ruby
+  id: 809
+  time: '2025-07-11T19:13:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1328
