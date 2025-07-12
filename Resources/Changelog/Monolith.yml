@@ -7175,3 +7175,18 @@ Entries:
   id: 823
   time: '2025-07-12T16:43:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1344
+- author: core-mene
+  changes:
+    - type: Tweak
+      message: doubled pistol mags capacity
+    - type: Tweak
+      message: laser pointer real for some guns
+    - type: Add
+      message: Civilian version of the vulcan
+    - type: Add
+      message: KS23-like 4 gauge shotguns for mercenary and USSP
+    - type: Remove
+      message: Starch type balancing
+  id: 824
+  time: '2025-07-12T18:26:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1188
