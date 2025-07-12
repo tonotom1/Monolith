@@ -7132,3 +7132,10 @@ Entries:
   id: 818
   time: '2025-07-12T04:55:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1340
+- author: Mr T
+  changes:
+    - type: Add
+      message: AIs can now interact with alot of more entitys/objects!
+  id: 819
+  time: '2025-07-12T05:14:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1337
