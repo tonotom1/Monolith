@@ -33,8 +33,8 @@ meta:
   engineVersion: 247.2.0
   forkId: ""
   forkVersion: ""
-  time: 07/12/2025 15:14:19
-  entityCount: 2794
+  time: 07/12/2025 21:41:39
+  entityCount: 2798
 maps: []
 grids:
 - 1
@@ -9769,6 +9769,18 @@ entities:
       parent: 1
     - type: AtmosPipeColor
       color: '#990000FF'
+  - uid: 2797
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 8.5,-45.5
+      parent: 1
+  - uid: 2798
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 10.5,-43.5
+      parent: 1
 - proto: GasPipeBend
   entities:
   - uid: 160
@@ -11763,6 +11775,18 @@ entities:
       parent: 1
     - type: AtmosPipeColor
       color: '#0055CCFF'
+  - uid: 2795
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 9.5,-43.5
+      parent: 1
+  - uid: 2796
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 8.5,-44.5
+      parent: 1
 - proto: GasPipeTJunction
   entities:
   - uid: 1100
