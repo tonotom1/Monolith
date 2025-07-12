@@ -7114,3 +7114,10 @@ Entries:
   id: 816
   time: '2025-07-12T00:33:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1335
+- author: ark1368
+  changes:
+    - type: Add
+      message: Ported smart weaponry from Goob.
+  id: 817
+  time: '2025-07-12T03:49:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1339
