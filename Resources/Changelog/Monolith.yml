@@ -7105,3 +7105,12 @@ Entries:
   id: 815
   time: '2025-07-11T23:45:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1331
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        The DIS Olympus has received several adjustments after further customer
+        feedback (thanks for said feedback.)
+  id: 816
+  time: '2025-07-12T00:33:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1335
