@@ -7146,3 +7146,12 @@ Entries:
   id: 820
   time: '2025-07-12T05:16:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1252
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added more Mono/Goob specific guns to Expedition loot tables (Smart SMG,
+        MR-8C, Anaconda, EG-4, WSPR, Annie, MlA-73)
+  id: 821
+  time: '2025-07-12T05:21:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1341
