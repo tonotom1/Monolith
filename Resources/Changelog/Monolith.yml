@@ -7211,3 +7211,10 @@ Entries:
   id: 826
   time: '2025-07-12T21:39:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1352
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: DIS Olympus PROPERLY has it's distro workign now
+  id: 827
+  time: '2025-07-12T21:44:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1353
