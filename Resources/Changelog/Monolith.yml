@@ -7121,3 +7121,14 @@ Entries:
   id: 817
   time: '2025-07-12T03:49:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1339
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Mechs arent as easy to research/build anymore.
+    - type: Tweak
+      message: >-
+        Mech weapons have had their damage values lowered, and should no longer
+        have access to a missile more powerful than a Wizden Syndicate Bomb.
+  id: 818
+  time: '2025-07-12T04:55:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1340
