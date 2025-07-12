@@ -7139,3 +7139,10 @@ Entries:
   id: 819
   time: '2025-07-12T05:14:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1337
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Limbs have different sever/gib damage amounts based off type of limb
+  id: 820
+  time: '2025-07-12T05:16:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1252
