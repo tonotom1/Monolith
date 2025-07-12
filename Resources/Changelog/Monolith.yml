@@ -7166,3 +7166,12 @@ Entries:
   id: 822
   time: '2025-07-12T15:44:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1342
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added MlA-79 smart LMG as rare expedition loot. Credits to RMC14 for
+        sprites.
+  id: 823
+  time: '2025-07-12T16:43:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1344
