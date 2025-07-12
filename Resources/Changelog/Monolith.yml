@@ -7190,3 +7190,13 @@ Entries:
   id: 824
   time: '2025-07-12T18:26:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1188
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: >-
+        Drake Industries merch is all over the sector. Show proudly who you're
+        working for (all clothing & new company badge available in loadouts or
+        affiliated DIS ships.)
+  id: 825
+  time: '2025-07-12T18:31:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1347
