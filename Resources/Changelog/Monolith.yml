@@ -7155,3 +7155,14 @@ Entries:
   id: 821
   time: '2025-07-12T05:21:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1341
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Smart SMG has offset (like Hristov/MR-8C) now.
+    - type: Fix
+      message: >-
+        Ported bugfixes for Smart SMG laser (such as being able to target
+        yourself)
+  id: 822
+  time: '2025-07-12T15:44:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1342
