@@ -7302,3 +7302,16 @@ Entries:
   id: 837
   time: '2025-07-13T18:20:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1371
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        AK-502 and MlA-34 sprites colors adjusted a bit. Probably isn't too
+        noticeable.
+    - type: Tweak
+      message: >-
+        MlA-79 smart LMG loadout option is now a pro ultra-flex move. (500hrs
+        civ + 500k)
+  id: 838
+  time: '2025-07-13T19:22:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1361
