@@ -7227,3 +7227,10 @@ Entries:
   id: 828
   time: '2025-07-12T22:17:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1354
+- author: starch70
+  changes:
+    - type: Add
+      message: Mechs are in their own research discipline now.
+  id: 829
+  time: '2025-07-13T00:50:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1343
