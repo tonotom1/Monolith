@@ -7276,3 +7276,13 @@ Entries:
   id: 834
   time: '2025-07-13T16:27:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1366
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: >-
+        Comrades! USSP is determine Akula is waste too much resource for such
+        small size on armor, so we remove many plastitanium wall and change for
+        reinforced one, so plastitanium used to bigger ships! Za rodynu!
+  id: 835
+  time: '2025-07-13T16:28:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1367
