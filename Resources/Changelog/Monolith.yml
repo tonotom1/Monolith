@@ -7253,3 +7253,10 @@ Entries:
   id: 831
   time: '2025-07-13T00:58:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1356
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: Adds the DIS Antlion, a small mining carrier drone
+  id: 832
+  time: '2025-07-13T16:25:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1364
