@@ -7354,3 +7354,12 @@ Entries:
   id: 843
   time: '2025-07-13T22:30:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1379
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added some chems I guess. (celoxradine, rhymatine, mesotaxinide,
+        letoferol)
+  id: 844
+  time: '2025-07-13T22:31:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1363
