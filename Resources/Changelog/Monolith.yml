@@ -7331,3 +7331,10 @@ Entries:
   id: 840
   time: '2025-07-13T21:25:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1372
+- author: UltimateJester
+  changes:
+    - type: Tweak
+      message: The guidebook now includes up-to-date entries, more updates to come!
+  id: 841
+  time: '2025-07-13T21:39:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1377
