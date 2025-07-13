@@ -7363,3 +7363,10 @@ Entries:
   id: 844
   time: '2025-07-13T22:31:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1363
+- author: starch70
+  changes:
+    - type: Add
+      message: Remapped the rogue base (again 4x)
+  id: 845
+  time: '2025-07-13T22:34:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1378
