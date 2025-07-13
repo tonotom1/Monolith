@@ -7338,3 +7338,10 @@ Entries:
   id: 841
   time: '2025-07-13T21:39:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1377
+- author: UltimateJester
+  changes:
+    - type: Tweak
+      message: Renamed various weapon descriptions to reflect the lore, RP upon you.
+  id: 842
+  time: '2025-07-13T21:39:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1376
