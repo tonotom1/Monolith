@@ -7234,3 +7234,13 @@ Entries:
   id: 829
   time: '2025-07-13T00:50:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1343
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added special gun cases locked behind faction playtimes for civ roles
+        (Merc, Contractor, Pilot) (separate from primary loadout group, go to
+        the bottom-most category to see them)
+  id: 830
+  time: '2025-07-13T00:57:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1358
