@@ -7370,3 +7370,12 @@ Entries:
   id: 845
   time: '2025-07-13T22:34:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1378
+- author: starch70
+  changes:
+    - type: Remove
+      message: ASM-501 and VESPERA are now unanchorable.
+    - type: Tweak
+      message: Sellsword now has a VESPERA instead of a ASM-501
+  id: 846
+  time: '2025-07-13T23:22:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1381
