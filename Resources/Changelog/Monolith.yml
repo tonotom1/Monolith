@@ -7315,3 +7315,10 @@ Entries:
   id: 838
   time: '2025-07-13T19:22:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1361
+- author: starch70
+  changes:
+    - type: Add
+      message: Redid security guard gear appearance.
+  id: 839
+  time: '2025-07-13T19:36:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1360
