@@ -7269,3 +7269,10 @@ Entries:
   id: 833
   time: '2025-07-13T16:26:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1369
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Fentanyl now requires Cognizine instead of oil.
+  id: 834
+  time: '2025-07-13T16:27:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1366
