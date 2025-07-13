@@ -1,3 +1,52 @@
+# SPDX-FileCopyrightText: 2020 AJCM-git
+# SPDX-FileCopyrightText: 2020 DrSmugleaf
+# SPDX-FileCopyrightText: 2020 Hugo Laloge
+# SPDX-FileCopyrightText: 2020 Pieter-Jan Briers
+# SPDX-FileCopyrightText: 2020 Swept
+# SPDX-FileCopyrightText: 2020 Víctor Aguilera Puerto
+# SPDX-FileCopyrightText: 2020 py01
+# SPDX-FileCopyrightText: 2021 Galactic Chimp
+# SPDX-FileCopyrightText: 2021 Paul Ritter
+# SPDX-FileCopyrightText: 2022 Emisse
+# SPDX-FileCopyrightText: 2022 Fishfish458
+# SPDX-FileCopyrightText: 2022 Peptide90
+# SPDX-FileCopyrightText: 2022 Rane
+# SPDX-FileCopyrightText: 2022 Scribbles0
+# SPDX-FileCopyrightText: 2022 T-Stalker
+# SPDX-FileCopyrightText: 2022 Visne
+# SPDX-FileCopyrightText: 2022 fishfish458 <fishfish458>
+# SPDX-FileCopyrightText: 2022 keronshb
+# SPDX-FileCopyrightText: 2023 IData-RedactedI
+# SPDX-FileCopyrightText: 2023 Moony
+# SPDX-FileCopyrightText: 2023 Nairod
+# SPDX-FileCopyrightText: 2023 TaralGit
+# SPDX-FileCopyrightText: 2023 and_a
+# SPDX-FileCopyrightText: 2023 liltenhead
+# SPDX-FileCopyrightText: 2023 lzk
+# SPDX-FileCopyrightText: 2023 moonheart08
+# SPDX-FileCopyrightText: 2024 Alzore
+# SPDX-FileCopyrightText: 2024 Doomsdrayk
+# SPDX-FileCopyrightText: 2024 Dvir
+# SPDX-FileCopyrightText: 2024 ErhardSteinhauer
+# SPDX-FileCopyrightText: 2024 Errant
+# SPDX-FileCopyrightText: 2024 IProduceWidgets
+# SPDX-FileCopyrightText: 2024 Kara
+# SPDX-FileCopyrightText: 2024 Kesiath
+# SPDX-FileCopyrightText: 2024 Nemanja
+# SPDX-FileCopyrightText: 2024 Plykiya
+# SPDX-FileCopyrightText: 2024 SonicHDC
+# SPDX-FileCopyrightText: 2024 Whatstone
+# SPDX-FileCopyrightText: 2024 metalgearsloth
+# SPDX-FileCopyrightText: 2024 nikthechampiongr
+# SPDX-FileCopyrightText: 2025 BramvanZijp
+# SPDX-FileCopyrightText: 2025 Eden077
+# SPDX-FileCopyrightText: 2025 KiraZen_
+# SPDX-FileCopyrightText: 2025 Redrover1760
+# SPDX-FileCopyrightText: 2025 core-mene
+# SPDX-FileCopyrightText: 2025 starch
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 - type: entity
   name: BasePistol
   parent: BaseItem
@@ -76,7 +125,7 @@
   name: viper (9x19mm)
   parent: [BaseWeaponPistol, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: WeaponPistolViper
-  description: A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses 9x19mm ammo. An illegal firearm often used by Syndicate agents.
+  description: A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses 9x19mm ammo. While the schematics to build new Vipers has been lost, they are so abundant from the Corporate War that building new ones is no longer required.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Pistols/viper.rsi
@@ -181,7 +230,7 @@
   name: cobra (6.35x40mm)
   parent: [ BaseWeaponPistol, BaseC3SyndicateContraband ] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: WeaponPistolCobra
-  description: A rugged, robust operator handgun with inbuilt silencer. Uses 6.35x40mm Caseless ammo. An illegal firearm often used by Syndicate agents.
+  description: A rugged, robust spec-ops handgun with an inbuilt silencer. Uses 6.35x40mm Caseless ammo. A common sight among Ashen Insurgents, they are the most commonly seen sidearm among boarding crews or agents.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Pistols/cobra.rsi
@@ -231,7 +280,7 @@
   name: mk 58 (.45 ACP)
   parent: [BaseWeaponPistol, BaseC1Contraband] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable<BaseC1Contraband to match weapon description
   id: WeaponPistolMk58
-  description: The Mark 58 Offensive Handgun, produced by NanoTrasen's Small Arms Division. Uses .45 ACP ammo.
+  description: The Mark 58 Offensive Handgun, the most abundant sidearm in the entire galaxy. Commonly called a Corporate War fragment, it was used until the bitter end. Uses .45 ACP ammo.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
