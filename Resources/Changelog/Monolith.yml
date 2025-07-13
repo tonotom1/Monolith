@@ -7260,3 +7260,12 @@ Entries:
   id: 832
   time: '2025-07-13T16:25:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1364
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        DIS Pluto got an relook from DIS' brightest shipmakers. (see PR for new
+        looks)
+  id: 833
+  time: '2025-07-13T16:26:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1369
