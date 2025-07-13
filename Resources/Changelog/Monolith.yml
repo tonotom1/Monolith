@@ -7244,3 +7244,12 @@ Entries:
   id: 830
   time: '2025-07-13T00:57:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1358
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        DIS Olympus has a disposal system now, where to throw all your non
+        profits. Hurray.
+  id: 831
+  time: '2025-07-13T00:58:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1356
