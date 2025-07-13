@@ -7345,3 +7345,12 @@ Entries:
   id: 842
   time: '2025-07-13T21:39:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1376
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Larped up weapon names a bit (minus generic weapons such as laser
+        rifles, kammerers, etc)
+  id: 843
+  time: '2025-07-13T22:30:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1379
