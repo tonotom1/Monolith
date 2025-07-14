@@ -7426,3 +7426,13 @@ Entries:
   id: 851
   time: '2025-07-14T17:14:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1399
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        The DIS ships has received a change to their locking system (see PR for
+        details). DIS Rig had a second dock added for better stability after
+        customer feedback.
+  id: 852
+  time: '2025-07-14T17:15:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1391
