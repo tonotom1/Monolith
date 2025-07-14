@@ -7407,3 +7407,22 @@ Entries:
   id: 850
   time: '2025-07-14T08:35:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1384
+- author: starch70
+  changes:
+    - type: Remove
+      message: >-
+        Disabled roundstart light variation pass (no more random
+        broken/flickering lights on ships/POIs, they will still break over time
+        though)
+    - type: Tweak
+      message: >-
+        Hopefully made Rogue base layout slightly better (added more hallways,
+        etc, no more having to walk through depressurized rock to get to
+        northern docks)
+    - type: Tweak
+      message: Increased the minimum distance that the Rogue base can spawn from 0, 0
+    - type: Fix
+      message: Fixed Rogue base cargo not working.
+  id: 851
+  time: '2025-07-14T17:14:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1399
