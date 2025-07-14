@@ -7477,3 +7477,14 @@ Entries:
   id: 857
   time: '2025-07-14T17:33:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1388
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Edited a lot about Letoferol fleshmobs (ranged bone spike attack,
+        non-primary infected is permanent, bloodstream is now letoferol, can now
+        walk into doors to open, edited melee attack to not be as dogshit,
+        passive regen)
+  id: 858
+  time: '2025-07-14T21:51:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1403
