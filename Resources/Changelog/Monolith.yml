@@ -7379,3 +7379,10 @@ Entries:
   id: 846
   time: '2025-07-13T23:22:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1381
+- author: johnnny34y
+  changes:
+    - type: Add
+      message: UNSA Armored EVA "Hardsuit"
+  id: 847
+  time: '2025-07-14T02:17:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1370
