@@ -7443,3 +7443,12 @@ Entries:
   id: 853
   time: '2025-07-14T17:20:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1385
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Changed the coloring of the MLA-34 icon sprites again, I wasnt satisfied
+        with the outlines.
+  id: 854
+  time: '2025-07-14T17:22:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1389
