@@ -7400,3 +7400,10 @@ Entries:
   id: 849
   time: '2025-07-14T08:34:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1386
+- author: DisguisedBear
+  changes:
+    - type: Tweak
+      message: Changed Aetherion Dynamics in-game description
+  id: 850
+  time: '2025-07-14T08:35:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1384
