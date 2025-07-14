@@ -7470,3 +7470,10 @@ Entries:
   id: 856
   time: '2025-07-14T17:26:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1400
+- author: starch70
+  changes:
+    - type: Fix
+      message: Special guns in Civilian loadouts should be legal now.
+  id: 857
+  time: '2025-07-14T17:33:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1388
