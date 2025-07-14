@@ -7459,3 +7459,14 @@ Entries:
   id: 855
   time: '2025-07-14T17:23:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1393
+- author: starch70
+  changes:
+    - type: Remove
+      message: Removed burst fire from MLA-79 and MLA-34 smartguns.
+    - type: Tweak
+      message: >-
+        Smartguns now have dogshit unguided accuracy (so you need to rely on the
+        smart lock nerd)
+  id: 856
+  time: '2025-07-14T17:26:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1400
