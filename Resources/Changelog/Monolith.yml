@@ -7488,3 +7488,16 @@ Entries:
   id: 858
   time: '2025-07-14T21:51:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1403
+- author: SarahRaven
+  changes:
+    - type: Add
+      message: >-
+        Medical Borgs Surgery and Advanced Surgery modules now allow organ
+        pickup/drop. Xop Glorp "Surgery"
+    - type: Tweak
+      message: >-
+        Increased borg chassis max module slots by two. Now use that GPS and
+        Jetpack module slot without limiting your role.
+  id: 859
+  time: '2025-07-15T03:05:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1404
