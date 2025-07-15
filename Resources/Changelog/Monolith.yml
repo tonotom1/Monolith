@@ -7521,3 +7521,10 @@ Entries:
   id: 861
   time: '2025-07-15T13:14:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1422
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: PMC combat suit WarlorD, a new option for mercs
+  id: 862
+  time: '2025-07-15T17:34:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1412
