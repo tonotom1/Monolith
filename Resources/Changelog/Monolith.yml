@@ -7565,3 +7565,18 @@ Entries:
   id: 865
   time: '2025-07-15T18:08:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1417
+- author: starch70
+  changes:
+    - type: Add
+      message: Natural Letoferol can be grown outside a chimera w/ blood now.
+    - type: Tweak
+      message: Letoferol needs a syringe-full now (15u) instead of 24u to infect.
+    - type: Tweak
+      message: >-
+        Natural Letoferol needs less to infect now (9u or 4 ish melee hits from
+        a Chimera)
+    - type: Tweak
+      message: Chimera melee rate lowered from 1.5 to 1 per second
+  id: 866
+  time: '2025-07-15T20:03:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1427
