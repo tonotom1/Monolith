@@ -7539,3 +7539,10 @@ Entries:
   id: 863
   time: '2025-07-15T17:35:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1418
+- author: ScyronX
+  changes:
+    - type: Remove
+      message: Removed radar blips from jetpacks and vehicles!
+  id: 864
+  time: '2025-07-15T17:45:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1398
