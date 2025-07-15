@@ -43,7 +43,7 @@
     bloodReagent: Blood
     bloodMaxVolume: 300
   - type: MeleeWeapon
-    attackRate: 1
+    attackRate: 1.5
     soundHit:
       path: /Audio/Weapons/Xeno/alien_claw_flesh3.ogg
     angle: 30
@@ -60,7 +60,7 @@
       melee:
         reagents:
         - ReagentId: NaturalLetoferol
-          Quantity: 175
+          Quantity: 90
   - type: ContainerContainer
     containers:
       storagebase: !type:Container
