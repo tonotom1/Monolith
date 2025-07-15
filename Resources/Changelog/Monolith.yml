@@ -7528,3 +7528,14 @@ Entries:
   id: 862
   time: '2025-07-15T17:34:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1412
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Missiles now have a set delay depending on missile that delays locking
+        onto targets (aka won't lock onto ships within close range). Missile
+        detection range and scaning arc buffed in exchange. Check guidebook for
+        exact numbers per missile type.
+  id: 863
+  time: '2025-07-15T17:35:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1418
