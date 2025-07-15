@@ -7580,3 +7580,24 @@ Entries:
   id: 866
   time: '2025-07-15T20:03:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1427
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added a cheap alternative to Mesotaxinide, Mesophenerol. I'm a master at
+        naming things.
+    - type: Add
+      message: >-
+        Mesotaxinide and Mesophenerol can now revert (natural) letoferol
+        Chimeras.
+    - type: Tweak
+      message: >-
+        Chimeras can process chems now, take extra fire damage, aren't damaged
+        from mesotaxinide ingestion (skin contact will still hurt), and natural
+        Letoferol mutations don't revert on death anymore (use chems to revert
+        it). Chimera blood is also natural letoferol again.
+    - type: Fix
+      message: Fixed Chimeras not having organs.
+  id: 867
+  time: '2025-07-15T22:19:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1430
