@@ -7546,3 +7546,22 @@ Entries:
   id: 864
   time: '2025-07-15T17:45:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1398
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Chimeras now have an internal 5x5 storage, and access to a collective
+        mind ("+" prefix)
+    - type: Tweak
+      message: >-
+        Changed up the Chimera bone spike gun, Chimeras can now regen more
+        damage types (genetic and toxin)
+    - type: Tweak
+      message: >-
+        Mesotaxinide description now makes it more obvious that it can do
+        caustic to Chimeras.
+    - type: Fix
+      message: Fixed a lot of bugs with Chimeras.
+  id: 865
+  time: '2025-07-15T18:08:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1417
