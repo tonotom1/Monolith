@@ -7601,3 +7601,10 @@ Entries:
   id: 867
   time: '2025-07-15T22:19:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1430
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: Turned Gadyuka into a cloakHunter
+  id: 868
+  time: '2025-07-15T22:25:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1424
