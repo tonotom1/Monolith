@@ -7608,3 +7608,20 @@ Entries:
   id: 868
   time: '2025-07-15T22:25:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1424
+- author: starch70
+  changes:
+    - type: Fix
+      message: Chimeras shouldn't run out of melee reagent to inject now.
+    - type: Fix
+      message: >-
+        Fixed that thing with chimeras where heavily damaged bodies would spam
+        gib.
+    - type: Fix
+      message: Chimeras can regen airloss damage now.
+    - type: Tweak
+      message: >-
+        Chimeras do less melee damage now, so you shouldnt be killing people as
+        fast when you try to infect them.
+  id: 869
+  time: '2025-07-16T03:44:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1431
