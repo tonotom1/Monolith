@@ -7701,3 +7701,14 @@ Entries:
   id: 875
   time: '2025-07-16T20:11:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1435
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Fixed atrocious clientside memory hell from drawing shields
+    - type: Fix
+      message: >-
+        Deleting a shield generator will no longer result in the shield left
+        behind.
+  id: 876
+  time: '2025-07-16T22:58:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1438
