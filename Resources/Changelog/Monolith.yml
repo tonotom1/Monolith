@@ -7694,3 +7694,10 @@ Entries:
   id: 874
   time: '2025-07-16T20:10:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1433
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed Calypso not having a fax machine.
+  id: 875
+  time: '2025-07-16T20:11:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1435
