@@ -7676,3 +7676,12 @@ Entries:
   id: 872
   time: '2025-07-16T19:11:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1413
+- author: OneZerooo0
+  changes:
+    - type: Add
+      message: >-
+        Added research point disk printers! They aren't mapped yet, but expect
+        easier transfer of points between servers soon.
+  id: 873
+  time: '2025-07-16T19:14:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1408
