@@ -62,6 +62,12 @@
         reagents:
         - ReagentId: NaturalLetoferol
           Quantity: 90
+  - type: SolutionRegeneration
+    solution: melee
+    generated:
+      reagents:
+      - ReagentId: NaturalLetoferol
+        Quantity: 90
   - type: ContainerContainer
     containers:
       storagebase: !type:Container
@@ -117,6 +123,7 @@
         Radiation: -0.1
         Poison: -0.1
       groups:
+        Airloss: -0.45
         Brute: -0.45
         Burn: -0.45
         Genetic: -0.1
@@ -216,9 +223,7 @@
     animation: WeaponArcClaw
     damage:
       types:
-        Slash: 17
-        Poison: 4
-        Pierce: 2
+        Slash: 14
         Structural: 75
   - type: ActionGun
     action: ActionLetoferolSpike
