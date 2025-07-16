@@ -7663,3 +7663,16 @@ Entries:
   id: 871
   time: '2025-07-16T19:11:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1392
+- author: SarahRaven
+  changes:
+    - type: Add
+      message: >-
+        Engineering Cyborgs can now properly use their construction bags with
+        ease. Get bagged on.
+    - type: Add
+      message: >-
+        Engineering Cyborgs can now handle machine boards, computer boards, and
+        electronic components. One by one.
+  id: 872
+  time: '2025-07-16T19:11:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1413
