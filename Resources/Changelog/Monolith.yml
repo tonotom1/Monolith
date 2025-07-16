@@ -7712,3 +7712,12 @@ Entries:
   id: 876
   time: '2025-07-16T22:58:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1438
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        You should no longer redock with ships you previously performed FTL
+        with.
+  id: 877
+  time: '2025-07-16T23:10:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1440
