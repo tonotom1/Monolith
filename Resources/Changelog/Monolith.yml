@@ -7685,3 +7685,12 @@ Entries:
   id: 873
   time: '2025-07-16T19:14:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1408
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Sirius to Expedition shipyard.
+    - type: Tweak
+      message: Lowered Picses price by ~2k.
+  id: 874
+  time: '2025-07-16T20:10:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1433
