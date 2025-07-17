@@ -7744,3 +7744,19 @@ Entries:
   id: 880
   time: '2025-07-17T05:37:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1450
+- author: starch70
+  changes:
+    - type: Remove
+      message: >-
+        Removed Romerol/Letoferol from Rogue Hideout/Uplink and Lancelot.
+        Lancelot syringes replaced with MLA-79 gun case. You can probably still
+        get Letoferol from TSF uplink Ambuzol.
+    - type: Tweak
+      message: All TSF roles can buy Ambuzol in their uplink now.
+    - type: Tweak
+      message: Letoferol (not natural Letoferol) infects with 10u now instead of 24u.
+    - type: Tweak
+      message: Syndicate uplink now sells Letoferol syringes for 350 TC.
+  id: 881
+  time: '2025-07-17T05:50:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1447
