@@ -7853,3 +7853,10 @@ Entries:
   id: 891
   time: '2025-07-17T21:56:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1462
+- author: UltimateJester
+  changes:
+    - type: Tweak
+      message: Renames spesos to credits, it sounds cooler and it fits precious lore
+  id: 892
+  time: '2025-07-17T23:46:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1423
