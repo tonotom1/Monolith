@@ -7837,3 +7837,10 @@ Entries:
   id: 889
   time: '2025-07-17T19:36:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1459
+- author: starch70
+  changes:
+    - type: Add
+      message: Ported Harmony better Hristov SFX. Actually a CM13 sound. I don't care.
+  id: 890
+  time: '2025-07-17T19:37:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1454
