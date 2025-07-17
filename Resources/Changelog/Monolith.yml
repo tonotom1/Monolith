@@ -7844,3 +7844,12 @@ Entries:
   id: 890
   time: '2025-07-17T19:37:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1454
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Added station beacons and a botany/kitchen/bar area to insurgency
+        hideout. Also expanded the asteroid east to make space for that.
+  id: 891
+  time: '2025-07-17T21:56:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1462
