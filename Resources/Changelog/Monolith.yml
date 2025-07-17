@@ -7819,3 +7819,10 @@ Entries:
   id: 887
   time: '2025-07-17T18:04:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1458
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed Fracture not being able to be bought. Go find a new ship. Chuds.
+  id: 888
+  time: '2025-07-17T19:20:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1460
