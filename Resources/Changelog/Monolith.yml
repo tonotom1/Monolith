@@ -7721,3 +7721,10 @@ Entries:
   id: 877
   time: '2025-07-16T23:10:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1440
+- author: starch70
+  changes:
+    - type: Add
+      message: Added In Amber Clad from Halo 2 to the lobby songs.
+  id: 878
+  time: '2025-07-17T02:55:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1437
