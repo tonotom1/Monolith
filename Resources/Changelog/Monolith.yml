@@ -7798,3 +7798,17 @@ Entries:
   id: 885
   time: '2025-07-17T07:11:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1452
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        WSPR only can fire subsonic ammo, subsonic ammo damage 18>23, two more
+        than FMJ variant
+    - type: Tweak
+      message: >-
+        Subsonic ammo costs slightly less in rogue uplink, removed from tsfmc
+        uplink (annie doesn't use it anymore anyways). Made clear it only is for
+        the WSPR
+  id: 886
+  time: '2025-07-17T18:03:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1409
