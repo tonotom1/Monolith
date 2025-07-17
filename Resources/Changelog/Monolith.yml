@@ -7826,3 +7826,14 @@ Entries:
   id: 888
   time: '2025-07-17T19:20:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1460
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Bandit is now in roundstart TSF loadouts, and in civ special guns.
+    - type: Fix
+      message: Fixed minor issues with Bandit DMR
+    - type: Fix
+      message: MR-8 in Lecter name switched to M-6. I forgot we already had a MR-8.
+  id: 889
+  time: '2025-07-17T19:36:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1459
