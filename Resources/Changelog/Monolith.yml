@@ -7760,3 +7760,12 @@ Entries:
   id: 881
   time: '2025-07-17T05:50:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1447
+- author: BoskiYourk
+  changes:
+    - type: Add
+      message: Added Baikal Station
+    - type: Remove
+      message: Removed Camelot Station
+  id: 882
+  time: '2025-07-17T05:53:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1449
