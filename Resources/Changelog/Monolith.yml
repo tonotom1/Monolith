@@ -7769,3 +7769,10 @@ Entries:
   id: 882
   time: '2025-07-17T05:53:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1449
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds cool colored widebrim hats to contractor loadout.
+  id: 883
+  time: '2025-07-17T05:53:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1445
