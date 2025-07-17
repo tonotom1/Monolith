@@ -7812,3 +7812,10 @@ Entries:
   id: 886
   time: '2025-07-17T18:03:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1409
+- author: ScyronX
+  changes:
+    - type: Add
+      message: Added toggleable IFF signature to jumpsuits!
+  id: 887
+  time: '2025-07-17T18:04:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1458
