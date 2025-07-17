@@ -7776,3 +7776,12 @@ Entries:
   id: 883
   time: '2025-07-17T05:53:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1445
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Mindshield implant description no longer states that they "ensure
+        loyalty" in desc
+  id: 884
+  time: '2025-07-17T05:55:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1446
