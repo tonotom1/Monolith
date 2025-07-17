@@ -7735,3 +7735,12 @@ Entries:
   id: 879
   time: '2025-07-17T03:16:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1444
+- author: Redrover1760
+  changes:
+    - type: Remove
+      message: CTLA 25s/50 from Drivevend
+    - type: Remove
+      message: CTLA 25s from Fracture
+  id: 880
+  time: '2025-07-17T05:37:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1450
