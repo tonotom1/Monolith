@@ -7728,3 +7728,10 @@ Entries:
   id: 878
   time: '2025-07-17T02:55:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1437
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Shields no longer overlap onto grids/entities
+  id: 879
+  time: '2025-07-17T03:16:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1444
