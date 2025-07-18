@@ -7867,3 +7867,10 @@ Entries:
   id: 893
   time: '2025-07-18T00:43:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1466
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: The EG-4 has been tuned, increasing its damage output
+  id: 894
+  time: '2025-07-18T00:45:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1467
