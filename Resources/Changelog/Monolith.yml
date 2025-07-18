@@ -7930,3 +7930,13 @@ Entries:
   id: 901
   time: '2025-07-18T15:57:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1468
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Buffed MLA-34 and MLA-79 smartgun firerates. (MLA34 buffed to 8 RPS,
+        MLA79 buffed to 9.5 RPS). Also buffed homing capability of
+        smart-bullets.
+  id: 902
+  time: '2025-07-18T15:58:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1463
