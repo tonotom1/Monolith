@@ -7874,3 +7874,10 @@ Entries:
   id: 894
   time: '2025-07-18T00:45:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1467
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Docked FTL should be more consistent.
+  id: 895
+  time: '2025-07-18T14:38:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1472
