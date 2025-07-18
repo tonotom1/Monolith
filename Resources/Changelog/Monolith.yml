@@ -7918,3 +7918,15 @@ Entries:
   id: 900
   time: '2025-07-18T15:47:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1429
+- author: BoskiYourk
+  changes:
+    - type: Tweak
+      message: >-
+        Updated the Bar/Kitchen and Atmos on Baikal. Baikal's armory is now
+        locked to basic USSP instead of USSP command. Updated dock station
+        beacons. Docks are now visible through mass scanners.
+    - type: Fix
+      message: Fixed multiple power issues on Baikal
+  id: 901
+  time: '2025-07-18T15:57:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1468
