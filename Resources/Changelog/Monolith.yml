@@ -7860,3 +7860,10 @@ Entries:
   id: 892
   time: '2025-07-17T23:46:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1423
+- author: Scyron
+  changes:
+    - type: Tweak
+      message: buffed 7.62x39 damage to be higher then 5.56x45!
+  id: 893
+  time: '2025-07-18T00:43:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1466
