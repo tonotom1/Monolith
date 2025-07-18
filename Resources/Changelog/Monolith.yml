@@ -7897,3 +7897,10 @@ Entries:
   id: 897
   time: '2025-07-18T15:02:07.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1471
+- author: starch70
+  changes:
+    - type: Add
+      message: Added a new IFF-hidden POI. It'll spawn 4.5km-7.5km away from 0, 0.
+  id: 898
+  time: '2025-07-18T15:03:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1469
