@@ -7881,3 +7881,12 @@ Entries:
   id: 895
   time: '2025-07-18T14:38:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1472
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: >-
+        the MIL-Arkansaw, a Cult of the Machine God ARK ship, made to be a
+        capital sized mech carrier. 
+  id: 896
+  time: '2025-07-18T15:01:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1457
