@@ -7956,3 +7956,10 @@ Entries:
   id: 904
   time: '2025-07-18T19:14:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1473
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Maybe fixes food being deleted by shields
+  id: 905
+  time: '2025-07-18T20:08:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1478
