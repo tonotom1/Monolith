@@ -7904,3 +7904,10 @@ Entries:
   id: 898
   time: '2025-07-18T15:03:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1469
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: Added the HES Phaeron, a heavy-duty gas tanker.
+  id: 899
+  time: '2025-07-18T15:09:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1401
