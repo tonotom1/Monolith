@@ -7940,3 +7940,12 @@ Entries:
   id: 902
   time: '2025-07-18T15:58:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1463
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        With the dust settled, the Sellsword can return to a lower price
+        bracket.
+  id: 903
+  time: '2025-07-18T16:03:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1470
