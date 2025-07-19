@@ -7988,3 +7988,10 @@ Entries:
   id: 907
   time: '2025-07-19T05:23:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1441
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Rhymatine no longer has Radiation damage.
+  id: 908
+  time: '2025-07-19T06:13:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1481
