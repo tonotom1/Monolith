@@ -8022,3 +8022,12 @@ Entries:
   id: 911
   time: '2025-07-19T14:19:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1487
+- author: Rubeebeebee
+  changes:
+    - type: Tweak
+      message: >-
+        changed the description of the arkansaw to add a warning to non-cult
+        members. 
+  id: 912
+  time: '2025-07-19T17:46:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1490
