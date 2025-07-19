@@ -7995,3 +7995,12 @@ Entries:
   id: 908
   time: '2025-07-19T06:13:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1481
+- author: starch70
+  changes:
+    - type: Add
+      message: Expeditions can now generate with weather.
+    - type: Tweak
+      message: Daylight can now generate on non-grasslands expeditions.
+  id: 909
+  time: '2025-07-19T06:18:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1482
