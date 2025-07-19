@@ -8031,3 +8031,12 @@ Entries:
   id: 912
   time: '2025-07-19T17:46:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1490
+- author: Rubeebeebee
+  changes:
+    - type: Remove
+      message: >-
+        mentions of non-cultists getting piloting the arkansaw getting attacked
+        by cult members. 
+  id: 913
+  time: '2025-07-19T18:01:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1491
