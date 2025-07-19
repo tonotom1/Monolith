@@ -7963,3 +7963,13 @@ Entries:
   id: 905
   time: '2025-07-18T20:08:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1478
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Polaris POI being able to recieve dead-drop notes, missing grav
+        gen, having same IFF color as Lancelot, and having an unnamed fax
+        machine.
+  id: 906
+  time: '2025-07-19T04:49:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1480
