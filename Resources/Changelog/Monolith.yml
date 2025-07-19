@@ -7973,3 +7973,18 @@ Entries:
   id: 906
   time: '2025-07-19T04:49:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1480
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Engine update. Report all new funky bugs.
+    - type: Tweak
+      message: Shuttles collision adjusted.
+    - type: Tweak
+      message: Removes Lag for real no really
+    - type: Tweak
+      message: Wizden exped lighting stuff.
+    - type: Tweak
+      message: Optimizations. Tons.
+  id: 907
+  time: '2025-07-19T05:23:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1441
