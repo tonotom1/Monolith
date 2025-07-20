@@ -8040,3 +8040,12 @@ Entries:
   id: 913
   time: '2025-07-19T18:01:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1491
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Anaconda pistol recharge rate increased to 1 bullet per second
+    - type: Tweak
+      message: Hawk pistol recharge rate increased to 1 bullet per 1.5 seconds
+  id: 914
+  time: '2025-07-20T00:08:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1492
