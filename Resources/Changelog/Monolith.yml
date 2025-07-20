@@ -8105,3 +8105,10 @@ Entries:
   id: 920
   time: '2025-07-20T03:38:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1498
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed weather SFX persisting after exped end.
+  id: 921
+  time: '2025-07-20T03:59:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1500
