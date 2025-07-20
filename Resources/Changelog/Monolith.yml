@@ -8049,3 +8049,14 @@ Entries:
   id: 914
   time: '2025-07-20T00:08:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1492
+- author: starch70
+  changes:
+    - type: Add
+      message: You really don't wanna spill natural Letoferol now.
+    - type: Add
+      message: Chimeras are finally strippable.
+    - type: Tweak
+      message: Buffed chimera bone spikes to have 1u of letoferol instead of 0.25u
+  id: 915
+  time: '2025-07-20T01:44:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1486
