@@ -8098,3 +8098,10 @@ Entries:
   id: 919
   time: '2025-07-20T01:51:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1489
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Ghost toggle light fixed
+  id: 920
+  time: '2025-07-20T03:38:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1498
