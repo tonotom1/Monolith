@@ -8190,3 +8190,12 @@ Entries:
   id: 927
   time: '2025-07-20T07:32:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1506
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Protein can once again be centrifuged from blood and slimepeople are
+        food faucets again. Nature is recovering.
+  id: 928
+  time: '2025-07-20T14:41:07.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1509
