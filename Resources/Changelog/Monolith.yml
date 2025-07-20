@@ -8067,3 +8067,10 @@ Entries:
   id: 916
   time: '2025-07-20T01:45:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1496
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Wspr duffel/weapon cases come with extra mags and subsonic ammo boxes
+  id: 917
+  time: '2025-07-20T01:45:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1495
