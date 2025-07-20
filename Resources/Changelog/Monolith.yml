@@ -8153,3 +8153,22 @@ Entries:
   id: 924
   time: '2025-07-20T07:29:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1501
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Updated Europa to have semiotics, and changed some of the reinforced
+        walls in the back around engineering to Plastitanium. The place where
+        the shield console used to be has a radar console instead now.
+    - type: Tweak
+      message: >-
+        Calypso now gets 4x ASM-302s, and price has been increased to 160k from
+        145k.
+    - type: Tweak
+      message: >-
+        Improved wiring on Calypso, Europa, and Scorpion (added more APCs,
+        connected APC networks). This should result in less Europa Thruster
+        Death Syndrome.
+  id: 925
+  time: '2025-07-20T07:30:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1503
