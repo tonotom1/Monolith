@@ -8112,3 +8112,22 @@ Entries:
   id: 921
   time: '2025-07-20T03:59:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1500
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added new sprites from RMC for 8x65mm SKR ammo boxes. Also added
+        practice and incendiary ammo types, unobtainable for now.
+    - type: Add
+      message: Ported DV med resprites (#3420 from Solaris7518)
+    - type: Add
+      message: >-
+        Ported Imp atmos devices drawing over catwalks (#2096 from
+        DinnerCalzone)
+    - type: Add
+      message: Ported /tg/ toolbox sprites from Imp (#3037 from DinnerCalzone)
+    - type: Tweak
+      message: 8x65mm SKR ammo boxes fit 100 rounds now instead of 75.
+  id: 922
+  time: '2025-07-20T06:47:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1499
