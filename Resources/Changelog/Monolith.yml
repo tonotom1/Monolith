@@ -8230,3 +8230,12 @@ Entries:
   id: 931
   time: '2025-07-20T19:36:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1513
+- author: core-mene
+  changes:
+    - type: Fix
+      message: Arachnid UI (STILL GOTTA RESIZE STRIPPING UI TO ACCESS NEW SLOTS)
+    - type: Fix
+      message: PDA slot not existing in strip menu
+  id: 932
+  time: '2025-07-20T19:38:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1510
