@@ -8239,3 +8239,14 @@ Entries:
   id: 932
   time: '2025-07-20T19:38:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1510
+- author: Honestly101
+  changes:
+    - type: Add
+      message: Added Potted plants and other items to Rogue hideout.
+    - type: Add
+      message: Added Garry to Rogue hideout, he watches the rogue commander sleep.
+    - type: Fix
+      message: Fixed disposal pipes and atmos pipes in Rogue hideout.
+  id: 933
+  time: '2025-07-20T19:41:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1508
