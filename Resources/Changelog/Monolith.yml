@@ -8250,3 +8250,12 @@ Entries:
   id: 933
   time: '2025-07-20T19:41:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1508
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        TSFMC and Security backpack are now 2 different bags. Security backpack
+        renamed to tactical backpack and doesn't have the blue accent.
+  id: 934
+  time: '2025-07-20T23:02:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1520
