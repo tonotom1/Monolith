@@ -8060,3 +8060,10 @@ Entries:
   id: 915
   time: '2025-07-20T01:44:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1486
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Food no longer loses reagent capacity as you eat it.
+  id: 916
+  time: '2025-07-20T01:45:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1496
