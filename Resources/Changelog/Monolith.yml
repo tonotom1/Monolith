@@ -8183,3 +8183,10 @@ Entries:
   id: 926
   time: '2025-07-20T07:32:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1504
+- author: starch70
+  changes:
+    - type: Add
+      message: Added more lobby music.
+  id: 927
+  time: '2025-07-20T07:32:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1506
