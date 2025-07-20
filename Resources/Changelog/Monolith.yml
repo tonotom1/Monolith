@@ -8215,3 +8215,18 @@ Entries:
   id: 930
   time: '2025-07-20T15:49:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1477
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        TSFMC now uses black combat gloves and chest rigs, and can equip
+        balaclavas, neck gaiters, and large chest rigs in loadout.
+    - type: Add
+      message: >-
+        Mercenaries now have the new duffels, gloves, chest rigs, armor vests,
+        jumpsuits, ballistic goggles/glasses, and ski-masks in loadout now.
+    - type: Tweak
+      message: Faction loadout Lecters are now free, and default for TSFMC.
+  id: 931
+  time: '2025-07-20T19:36:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1513
