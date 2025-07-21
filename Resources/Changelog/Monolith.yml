@@ -8420,3 +8420,12 @@ Entries:
   id: 949
   time: '2025-07-21T22:59:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1542
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: binoculars added to tools loadout, bountyvend, and tsfmc vend
+    - type: Add
+      message: Donuts to TSFMCvend contra inventory
+  id: 950
+  time: '2025-07-21T23:00:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1544
