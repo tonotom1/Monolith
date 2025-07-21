@@ -8330,3 +8330,14 @@ Entries:
   id: 940
   time: '2025-07-21T09:13:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1532
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Mech integrities have been buffed, so they should be more durable now.
+    - type: Tweak
+      message: >-
+        All S2/S4 mech weapons have been buffed in some way (more firerate,
+        better accuracy, projectile speed, etc)
+  id: 941
+  time: '2025-07-21T09:15:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1535
