@@ -8259,3 +8259,22 @@ Entries:
   id: 934
   time: '2025-07-20T23:02:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1520
+- author: starch70
+  changes:
+    - type: Add
+      message: Added ASM-220 torpedo VLS. Currently only mapped on Calypso.
+    - type: Tweak
+      message: Replaced Calypso ASM-302 pods with 2x VLS.
+    - type: Tweak
+      message: >-
+        Charons (and new ASM-220) are now manually loaded. Research the ammo for
+        both in your faction R&D server. Station/ADS Charons remain unaffected.
+        Dagger, Anaconda, Calypso, and Serpent have had mapping changes to
+        account for this.
+    - type: Tweak
+      message: >-
+        Buffed Charon explosion & projectile damage to compensate for manual
+        loading. Have fun going through 3 layers of plastitanium now.
+  id: 935
+  time: '2025-07-21T00:31:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1524
