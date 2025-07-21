@@ -8407,3 +8407,16 @@ Entries:
   id: 948
   time: '2025-07-21T22:57:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1546
+- author: core-mene
+  changes:
+    - type: Fix
+      message: Large chest rig not fitting medium items
+    - type: Fix
+      message: Being unable to eat with BPHelmetLight
+    - type: Tweak
+      message: S.O.M. masks now dissapear when untoggled
+    - type: Tweak
+      message: all hardsuits can now be removed without having to untoggle helmet
+  id: 949
+  time: '2025-07-21T22:59:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1542
