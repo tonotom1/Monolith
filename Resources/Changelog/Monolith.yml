@@ -8292,3 +8292,23 @@ Entries:
   id: 937
   time: '2025-07-21T01:36:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1528
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        TARNYX now needs manual reload, w/ a round capacity of 3 shells. Also
+        new AP shells for TARNYX. I wouldn't suggest using them. Don't worry.
+        The shells are cheap.
+    - type: Tweak
+      message: >-
+        Torpedo research moved to T2. Also switched the icon out so it wasnt
+        stupidly big.
+    - type: Tweak
+      message: >-
+        Tweaked scale of ASM-220 torpedo sprites, and changed the ECM torpedo
+        sprite.
+    - type: Tweak
+      message: TARNYX firerate doubled.
+  id: 938
+  time: '2025-07-21T05:12:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1529
