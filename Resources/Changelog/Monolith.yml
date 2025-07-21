@@ -8312,3 +8312,10 @@ Entries:
   id: 938
   time: '2025-07-21T05:12:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1529
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Buy confirmation button for buying ships
+  id: 939
+  time: '2025-07-21T05:35:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1530
