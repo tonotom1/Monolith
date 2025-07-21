@@ -8386,3 +8386,15 @@ Entries:
   id: 946
   time: '2025-07-21T17:23:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1526
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Various scoped weapons now have a small to medium slowdown depending on
+        scope range, should make it feel better to use with your screen not
+        moving as fast.
+    - type: Tweak
+      message: Hristov is now bolt action, adds a bit more fire-rate.
+  id: 947
+  time: '2025-07-21T22:56:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1545
