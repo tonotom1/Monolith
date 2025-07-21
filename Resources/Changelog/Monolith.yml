@@ -8341,3 +8341,10 @@ Entries:
   id: 941
   time: '2025-07-21T09:15:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1535
+- author: DVDPlayerOfDiscordFame
+  changes:
+    - type: Add
+      message: Ported Impstation muzzle flashes.
+  id: 942
+  time: '2025-07-21T09:16:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1534
