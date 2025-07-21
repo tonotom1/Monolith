@@ -8379,3 +8379,10 @@ Entries:
   id: 945
   time: '2025-07-21T17:03:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1541
+- author: Da_Shadow_Wizard
+  changes:
+    - type: Add
+      message: Added a Lorepage to the Guidebook
+  id: 946
+  time: '2025-07-21T17:23:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1526
