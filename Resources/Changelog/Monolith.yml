@@ -8278,3 +8278,10 @@ Entries:
   id: 935
   time: '2025-07-21T00:31:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1524
+- author: IndependentSpacer
+  changes:
+    - type: Tweak
+      message: Added the WarlorD suit as a loadout option for mercs
+  id: 936
+  time: '2025-07-21T01:33:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1527
