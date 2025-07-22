@@ -8429,3 +8429,14 @@ Entries:
   id: 950
   time: '2025-07-21T23:00:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1544
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        Adds a bunch of armors and drip to starting merc loadout, includes a sec
+        modsuit.
+    - type: Add
+      message: Also adds sec modsuit to security guard loadout
+  id: 951
+  time: '2025-07-22T00:23:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1514
