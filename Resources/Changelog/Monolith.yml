@@ -8489,3 +8489,14 @@ Entries:
   id: 956
   time: '2025-07-22T03:22:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1554
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Salvage expeditions have more budget per difficulty now. (this should
+        affect things like how many enemies spawn, how much loot, what weather,
+        what temp, atmos, etc). Should also fix expedition console bricking
+        sometimes, and barely any loot spawning other times.
+  id: 957
+  time: '2025-07-22T03:44:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1555
