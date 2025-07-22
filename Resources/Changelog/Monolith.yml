@@ -8440,3 +8440,10 @@ Entries:
   id: 951
   time: '2025-07-22T00:23:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1514
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Vulture price increased to 265k to match standard ship pricing.
+  id: 952
+  time: '2025-07-22T02:45:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1550
