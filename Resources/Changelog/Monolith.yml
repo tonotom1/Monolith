@@ -8467,3 +8467,14 @@ Entries:
   id: 954
   time: '2025-07-22T03:12:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1552
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Chemmaster and Chemical dispenser, M-90, 8x65mm SKR mags, and Computers
+        now use Shiptest sprites.
+    - type: Tweak
+      message: Updated SFX for M-90, MR-8C, MR-8B, and DP-29.
+  id: 955
+  time: '2025-07-22T03:14:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1539
