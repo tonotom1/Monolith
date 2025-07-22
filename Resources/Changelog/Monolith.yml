@@ -8500,3 +8500,13 @@ Entries:
   id: 957
   time: '2025-07-22T03:44:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1555
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Ported DV PDA sprites. Except USSP PDAs. Someone else can do USSP PDA
+        sprites. Still no fancy Goob ID cards because I don't feel like spriting
+        it.
+  id: 958
+  time: '2025-07-22T07:11:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1536
