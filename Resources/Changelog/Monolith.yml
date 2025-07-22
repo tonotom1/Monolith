@@ -8552,3 +8552,10 @@ Entries:
   id: 962
   time: '2025-07-22T23:14:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1565
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Resin Jelly no longer causes errors to the game on use
+  id: 963
+  time: '2025-07-22T23:59:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1568
