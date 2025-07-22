@@ -1,3 +1,20 @@
+// SPDX-FileCopyrightText: 2023 Cheackraze
+// SPDX-FileCopyrightText: 2023 Checkraze
+// SPDX-FileCopyrightText: 2024 Dvir
+// SPDX-FileCopyrightText: 2024 Ed
+// SPDX-FileCopyrightText: 2024 Leon Friedrich
+// SPDX-FileCopyrightText: 2024 MilenVolf
+// SPDX-FileCopyrightText: 2024 Nemanja
+// SPDX-FileCopyrightText: 2024 Pieter-Jan Briers
+// SPDX-FileCopyrightText: 2024 Plykiya
+// SPDX-FileCopyrightText: 2024 TemporalOroboros
+// SPDX-FileCopyrightText: 2024 deltanedas
+// SPDX-FileCopyrightText: 2025 Ark
+// SPDX-FileCopyrightText: 2025 Redrover1760
+// SPDX-FileCopyrightText: 2025 metalgearsloth
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 using System.Linq;
 using System.Numerics;
 using System.Threading.Tasks;
@@ -32,6 +49,7 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Threading;
 using Robust.Shared.Utility;
+using Robust.Shared.Timing; // Mono
 using ChunkIndicesEnumerator = Robust.Shared.Map.Enumerators.ChunkIndicesEnumerator;
 
 namespace Content.Server.Parallax;
@@ -61,6 +79,7 @@ public sealed partial class BiomeSystem : SharedBiomeSystem
     private readonly HashSet<EntityUid> _handledEntities = new();
     private const float DefaultLoadRange = 16f;
     private float _loadRange = DefaultLoadRange;
+    private readonly TimeSpan _maximumProcessTime = TimeSpan.FromMilliseconds(8);
     private static readonly ProtoId<TagPrototype> AllowBiomeLoadingTag = "AllowBiomeLoading";
 
     private List<(Vector2i, Tile)> _tiles = new();
@@ -262,7 +281,7 @@ public sealed partial class BiomeSystem : SharedBiomeSystem
         if (!TryComp<BiomeComponent>(targetMapUid, out var biome))
             return;
 
-        var preloadArea = new Vector2(32f, 32f);
+        var preloadArea = new Vector2(256f, 256f); // 32->256 Mono
         var targetArea = new Box2(targetMap.Position - preloadArea, targetMap.Position + preloadArea);
         Preload(targetMapUid, biome, targetArea);
     }
@@ -331,7 +350,7 @@ public sealed partial class BiomeSystem : SharedBiomeSystem
     {
         base.Update(frameTime);
         var biomes = AllEntityQuery<BiomeComponent>();
-
+        var overallWatch = new Stopwatch(); // Mono
 
         while (biomes.MoveNext(out var biome))
         {
@@ -341,7 +360,6 @@ public sealed partial class BiomeSystem : SharedBiomeSystem
             _activeChunks.Add(biome, _tilePool.Get());
             _markerChunks.GetOrNew(biome);
         }
-
         // Get chunks in range
         foreach (var pSession in Filter.GetAllPlayers(_playerManager))
         {
@@ -385,8 +403,12 @@ public sealed partial class BiomeSystem : SharedBiomeSystem
 
         var loadBiomes = AllEntityQuery<BiomeComponent, MapGridComponent>();
 
+        overallWatch.Start(); // Mono
         while (loadBiomes.MoveNext(out var gridUid, out var biome, out var grid))
         {
+            if (overallWatch.Elapsed > _maximumProcessTime) // Mono
+                return;
+
             // If not MapInit don't run it.
             if (biome.LifeStage < ComponentLifeStage.Running)
                 continue;
@@ -397,7 +419,7 @@ public sealed partial class BiomeSystem : SharedBiomeSystem
             // Load new chunks
             LoadChunks(biome, gridUid, grid, biome.Seed);
             // Unload old chunks
-            UnloadChunks(biome, gridUid, grid, biome.Seed);
+            //UnloadChunks(biome, gridUid, grid, biome.Seed); // Mono this fixes lag no really
         }
 
         _handledEntities.Clear();
