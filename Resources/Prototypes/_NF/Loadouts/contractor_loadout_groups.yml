@@ -696,7 +696,8 @@
   - ContractorClothingNeckMantleCE
   - ContractorClothingNeckCloakVoid
   - ContractorClothingNeckBling
-  - ContractorClothingArmbandUNSA
+  - ContractorClothingNeckArmbandUNSA
+  - ContractorClothingNeckMantleBH # Mono
 
 - type: loadoutGroup
   id: ContractorPDA
