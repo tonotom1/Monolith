@@ -8447,3 +8447,10 @@ Entries:
   id: 952
   time: '2025-07-22T02:45:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1550
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Killer tomatos hurt more now
+  id: 953
+  time: '2025-07-22T02:59:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1523
