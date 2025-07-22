@@ -8454,3 +8454,16 @@ Entries:
   id: 953
   time: '2025-07-22T02:59:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1523
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added CTLA-160 as a heavy, unanchorable FTL drive w/ a long cooldown and
+        travel time, w/ 25km range.
+    - type: Add
+      message: Mapped CTLA-160 on Drakon, Vega, and Meteor
+    - type: Tweak
+      message: Raised Meteor price to 92.5k.
+  id: 954
+  time: '2025-07-22T03:12:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1552
