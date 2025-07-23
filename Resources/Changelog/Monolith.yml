@@ -8581,3 +8581,12 @@ Entries:
   id: 965
   time: '2025-07-23T03:36:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1567
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Almost all materials (sheets, ingots and whatnot) use Shiptest sprites
+        now.
+  id: 966
+  time: '2025-07-23T03:37:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1566
