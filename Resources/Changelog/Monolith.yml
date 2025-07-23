@@ -8564,3 +8564,20 @@ Entries:
   id: 964
   time: '2025-07-23T01:07:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1570
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        AME jars now hold 400 fuel instead of 1250. AME jars are also 2x4 in bag
+        now instead of 2x2.
+    - type: Add
+      message: >-
+        Added high-capacity AME fuel jars to Faction Universal research (T2),
+        containing 1250 units of fuel.
+    - type: Add
+      message: >-
+        AME fuel jars (both high-capacity and normal) can be found on expeds in
+        Supply and Engineering areas.
+  id: 965
+  time: '2025-07-23T03:36:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1567
