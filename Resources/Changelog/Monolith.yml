@@ -8600,3 +8600,10 @@ Entries:
   id: 967
   time: '2025-07-23T17:34:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1581
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: AME fuel changes undone. 1250 for now.
+  id: 968
+  time: '2025-07-23T18:16:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1582
