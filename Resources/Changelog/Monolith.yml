@@ -8666,3 +8666,12 @@ Entries:
   id: 975
   time: '2025-07-24T03:37:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1591
+- author: SarahRaven
+  changes:
+    - type: Add
+      message: >-
+        Added a TEG Crate to the Cargo Request Console. Atmosians go have fun
+        making use of that Tritium and Frezon you all have... right?
+  id: 976
+  time: '2025-07-24T03:39:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1549
