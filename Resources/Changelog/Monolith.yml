@@ -8659,3 +8659,10 @@ Entries:
   id: 974
   time: '2025-07-24T03:36:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1590
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Big air tanks are have double volume/gas in them
+  id: 975
+  time: '2025-07-24T03:37:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1591
