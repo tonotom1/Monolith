@@ -8652,3 +8652,10 @@ Entries:
   id: 973
   time: '2025-07-24T01:51:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1586
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Gas canisters have collision again
+  id: 974
+  time: '2025-07-24T03:36:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1590
