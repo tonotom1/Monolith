@@ -8721,3 +8721,10 @@ Entries:
   id: 982
   time: '2025-07-24T17:49:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1597
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Prowler is voucher only now (aka locked behind the t3 tech and mats)
+  id: 983
+  time: '2025-07-24T19:26:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1599
