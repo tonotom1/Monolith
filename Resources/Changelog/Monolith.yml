@@ -8645,3 +8645,10 @@ Entries:
   id: 972
   time: '2025-07-24T01:50:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1587
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: WSPR burst firerate/cooldown/projectile speed buffed, made burst only
+  id: 973
+  time: '2025-07-24T01:51:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1586
