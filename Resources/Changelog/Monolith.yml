@@ -8707,3 +8707,10 @@ Entries:
   id: 980
   time: '2025-07-24T16:52:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1583
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Players shouldn't be deleted by grid cleanup anymore
+  id: 981
+  time: '2025-07-24T17:39:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1596
