@@ -8714,3 +8714,10 @@ Entries:
   id: 981
   time: '2025-07-24T17:39:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1596
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Cap hardsuit slowdown reduced from 20% to 10%
+  id: 982
+  time: '2025-07-24T17:49:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1597
