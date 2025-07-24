@@ -8636,3 +8636,12 @@ Entries:
   id: 971
   time: '2025-07-24T01:50:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1588
+- author: BoskiYourk
+  changes:
+    - type: Add
+      message: Added the Big Leady and Ammo to USSP research
+    - type: Add
+      message: Added the shrapnel and incendiary grenades to USSP research
+  id: 972
+  time: '2025-07-24T01:50:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1587
