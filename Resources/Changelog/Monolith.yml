@@ -8607,3 +8607,14 @@ Entries:
   id: 968
   time: '2025-07-23T18:16:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1582
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Updates Engine to latest
+    - type: Fix
+      message: Physics System should not cause as much lag now, less memory issues
+    - type: Tweak
+      message: HSV is now the default color selection instead of RGB
+  id: 969
+  time: '2025-07-24T00:26:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1577
