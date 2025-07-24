@@ -8627,3 +8627,12 @@ Entries:
   id: 970
   time: '2025-07-24T01:23:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1575
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Conflict Rule 1 encourages escalation now instead of enforcing it, and
+        conflict between factions w/o escalation is allowed again.
+  id: 971
+  time: '2025-07-24T01:50:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1588
