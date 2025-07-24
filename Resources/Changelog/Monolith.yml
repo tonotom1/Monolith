@@ -8682,3 +8682,12 @@ Entries:
   id: 977
   time: '2025-07-24T09:17:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1593
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Drozd gunshot SFX not being mono (making it the same volume
+        everywhere)
+  id: 978
+  time: '2025-07-24T09:18:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1589
