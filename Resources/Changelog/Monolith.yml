@@ -8675,3 +8675,10 @@ Entries:
   id: 976
   time: '2025-07-24T03:39:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1549
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Grilles under diagonal windows no longer electrocute you.
+  id: 977
+  time: '2025-07-24T09:17:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1593
