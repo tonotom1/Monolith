@@ -8790,3 +8790,24 @@ Entries:
   id: 990
   time: '2025-07-25T16:54:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1611
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added an alternate jumpsuit option for TSF in a nice desert tan. Also
+        added blue armbands to TSF jumpsuits.
+    - type: Add
+      message: >-
+        TSFMC gets unique chest rigs now. and TSFMCdrobe has been updated for
+        new TSF drip.
+    - type: Add
+      message: >-
+        TSF can now get tactical backpacks in loadout, and helmets/hats aren't
+        required now. Get kevlar on your head anyways.
+    - type: Tweak
+      message: >-
+        Changed TSFMC and Rogues department name (the category in crew
+        monitoring/character creator)
+  id: 991
+  time: '2025-07-25T18:51:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1605
