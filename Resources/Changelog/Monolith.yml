@@ -8780,3 +8780,13 @@ Entries:
   id: 989
   time: '2025-07-25T09:57:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1578
+- author: Nope1356
+  changes:
+    - type: Tweak
+      message: >-
+        Rewrote description to be less murder murder kill kill stabby stab. Too
+        provocative and encouraged killing literally everyone. Do Not Fucking
+        Kill Everyone You Idiotic Luddites.
+  id: 990
+  time: '2025-07-25T16:54:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1611
