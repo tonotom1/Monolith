@@ -8735,3 +8735,10 @@ Entries:
   id: 984
   time: '2025-07-25T00:46:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1600
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed the Anaconda's CHARON not being manual reload.
+  id: 985
+  time: '2025-07-25T00:47:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1602
