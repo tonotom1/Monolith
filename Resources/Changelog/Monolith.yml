@@ -8742,3 +8742,10 @@ Entries:
   id: 985
   time: '2025-07-25T00:47:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1602
+- author: BoskiYourk
+  changes:
+    - type: Add
+      message: Added large thrusters for capital ships
+  id: 986
+  time: '2025-07-25T04:43:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1604
