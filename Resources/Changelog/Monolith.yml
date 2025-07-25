@@ -8749,3 +8749,16 @@ Entries:
   id: 986
   time: '2025-07-25T04:43:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1604
+- author: starch70
+  changes:
+    - type: Add
+      message: Remapped the Flyssa yet again. I love this shit.
+    - type: Tweak
+      message: >-
+        Updated the Skalpel to more modern standards (and thus finally giving it
+        the oh-so-needed sink). Also gave it the stupid medipen making machine.
+    - type: Fix
+      message: Fixed mechs vanishing instead of destroying normally.
+  id: 987
+  time: '2025-07-25T09:50:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1607
