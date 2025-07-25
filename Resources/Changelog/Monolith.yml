@@ -8811,3 +8811,14 @@ Entries:
   id: 991
   time: '2025-07-25T18:51:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1605
+- author: starch70
+  changes:
+    - type: Add
+      message: Engineering, Rogue, and Admin PDAs now have inbuilt geiger counters.
+    - type: Tweak
+      message: >-
+        Changed bananium generators to not use geiger counter SFX. What was that
+        even about.
+  id: 992
+  time: '2025-07-25T18:53:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1603
