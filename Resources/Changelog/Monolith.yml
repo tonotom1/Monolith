@@ -8911,3 +8911,10 @@ Entries:
   id: 1000
   time: '2025-07-26T13:55:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1622
+- author: cheetah1984
+  changes:
+    - type: Add
+      message: Ported the wizden local material silo
+  id: 1001
+  time: '2025-07-26T14:07:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1620
