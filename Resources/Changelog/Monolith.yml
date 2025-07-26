@@ -8846,3 +8846,15 @@ Entries:
   id: 994
   time: '2025-07-26T00:57:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1608
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Jumpsuit IFF signature renamed to Radar Signature
+    - type: Tweak
+      message: >-
+        It is now, very clear if your jumpsuit radar signature is active, on the
+        pop up message when enabled or disabled, on examining the jumpsuit, and
+        on right click.
+  id: 995
+  time: '2025-07-26T01:30:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1616
