@@ -8935,3 +8935,12 @@ Entries:
   id: 1003
   time: '2025-07-26T20:20:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1558
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: >-
+        You can now shoot down ASM-220 torpedoes, L85 isn't just useful for
+        lagging out the server anymore.
+  id: 1004
+  time: '2025-07-26T23:03:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1627
