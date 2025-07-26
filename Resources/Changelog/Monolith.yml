@@ -8928,3 +8928,10 @@ Entries:
   id: 1002
   time: '2025-07-26T20:18:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1623
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: UNSA Fortunate, a MIL ship made for boarding
+  id: 1003
+  time: '2025-07-26T20:20:02.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1558
