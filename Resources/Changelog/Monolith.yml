@@ -8869,3 +8869,14 @@ Entries:
   id: 996
   time: '2025-07-26T02:47:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1619
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Added blast doors to Flyssa docks.
+    - type: Fix
+      message: >-
+        Fixed Flyssa not having interior cameras for AI, and fixed Flyssa chem
+        not having a sink.
+  id: 997
+  time: '2025-07-26T02:48:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1615
