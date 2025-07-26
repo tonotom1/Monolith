@@ -8887,3 +8887,18 @@ Entries:
   id: 998
   time: '2025-07-26T07:33:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1621
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added a few new maint tiles for mapping, as well as 3 mono-catwalks for
+        white, normal, and dark steel (you can build these too).
+    - type: Add
+      message: >-
+        Monolith-specific tiles (such as the Tunguska's cargo bay tiles) now
+        actually drop their own tile items instead of generic steel.
+    - type: Tweak
+      message: Updated white and normal steel mono tile sprites.
+  id: 999
+  time: '2025-07-26T13:48:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1624
