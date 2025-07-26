@@ -8858,3 +8858,14 @@ Entries:
   id: 995
   time: '2025-07-26T01:30:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1616
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Shirokami to medical dispatch shipyard.
+    - type: Tweak
+      message: >-
+        Nerfed Lancelot cargo sell rates, and reduced plasma gas miner max kPa
+        from 300 to 50.
+  id: 996
+  time: '2025-07-26T02:47:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1619
