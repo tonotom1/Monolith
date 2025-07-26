@@ -8902,3 +8902,12 @@ Entries:
   id: 999
   time: '2025-07-26T13:48:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1624
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        DIS shipset has had it's company specific gear replaced with regular
+        one. 
+  id: 1000
+  time: '2025-07-26T13:55:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1622
