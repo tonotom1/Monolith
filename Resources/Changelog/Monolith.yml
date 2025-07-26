@@ -8918,3 +8918,13 @@ Entries:
   id: 1001
   time: '2025-07-26T14:07:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1620
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added automated ore drills (only works on exped planets/ships on exped)
+        that generate 15 of a random ore (minus bluespace/bananiun) every 5
+        seconds when fed with 50 kW of HV. Buy at exped lodge flatpackvend.
+  id: 1002
+  time: '2025-07-26T20:18:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1623
