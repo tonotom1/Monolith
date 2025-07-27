@@ -9045,3 +9045,12 @@ Entries:
   id: 1015
   time: '2025-07-27T20:35:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1651
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Lecter spawns in weapon cases now.
+    - type: Tweak
+      message: Heavy weapon cases have more space now.
+  id: 1016
+  time: '2025-07-27T20:36:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1650
