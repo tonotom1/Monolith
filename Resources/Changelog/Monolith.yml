@@ -8985,3 +8985,12 @@ Entries:
   id: 1008
   time: '2025-07-27T04:11:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1638
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Updated the hallways of Rogue Insurgency hideout (and some other parts).
+        Mostly just visual updates. No more piss lighting hallways.
+  id: 1009
+  time: '2025-07-27T07:52:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1639
