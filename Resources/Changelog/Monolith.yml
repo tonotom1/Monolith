@@ -9054,3 +9054,28 @@ Entries:
   id: 1016
   time: '2025-07-27T20:36:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1650
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Salvage wreck maints lockers more common and loot pool expanded.
+        Hopefully they should be a bit more fun to open.
+    - type: Tweak
+      message: >-
+        Unremoved exped cloning scanner, syndiedrobe and salvage high cap
+        welding fuel, PACMAN
+    - type: Tweak
+      message: >-
+        Actual salvage bananium, bluespace, and diamonds rates were higher than
+        planned and had to be reduced. Sorry.
+    - type: Tweak
+      message: >-
+        Cargo crates from wrecks have been revised to be much more rewarding and
+        less disruptive to the salvage gameloop.
+    - type: Add
+      message: >-
+        Pill bottle with ten strange pills. Yes, all random. This can be found
+        in the rare salvmaint gacha pool.
+  id: 1017
+  time: '2025-07-27T21:17:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1606
