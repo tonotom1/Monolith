@@ -31,7 +31,6 @@
 
 - type: cargoProduct
   id: EngineSingularityGenerator
-  abstract: true # Frontier
   icon:
     sprite: Structures/Power/Generation/Singularity/generator.rsi
     state: icon
