@@ -8994,3 +8994,12 @@ Entries:
   id: 1009
   time: '2025-07-27T07:52:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1639
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed gas miners being anchorable.
+    - type: Fix
+      message: Fixed Mono catwalks being rotatable.
+  id: 1010
+  time: '2025-07-27T07:53:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1640
