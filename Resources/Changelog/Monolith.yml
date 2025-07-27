@@ -9035,3 +9035,13 @@ Entries:
   id: 1014
   time: '2025-07-27T20:34:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1648
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: >-
+        WSPR now shows its theoretical firerate on examine with well timed
+        bursts of a 7.5 firerate instead of 5 firerate. (This does not actually
+        change how the weapon handles at all)
+  id: 1015
+  time: '2025-07-27T20:35:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1651
