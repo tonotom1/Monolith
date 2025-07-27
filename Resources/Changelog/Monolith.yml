@@ -8944,3 +8944,17 @@ Entries:
   id: 1004
   time: '2025-07-26T23:03:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1627
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        PSBs and water bottles in survival-boxes have been replaced with a more
+        space-efficient MRE.
+    - type: Tweak
+      message: >-
+        Adjusted the color of dark steel tiles and trims, so they should be
+        unified now (minus commercial dark steel tiles). No more dark steel mono
+        tiles looking out of place.
+  id: 1005
+  time: '2025-07-27T01:14:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1630
