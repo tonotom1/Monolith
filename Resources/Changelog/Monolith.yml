@@ -9079,3 +9079,14 @@ Entries:
   id: 1017
   time: '2025-07-27T21:17:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1606
+- author: starch70
+  changes:
+    - type: Remove
+      message: Retired Orit, Miriam, and Eden.
+    - type: Fix
+      message: >-
+        Fixed a minor typo in Tzipora description. Also fixed it being exped
+        capable.
+  id: 1018
+  time: '2025-07-27T21:20:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1646
