@@ -8958,3 +8958,10 @@ Entries:
   id: 1005
   time: '2025-07-27T01:14:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1630
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: minimum range to FTL away from other ships is now 256m
+  id: 1006
+  time: '2025-07-27T02:16:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1092
