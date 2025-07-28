@@ -9090,3 +9090,18 @@ Entries:
   id: 1018
   time: '2025-07-27T21:20:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1646
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added tech disks to exped & salvage loot. Various faction, mech, and civ
+        equipment (like bags of holding, RCDs, and speed-boots, less efficient
+        synthalloy) can be researched via these. Now I can get my free auth
+        disruptor as TSF. Ez.
+    - type: Remove
+      message: >-
+        Removed bags of holding and speed boots from research (now in tech
+        disks!)
+  id: 1019
+  time: '2025-07-28T04:52:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1663
