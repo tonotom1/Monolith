@@ -9121,3 +9121,10 @@ Entries:
   id: 1021
   time: '2025-07-28T21:30:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1665
+- author: Scyron
+  changes:
+    - type: Remove
+      message: Removed fail roleplay.
+  id: 1022
+  time: '2025-07-29T03:33:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1671
