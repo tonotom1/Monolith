@@ -9180,3 +9180,14 @@ Entries:
   id: 1025
   time: '2025-07-29T15:44:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1612
+- author: OneZerooo0
+  changes:
+    - type: Remove
+      message: Removed laser drill flatpacks from the Expeditionary Flatpack vender
+    - type: Tweak
+      message: >-
+        Expedition ore mining drills have been buffed to mining ore every 10
+        seconds, and can now be found in Expeditions!
+  id: 1026
+  time: '2025-07-29T19:34:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1675
