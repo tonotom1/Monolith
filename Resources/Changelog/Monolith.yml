@@ -9171,3 +9171,12 @@ Entries:
   id: 1024
   time: '2025-07-29T15:39:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1674
+- author: Nelliel-ss14
+  changes:
+    - type: Add
+      message: >-
+        The Intermission, new large service medical vessel fitted out to save
+        lives and save appetites.
+  id: 1025
+  time: '2025-07-29T15:44:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1612
