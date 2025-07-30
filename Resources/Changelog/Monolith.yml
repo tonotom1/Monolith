@@ -9291,3 +9291,21 @@ Entries:
   id: 1037
   time: '2025-07-30T07:34:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1693
+- author: starch70
+  changes:
+    - type: Add
+      message: Ported Partial AP
+    - type: Remove
+      message: Removed MR-8B LWWMG. Pending rework if you're lucky.
+    - type: Tweak
+      message: >-
+        MR-8C is now semi-auto only, and MR-3/8C now have actual angle
+        increase/decay values set. 8x65mm damage lowered to 27.5 pierce per
+        shot, but now has 65% AP.
+    - type: Tweak
+      message: >-
+        Lowered MR-8C research cost to 40k points to compensate for MR-8B
+        (temporary, maybe not) removal.
+  id: 1038
+  time: '2025-07-30T10:53:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1694
