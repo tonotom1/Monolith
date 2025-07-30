@@ -9357,3 +9357,12 @@ Entries:
   id: 1043
   time: '2025-07-30T23:18:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1696
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        DIS Olympus and brute have received even more thrusting power. The brake
+        thrusters stay the same, better know how to drive.
+  id: 1044
+  time: '2025-07-30T23:19:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1697
