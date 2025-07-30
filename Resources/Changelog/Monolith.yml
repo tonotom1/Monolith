@@ -9373,3 +9373,12 @@ Entries:
   id: 1045
   time: '2025-07-30T23:20:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1685
+- author: starch70
+  changes:
+    - type: Remove
+      message: >-
+        Removed the hyperlink from SOP and Space Law books until someone can
+        write better ones (nerd). No more stupid NFSD misinformation sir.
+  id: 1046
+  time: '2025-07-30T23:36:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1699
