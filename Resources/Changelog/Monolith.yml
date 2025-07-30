@@ -9366,3 +9366,10 @@ Entries:
   id: 1044
   time: '2025-07-30T23:19:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1697
+- author: BoskiYourk
+  changes:
+    - type: Tweak
+      message: Updated USSP vouchers
+  id: 1045
+  time: '2025-07-30T23:20:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1685
