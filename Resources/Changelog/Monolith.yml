@@ -9331,3 +9331,13 @@ Entries:
   id: 1040
   time: '2025-07-30T20:39:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1456
+- author: grandalff
+  changes:
+    - type: Add
+      message: >-
+        Adds USSP Remontnik, an engineering ship with excellent mining
+        capabilities. Comes with abit of food, light arnament (both ship and
+        personnel) and all the supplies for an engineer.
+  id: 1041
+  time: '2025-07-30T21:53:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1521
