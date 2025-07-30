@@ -9230,3 +9230,10 @@ Entries:
   id: 1031
   time: '2025-07-30T03:43:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1689
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: ASM-220 missile health decreased
+  id: 1032
+  time: '2025-07-30T03:46:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1681
