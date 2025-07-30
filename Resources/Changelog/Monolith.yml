@@ -9382,3 +9382,10 @@ Entries:
   id: 1046
   time: '2025-07-30T23:36:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1699
+- author: starch70
+  changes:
+    - type: Add
+      message: M82 helmet now gets NVGs.
+  id: 1047
+  time: '2025-07-30T23:54:02.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1700
