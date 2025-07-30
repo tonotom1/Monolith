@@ -9262,3 +9262,12 @@ Entries:
   id: 1035
   time: '2025-07-30T06:15:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1690
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: >-
+        Refined ADS Law 3 - [SECTOR INTEGRITY]. ADS can now request overly armed
+        civilians to disarm their vessel as apart of the law.
+  id: 1036
+  time: '2025-07-30T07:16:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1654
