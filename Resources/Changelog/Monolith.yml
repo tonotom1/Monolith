@@ -9348,3 +9348,12 @@ Entries:
   id: 1042
   time: '2025-07-30T22:11:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1476
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Factions can research the incendiary and practice versions of all ammo
+        types used by their guns.
+  id: 1043
+  time: '2025-07-30T23:18:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1696
