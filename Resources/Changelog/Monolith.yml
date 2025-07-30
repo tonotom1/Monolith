@@ -9237,3 +9237,12 @@ Entries:
   id: 1032
   time: '2025-07-30T03:46:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1681
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: DIS Olympus has had it's propulsion improved. Who needs brakes anyways ?
+    - type: Tweak
+      message: Antlion is now properly marked as DIS.
+  id: 1033
+  time: '2025-07-30T03:49:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1679
