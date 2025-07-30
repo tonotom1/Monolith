@@ -9309,3 +9309,18 @@ Entries:
   id: 1038
   time: '2025-07-30T10:53:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1694
+- author: crazy1112345
+  changes:
+    - type: Add
+      message: >-
+        The HES Windreign atmospheric carrier has made its way to the sector!
+        HES is still in a testing phase of the vessel, and has requested any
+        complaints be sent in for review. It seems the nicer gas feeder for it
+        still hasn't arrived...
+    - type: Add
+      message: >-
+        The HES Strato-Rat, a small, minimalistic gas mining feeder for the HES
+        Windreign.
+  id: 1039
+  time: '2025-07-30T20:35:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1383
