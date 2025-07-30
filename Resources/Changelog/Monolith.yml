@@ -9271,3 +9271,23 @@ Entries:
   id: 1036
   time: '2025-07-30T07:16:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1654
+- author: starch70
+  changes:
+    - type: Add
+      message: TSF can equip black ski-masks too now.
+    - type: Tweak
+      message: >-
+        Removed TSF Captain and Cadet, increased playtime requirements for TSF
+        roles. Corporal renamed to Marine, Lieutenant renamed to Fireteam
+        Leader, remaining mentions of Brigmed switched to Corpsman.
+    - type: Tweak
+      message: TSF uplink now starts with 25 more FMC (both Colonel and Marine)
+    - type: Fix
+      message: Fixed balaclavas showing on the wrong layer in loadouts.
+    - type: Fix
+      message: >-
+        Fixed normal-sized TSF webbing equipped sprite not having the blue
+        marking stripe.
+  id: 1037
+  time: '2025-07-30T07:34:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1693
