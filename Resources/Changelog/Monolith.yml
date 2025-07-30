@@ -9255,3 +9255,10 @@ Entries:
   id: 1034
   time: '2025-07-30T06:14:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1691
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Wearing a muzzle now reduces the sound of vocal emotes
+  id: 1035
+  time: '2025-07-30T06:15:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1690
