@@ -9324,3 +9324,10 @@ Entries:
   id: 1039
   time: '2025-07-30T20:35:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1383
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: added the MIL-Claymore
+  id: 1040
+  time: '2025-07-30T20:39:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1456
