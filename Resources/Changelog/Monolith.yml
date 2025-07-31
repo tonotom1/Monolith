@@ -9421,3 +9421,14 @@ Entries:
   id: 1051
   time: '2025-07-31T14:41:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1707
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added more lathe categories (incen ammo, rifles, smgs, combat EVA, etc).
+        Bloat Supreme.
+    - type: Tweak
+      message: Updated visuals of lathe UI.
+  id: 1052
+  time: '2025-07-31T20:04:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1706
