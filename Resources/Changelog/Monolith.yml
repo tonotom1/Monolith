@@ -9439,3 +9439,12 @@ Entries:
   id: 1053
   time: '2025-07-31T20:08:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1560
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Shipgun ranges reworked to not be able to offscreen people for the most
+        part. Guidebook updated.
+  id: 1054
+  time: '2025-07-31T20:17:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1658
