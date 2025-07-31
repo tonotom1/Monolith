@@ -9448,3 +9448,12 @@ Entries:
   id: 1054
   time: '2025-07-31T20:17:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1658
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Gatfruit and capfruit can be swabbed, seeded, and clipped again. Bees
+        can now be swabbed. 
+  id: 1055
+  time: '2025-07-31T20:32:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1712
