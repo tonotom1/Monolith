@@ -9396,3 +9396,12 @@ Entries:
   id: 1048
   time: '2025-07-31T00:42:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1703
+- author: BoskiYourk
+  changes:
+    - type: Add
+      message: >-
+        Added the Ledokol to the USSP shipyard. Have fun in Hyperwar Heaven,
+        comrades!
+  id: 1049
+  time: '2025-07-31T00:56:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1684
