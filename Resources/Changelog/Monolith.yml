@@ -9466,3 +9466,13 @@ Entries:
   id: 1056
   time: '2025-07-31T21:30:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1698
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Higher tier tech disks should be rarer in Sevastopol's printer now.
+        Point disks can also be printed now. Sevastopol moved to be 3.5km-7.5km
+        from 0,0
+  id: 1057
+  time: '2025-07-31T21:57:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1714
