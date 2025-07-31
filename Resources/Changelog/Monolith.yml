@@ -9432,3 +9432,10 @@ Entries:
   id: 1052
   time: '2025-07-31T20:04:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1706
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: 'SEC-Parabellum, a security guard patrol boat '
+  id: 1053
+  time: '2025-07-31T20:08:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1560
