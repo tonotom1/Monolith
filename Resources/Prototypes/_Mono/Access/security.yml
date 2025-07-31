@@ -29,6 +29,9 @@
   - USSPBasic
   - USSPIntermediate
   - USSPAdvanced
+  - USSPLedokol
+  - USSPLedokolRam
+  - USSPLedokolAttatchment
 
 - type: accessGroup
   id: USSPHigh
@@ -40,6 +43,7 @@
   - USSPBasic
   - USSPIntermediate
   - USSPAdvanced
+  - USSPLedokolAttatchment
 
 - type: accessGroup
   id: USSPLow
@@ -50,3 +54,4 @@
   - USSPBasic
   - USSPIntermediate
   - USSPAdvanced
+  - USSPLedokolAttatchment

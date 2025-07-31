@@ -38,3 +38,5 @@
   - BasicVoucherUssp
   - IntermediateVoucherUssp
   - AdvancedVoucherUssp
+  - LedokolVoucherUssp
+  - LedokolRamVoucherUssp
