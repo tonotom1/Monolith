@@ -9457,3 +9457,12 @@ Entries:
   id: 1055
   time: '2025-07-31T20:32:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1712
+- author: Onezero0
+  changes:
+    - type: Add
+      message: >-
+        Added the light munitions bay and three types of ordinance for it.
+        Fighter mappers rejoice!
+  id: 1056
+  time: '2025-07-31T21:30:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1698
