@@ -9412,3 +9412,12 @@ Entries:
   id: 1050
   time: '2025-07-31T14:25:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1704
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Improved UI of bank ATMs, gas canisters, and vending machines, APCs,
+        gunnery control consoles, and loadout options.
+  id: 1051
+  time: '2025-07-31T14:41:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1707
