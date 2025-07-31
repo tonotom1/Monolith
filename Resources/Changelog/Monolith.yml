@@ -9389,3 +9389,10 @@ Entries:
   id: 1047
   time: '2025-07-30T23:54:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1700
+- author: Honestly101
+  changes:
+    - type: Add
+      message: Adds the USSP Destroyer Sulak
+  id: 1048
+  time: '2025-07-31T00:42:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1703
