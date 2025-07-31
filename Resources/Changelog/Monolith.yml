@@ -9405,3 +9405,10 @@ Entries:
   id: 1049
   time: '2025-07-31T00:56:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1684
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Observer mass scanner range increased
+  id: 1050
+  time: '2025-07-31T14:25:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1704
