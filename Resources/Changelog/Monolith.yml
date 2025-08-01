@@ -9485,3 +9485,10 @@ Entries:
   id: 1058
   time: '2025-08-01T02:08:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1720
+- author: AwareFoxy
+  changes:
+    - type: Add
+      message: Added execution room to halcyon
+  id: 1059
+  time: '2025-08-01T15:32:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1730
