@@ -9476,3 +9476,12 @@ Entries:
   id: 1057
   time: '2025-07-31T21:57:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1714
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Volumetric pumps (including scrubbers) set back to their default rate:
+        they were kneecapped by 4x.
+  id: 1058
+  time: '2025-08-01T02:08:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1720
