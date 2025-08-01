@@ -9492,3 +9492,10 @@ Entries:
   id: 1059
   time: '2025-08-01T15:32:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1730
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed 8x65mm having full instead of partial AP.
+  id: 1060
+  time: '2025-08-01T23:31:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1733
