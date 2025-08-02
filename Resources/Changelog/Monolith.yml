@@ -9615,3 +9615,12 @@ Entries:
   id: 1075
   time: '2025-08-02T18:42:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1739
+- author: Avalon-Proto
+  changes:
+    - type: Add
+      message: >-
+        A new form of mining tool has been spotted around the sector, Concussive
+        gauntlets, punching your problems away!
+  id: 1076
+  time: '2025-08-02T19:10:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1718
