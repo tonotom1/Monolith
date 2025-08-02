@@ -9557,3 +9557,10 @@ Entries:
   id: 1067
   time: '2025-08-02T03:37:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1742
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Europa price decreased by 20k.
+  id: 1068
+  time: '2025-08-02T08:12:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1741
