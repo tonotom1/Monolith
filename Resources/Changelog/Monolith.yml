@@ -9527,3 +9527,12 @@ Entries:
   id: 1063
   time: '2025-08-02T01:58:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1726
+- author: Rubeebeebee
+  changes:
+    - type: Tweak
+      message: >-
+        made it so the sabine is a better salvage vessel compared to the cheaper
+        options available. 
+  id: 1064
+  time: '2025-08-02T01:59:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1735
