@@ -9550,3 +9550,10 @@ Entries:
   id: 1066
   time: '2025-08-02T02:01:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1725
+- author: Rubeebeebee
+  changes:
+    - type: Tweak
+      message: 'added a defib and wall recharger to the fracture '
+  id: 1067
+  time: '2025-08-02T03:37:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1742
