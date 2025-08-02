@@ -9513,3 +9513,17 @@ Entries:
   id: 1062
   time: '2025-08-02T01:57:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1736
+- author: Rubeebeebee
+  changes:
+    - type: Tweak
+      message: >-
+        tweak the tokarev's R&D artifact room directional fan so it doesnt
+        trigger the firelock anymore. 
+    - type: Fix
+      message: >-
+        Fixed the tokarev's cryo pod not having any pipes, as well as the wall
+        nanomed in the tokarev not being reachable by just replacing it with a
+        regular nanomed.
+  id: 1063
+  time: '2025-08-02T01:58:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1726
