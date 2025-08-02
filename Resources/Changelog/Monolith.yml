@@ -9608,3 +9608,10 @@ Entries:
   id: 1074
   time: '2025-08-02T18:40:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1682
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Faction base point changed back to 35.
+  id: 1075
+  time: '2025-08-02T18:42:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1739
