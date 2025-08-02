@@ -9601,3 +9601,10 @@ Entries:
   id: 1073
   time: '2025-08-02T18:08:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1746
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: the PB Padval, a mobile factory and storefront!
+  id: 1074
+  time: '2025-08-02T18:40:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1682
