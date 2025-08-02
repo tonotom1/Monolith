@@ -9594,3 +9594,10 @@ Entries:
   id: 1072
   time: '2025-08-02T17:46:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1632
+- author: Rubeebeebee
+  changes:
+    - type: Fix
+      message: 'fixed parabellum''s vacuum tiles not being aligned right, oops. '
+  id: 1073
+  time: '2025-08-02T18:08:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1746
