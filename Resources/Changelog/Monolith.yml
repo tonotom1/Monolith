@@ -9506,3 +9506,10 @@ Entries:
   id: 1061
   time: '2025-08-02T01:19:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1731
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Shield HP decreased across the board.
+  id: 1062
+  time: '2025-08-02T01:57:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1736
