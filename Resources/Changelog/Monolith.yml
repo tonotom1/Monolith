@@ -9578,3 +9578,12 @@ Entries:
   id: 1070
   time: '2025-08-02T09:35:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1737
+- author: ScyronX
+  changes:
+    - type: Tweak
+      message: Vulcan is more accurate but has lower fire rate.
+    - type: Fix
+      message: Fixed vulcan sprite.
+  id: 1071
+  time: '2025-08-02T15:02:07.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1744
