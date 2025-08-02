@@ -9499,3 +9499,10 @@ Entries:
   id: 1060
   time: '2025-08-01T23:31:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1733
+- author: Rubeebeebee
+  changes:
+    - type: Fix
+      message: Added a directional fan to the parabellum's docking block
+  id: 1061
+  time: '2025-08-02T01:19:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1731
