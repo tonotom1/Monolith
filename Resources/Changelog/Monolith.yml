@@ -9673,3 +9673,10 @@ Entries:
   id: 1081
   time: '2025-08-03T06:25:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1749
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed USSP roles getting TSF chest rigs.
+  id: 1082
+  time: '2025-08-03T21:59:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1761
