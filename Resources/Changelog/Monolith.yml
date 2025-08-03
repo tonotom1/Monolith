@@ -9636,3 +9636,12 @@ Entries:
   id: 1078
   time: '2025-08-03T00:43:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1753
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: >-
+        added the NS Ethereal, a neat little science ship shaped like a
+        butterfly!
+  id: 1079
+  time: '2025-08-03T04:34:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1709
