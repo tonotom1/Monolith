@@ -9645,3 +9645,22 @@ Entries:
   id: 1079
   time: '2025-08-03T04:34:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1709
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Removed standard survival boxes from loadout. Only extended variant
+        remains, and costs 0 credits.
+    - type: Tweak
+      message: >-
+        Reworked the loadout extended survival box to take up less inventory
+        space, have more space, and have a whitelist for items it can hold.
+    - type: Tweak
+      message: Survival boxes now contain a mass scanner and two flares.
+    - type: Tweak
+      message: >-
+        Handheld mass scanners (and crew monitors and station maps) now start
+        with a medium power cell.
+  id: 1080
+  time: '2025-08-03T04:36:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1757
