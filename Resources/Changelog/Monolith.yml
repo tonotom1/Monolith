@@ -9705,3 +9705,31 @@ Entries:
   id: 1085
   time: '2025-08-04T16:49:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1759
+- author: starch70
+  changes:
+    - type: Add
+      message: Added ASM-220 LOSAT missiles to T3 universal faction tech.
+    - type: Tweak
+      message: >-
+        Added fighter ordinance to the ship weapon ammo tech disks. Added a
+        rarer variant of the ship ammo tech disk with the T3 ammo types
+        included.
+    - type: Fix
+      message: Fixed label for ship weapon ammo category simply saying "Ship Weapon"
+    - type: Fix
+      message: >-
+        Fixed fighter ordinance not being in other techfabs that could make ship
+        weapon ammo.
+    - type: Tweak
+      message: >-
+        MLA-73 disk moved to T3 in Sevastopol tech disk spawner loot pools from
+        T2.
+    - type: Tweak
+      message: Unanchorable ship weapons will delete when not on a grid now.
+    - type: Tweak
+      message: Fan health reduced to 500 from 1000
+    - type: Fix
+      message: Catwalks floating when off grids.
+  id: 1086
+  time: '2025-08-04T16:53:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1760
