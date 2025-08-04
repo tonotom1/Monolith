@@ -9680,3 +9680,12 @@ Entries:
   id: 1082
   time: '2025-08-03T21:59:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1761
+- author: Rubeebeebee
+  changes:
+    - type: Add
+      message: defibs to the Ethereal
+    - type: Tweak
+      message: the description to the ethereal, removing references to making anomalies
+  id: 1083
+  time: '2025-08-04T12:58:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1762
