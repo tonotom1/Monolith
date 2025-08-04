@@ -9689,3 +9689,10 @@ Entries:
   id: 1083
   time: '2025-08-04T12:58:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1762
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Fax machine UI visuals updated.
+  id: 1084
+  time: '2025-08-04T13:00:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1765
