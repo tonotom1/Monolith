@@ -9696,3 +9696,12 @@ Entries:
   id: 1084
   time: '2025-08-04T13:00:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1765
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Missile scan arcs decreased to decrease friendly fire, guidebook
+        updated.
+  id: 1085
+  time: '2025-08-04T16:49:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1759
