@@ -9740,3 +9740,13 @@ Entries:
   id: 1087
   time: '2025-08-05T02:58:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1772
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Ported recent wizden chem rebalances (and uncucked cryoxadone). Some
+        chems should heal more but slower over time, and Bicaridine wont make
+        Razorium with other brute chems anymore.
+  id: 1088
+  time: '2025-08-05T18:23:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1776
