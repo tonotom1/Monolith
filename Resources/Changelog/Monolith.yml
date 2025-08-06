@@ -9750,3 +9750,10 @@ Entries:
   id: 1088
   time: '2025-08-05T18:23:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1776
+- author: Catazeus
+  changes:
+    - type: Add
+      message: Ported Funky mindshield icon resprite.
+  id: 1089
+  time: '2025-08-06T00:00:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1777
