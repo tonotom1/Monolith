@@ -9787,3 +9787,18 @@ Entries:
   id: 1093
   time: '2025-08-06T17:44:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1780
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Syndie commander suit removed from tech. One exists in rogue base now
+        roundstart for the commander, don't lose it.
+    - type: Tweak
+      message: TSFMC get proper security magboots and jetpacks in their lockers again.
+    - type: Tweak
+      message: USSP Suitstorages get void jetpacks.
+    - type: Tweak
+      message: Void jetpack tech moved to tier 2 civilian, cost reduced to 7500.
+  id: 1094
+  time: '2025-08-06T22:04:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1788
