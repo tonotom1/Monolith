@@ -9771,3 +9771,12 @@ Entries:
   id: 1091
   time: '2025-08-06T01:18:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1778
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        The maints jack is now more usable as an improv weapon, can be wielded,
+        is smaller in storage, and can pry.
+  id: 1092
+  time: '2025-08-06T17:20:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1786
