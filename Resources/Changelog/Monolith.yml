@@ -9802,3 +9802,14 @@ Entries:
   id: 1094
   time: '2025-08-06T22:04:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1788
+- author: starch70
+  changes:
+    - type: Add
+      message: Added 2 more IFF-hidden POIs.
+    - type: Tweak
+      message: >-
+        Changed Lancelot to be IFF-hidden. Lancelot will also not spawn
+        dead-drop notes now because of this.
+  id: 1095
+  time: '2025-08-06T22:05:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1782
