@@ -9780,3 +9780,10 @@ Entries:
   id: 1092
   time: '2025-08-06T17:20:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1786
+- author: Honestly101
+  changes:
+    - type: Add
+      message: Added more faction thrusters.
+  id: 1093
+  time: '2025-08-06T17:44:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1780
