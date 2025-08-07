@@ -9844,3 +9844,14 @@ Entries:
   id: 1098
   time: '2025-08-07T06:46:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1792
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added AK-220 as a shitty cheap SMG to Mercenary loadouts, USSP T1 guns,
+        liberation stations (both PMC and normal), and low-tier expedition loot.
+    - type: Tweak
+      message: USSP can make 9x19mm FMJ/incen/practice SMG mags/ammo boxes now.
+  id: 1099
+  time: '2025-08-07T07:03:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1784
