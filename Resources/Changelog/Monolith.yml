@@ -9864,3 +9864,12 @@ Entries:
   id: 1100
   time: '2025-08-07T14:04:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1711
+- author: tonotom1
+  changes:
+    - type: Add
+      message: Maints jack wield sprite
+    - type: Tweak
+      message: Maints jack combat stats tweaked to be inline with pickaxe.
+  id: 1101
+  time: '2025-08-07T20:07:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1798
