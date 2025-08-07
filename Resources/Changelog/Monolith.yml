@@ -9855,3 +9855,12 @@ Entries:
   id: 1099
   time: '2025-08-07T07:03:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1784
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Rule 1 tweak, justified diplomacy, truces, temporary deals, etc allowed.
+        Permanent, cooperative alliances banned.
+  id: 1100
+  time: '2025-08-07T14:04:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1711
