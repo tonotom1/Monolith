@@ -691,6 +691,7 @@
     - id: WeaponLaserPistolNF
     - id: BoxT3ComponentsAssorted
     - id: PlushieThrongler
+    - id: NFShovel
     
   #Yeh prize
     - !type:GroupSelector
