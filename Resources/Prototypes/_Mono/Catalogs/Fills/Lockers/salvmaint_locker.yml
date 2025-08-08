@@ -693,7 +693,6 @@
       weight: 45
       children:
       - id: PillCanisterStrange
-
       - id: BoxT3ComponentsAssorted
       - id: PlushieThrongler
       - id: NFShovel
