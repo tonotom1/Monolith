@@ -687,12 +687,13 @@
         children:
         - id: WeaponRevolverArgenti
         - id: SpeedLoader5.56x45mmFMJ
+      - id: WeaponLaserPistolNF
   #Meh prize
     - !type:GroupSelector
       weight: 45
       children:
       - id: PillCanisterStrange
-      - id: WeaponLaserPistolNF
+
       - id: BoxT3ComponentsAssorted
       - id: PlushieThrongler
       - id: NFShovel
