@@ -22907,3 +22907,10 @@ Entries:
   id: 2528
   time: '2026-07-22T23:32:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4343
+- author: projectkepler-ru
+  changes:
+    - type: Add
+      message: Lever Action is now available to the merc loadout and tech fab
+  id: 2529
+  time: '2026-07-23T15:33:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4304
