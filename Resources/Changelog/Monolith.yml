@@ -22945,3 +22945,12 @@ Entries:
   id: 2532
   time: '2026-07-24T15:40:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4347
+- author: Ironmoonheathen
+  changes:
+    - type: Tweak
+      message: >-
+        Significantly increased the damage of a maintenance jack so that it may
+        reliably kill people and carp now
+  id: 2533
+  time: '2026-07-24T16:18:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4354
