@@ -22938,3 +22938,10 @@ Entries:
   id: 2531
   time: '2026-07-23T22:01:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4346
+- author: thoughtlessuser
+  changes:
+    - type: Tweak
+      message: Rotates your station.
+  id: 2532
+  time: '2026-07-24T15:40:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4347
