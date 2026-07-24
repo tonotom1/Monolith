@@ -19,7 +19,7 @@
   mapPath: /Maps/_Mono/POI/zetanode.yml
   minPlayers: 0
   stations:
-    Mining:
+    ZetaNode:
       stationProto: RecordsFrontierOutpost
       components:
         - type: StationNameSetup
