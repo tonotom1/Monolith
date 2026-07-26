@@ -22968,3 +22968,10 @@ Entries:
   id: 2535
   time: '2026-07-26T15:23:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4352
+- author: tonotom1
+  changes:
+    - type: Fix
+      message: Prevented standing up when using wheelchair user trait
+  id: 2536
+  time: '2026-07-26T15:23:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4356
