@@ -1,15 +1,15 @@
 - type: entity
   abstract: true
   parent: [BaseItem, RecyclableItemCardboard] # Frontier: added RecyclableItemCardboard
-  id: BaseAmmoBox45_magnum
-  name: ammunition box (.45 magnum FMJ)
+  id: BaseAmmoBox357_magnum
+  name: ammunition box (.357 magnum FMJ)
   components:
   - type: BallisticAmmoProvider
     mayTransfer: true
     whitelist:
       tags:
-        - Cartridge45_magnumFMJ
-    proto: Cartridge45_magnumFMJ
+        - Cartridge357_magnumFMJ
+    proto: Cartridge357_magnumFMJ
     capacity: 32
   - type: Item
     size: Small
@@ -17,7 +17,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Mono/Objects/Weapons/Guns/Ammunition/Boxes/45_magnum.rsi
+    sprite: _Mono/Objects/Weapons/Guns/Ammunition/Boxes/357_magnum.rsi
   - type: Appearance
   - type: EmitSoundOnPickup
     sound:
@@ -31,24 +31,24 @@
 
 #small ammo boxes
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumFMJ
-  name: ammunition box (.45 magnum FMJ)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumFMJ
+  name: ammunition box (.357 magnum FMJ)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumFMJ
+    proto: Cartridge357_magnumFMJ
   - type: Sprite
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
 
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumPractice
-  name: ammunition box (.45 magnum practice)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumPractice
+  name: ammunition box (.357 magnum practice)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumPractice
+    proto: Cartridge357_magnumPractice
   - type: Sprite
     layers:
     - state: base
@@ -56,12 +56,12 @@
     - state: practice
 
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumIncendiary
-  name: ammunition box (.45 magnum incendiary)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumIncendiary
+  name: ammunition box (.357 magnum incendiary)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumIncendiary
+    proto: Cartridge357_magnumIncendiary
   - type: Sprite
     layers:
     - state: base
@@ -69,12 +69,12 @@
     - state: incendiary
 
 - type: entity
-  id: AmmoBox45_magnumUranium
-  parent: BaseAmmoBox45_magnum
-  name: ammunition box (.45 magnum uranium)
+  id: AmmoBox357_magnumUranium
+  parent: BaseAmmoBox357_magnum
+  name: ammunition box (.357 magnum uranium)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumUranium
+    proto: Cartridge357_magnumUranium
   - type: Sprite
     layers:
     - state: base
@@ -83,12 +83,12 @@
 
 # Upstream
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumRubber
-  name: ammunition box (.45 magnum rubber)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumRubber
+  name: ammunition box (.357 magnum rubber)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumRubber
+    proto: Cartridge357_magnumRubber
   - type: Sprite
     layers:
     - state: base
@@ -97,12 +97,12 @@
 
 #deprecated AP
 - type: entity
-  id: AmmoBox45_magnumAP
-  parent: BaseAmmoBox45_magnum
-  name: ammunition box (.45 magnum extreme armor-piercing)
+  id: AmmoBox357_magnumAP
+  parent: BaseAmmoBox357_magnum
+  name: ammunition box (.357 magnum extreme armor-piercing)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumAP
+    proto: Cartridge357_magnumAP
   - type: Sprite
     layers:
     - state: base
@@ -112,12 +112,12 @@
 # Mono AP syst
 #anti-flesh:
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumHP
-  name: ammunition box (.45 magnum hollow-point)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumHP
+  name: ammunition box (.357 magnum hollow-point)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumHP
+    proto: Cartridge357_magnumHP
   - type: Sprite
     layers:
     - state: base
@@ -125,12 +125,12 @@
     - state: HP
 
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumRIP
-  name: ammunition box (.45 magnum RIP)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumRIP
+  name: ammunition box (.357 magnum RIP)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumRIP
+    proto: Cartridge357_magnumRIP
   - type: Sprite
     layers:
     - state: base
@@ -140,12 +140,12 @@
 #armor-piercing:
 
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumPlasteelAP
-  name: ammunition box (.45 magnum AP)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumPlasteelAP
+  name: ammunition box (.357 magnum AP)
   components:
   - type: BallisticAmmoProvider
-    proto: Cartridge45_magnumPlasteelAP
+    proto: Cartridge357_magnumPlasteelAP
   - type: Sprite
     layers:
     - state: base
@@ -154,9 +154,9 @@
 
 #big ammo boxes
 - type: entity
-  parent: BaseAmmoBox45_magnum
-  id: AmmoBox45_magnumBigFMJ
-  name: big ammunition box (.45 magnum FMJ)
+  parent: BaseAmmoBox357_magnum
+  id: AmmoBox357_magnumBigFMJ
+  name: big ammunition box (.357 magnum FMJ)
   suffix: Big
   components:
   - type: Item
@@ -164,7 +164,7 @@
     - 0,0,1,1
   - type: BallisticAmmoProvider
     capacity: 100
-    proto: Cartridge45_magnumFMJ
+    proto: Cartridge357_magnumFMJ
   - type: Sprite
     layers:
     - state: base-b

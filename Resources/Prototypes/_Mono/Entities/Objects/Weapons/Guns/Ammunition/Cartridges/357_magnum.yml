@@ -1,6 +1,6 @@
 - type: entity
-  id: BaseCartridge45_magnum
-  name: cartridge (.45 magnum)
+  id: BaseCartridge357_magnum
+  name: cartridge (.357 magnum)
   parent: BaseCartridge
   description: Heavy magnum round, usually only seen in magnums or manually-cycled rifles.
   abstract: true
@@ -8,9 +8,9 @@
   - type: Tag
     tags:
       - Cartridge
-      - Cartridge45_magnumFMJ
+      - Cartridge357_magnumFMJ
   - type: CartridgeAmmo
-    proto: Bullet45_magnumFMJ
+    proto: Bullet357_magnumFMJ
   - type: Sprite
     sprite: _Mono/Objects/Weapons/Guns/Ammunition/Casings/pistol_ammo_casing_steel.rsi
     layers:
@@ -22,20 +22,20 @@
     price: 1
 
 - type: entity
-  id: Cartridge45_magnumFMJ
-  name: cartridge (.45 magnum)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumFMJ
+  name: cartridge (.357 magnum)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumFMJ
+    proto: Bullet357_magnumFMJ
 
 - type: entity
-  id: Cartridge45_magnumPractice
-  name: cartridge (.45 magnum practice)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumPractice
+  name: cartridge (.357 magnum practice)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumPractice
+    proto: Bullet357_magnumPractice
   - type: Sprite
     layers:
       - state: base
@@ -45,12 +45,12 @@
         color: "#dbdbdb"
 
 - type: entity
-  id: Cartridge45_magnumIncendiary
-  name: cartridge (.45 magnum incendiary)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumIncendiary
+  name: cartridge (.357 magnum incendiary)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumIncendiary
+    proto: Bullet357_magnumIncendiary
   - type: Sprite
     layers:
       - state: base
@@ -60,12 +60,12 @@
         color: "#ff6e52"
 
 - type: entity
-  id: Cartridge45_magnumAP
-  name: cartridge (.45 magnum armor-piercing)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumAP
+  name: cartridge (.357 magnum armor-piercing)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumAP
+    proto: Bullet357_magnumAP
   - type: Sprite
     layers:
       - state: base
@@ -75,12 +75,12 @@
         color: "#0a0a0a"
 
 - type: entity
-  id: Cartridge45_magnumUranium
-  name: cartridge (.45 magnum uranium)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumUranium
+  name: cartridge (.357 magnum uranium)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumUranium
+    proto: Bullet357_magnumUranium
   - type: Sprite
     layers:
       - state: base
@@ -90,12 +90,12 @@
         color: "#65fe08"
 
 - type: entity
-  id: Cartridge45_magnumRubber
-  name: cartridge (.45 magnum rubber)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumRubber
+  name: cartridge (.357 magnum rubber)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumRubber
+    proto: Bullet357_magnumRubber
   - type: Sprite
     layers:
       - state: base
@@ -107,12 +107,12 @@
 # Mono AP syst
 #anti-flesh:
 - type: entity
-  id: Cartridge45_magnumHP
-  name: cartridge (.45 magnum hollow-point)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumHP
+  name: cartridge (.357 magnum hollow-point)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumHP
+    proto: Bullet357_magnumHP
   - type: Sprite
     layers:
       - state: base
@@ -122,12 +122,12 @@
         color: "#90EE90"
 
 - type: entity
-  id: Cartridge45_magnumRIP
-  name: cartridge (.45 magnum RIP)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumRIP
+  name: cartridge (.357 magnum RIP)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumRIP
+    proto: Bullet357_magnumRIP
   - type: Sprite
     layers:
       - state: base
@@ -139,12 +139,12 @@
 #armor-piercing:
 
 - type: entity
-  id: Cartridge45_magnumPlasteelAP
-  name: cartridge (.45 magnum AP)
-  parent: BaseCartridge45_magnum
+  id: Cartridge357_magnumPlasteelAP
+  name: cartridge (.357 magnum AP)
+  parent: BaseCartridge357_magnum
   components:
   - type: CartridgeAmmo
-    proto: Bullet45_magnumPlasteelAP
+    proto: Bullet357_magnumPlasteelAP
   - type: Sprite
     layers:
       - state: base
