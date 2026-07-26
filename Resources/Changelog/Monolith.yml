@@ -22961,3 +22961,10 @@ Entries:
   id: 2534
   time: '2026-07-24T21:56:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4353
+- author: LassiH
+  changes:
+    - type: Fix
+      message: you can no longer turn invisible with chameleon projector
+  id: 2535
+  time: '2026-07-26T15:23:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4352
