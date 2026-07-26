@@ -22975,3 +22975,26 @@ Entries:
   id: 2536
   time: '2026-07-26T15:23:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4356
+- author: Onezero0
+  changes:
+    - type: Remove
+      message: Removed the Fitz, Lucky, Faith, Deckard and N1984 revolvers.
+    - type: Tweak
+      message: The Mateba has a much lower fire-rate but now has a 3x damage modifier.
+    - type: Tweak
+      message: >-
+        The Python now has a double-tap burst firing mechanism and a 0.8x damage
+        modifier.
+    - type: Tweak
+      message: >-
+        The HLCM now uses speed loaders with a 24 round capacity. It also has a
+        1.1x damage modifier, and is now called the "Wayward HLCM."
+    - type: Tweak
+      message: >-
+        ".45 Magnum" is now ".357 Magnum" to better differentiate it from .45
+        ACP.
+    - type: Tweak
+      message: The Inspector revolver is now known as the Garter.
+  id: 2537
+  time: '2026-07-26T16:06:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3951
