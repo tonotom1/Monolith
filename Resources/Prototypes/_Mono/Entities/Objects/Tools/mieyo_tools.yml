@@ -40,7 +40,7 @@
     sprite: _Mono/Objects/Tools/mieyo_srd_inhands.rsi
     size: Normal
   - type: StaticPrice
-    price: 10000
+    price: 1500
     vendPrice: 40000
 
 - type: entity
