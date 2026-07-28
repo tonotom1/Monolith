@@ -23023,3 +23023,12 @@ Entries:
   id: 2540
   time: '2026-07-28T04:20:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4365
+- author: lordsej
+  changes:
+    - type: Add
+      message: Xenoborgs
+    - type: Remove
+      message: Removed Brains!
+  id: 2541
+  time: '2026-07-28T05:25:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4138
