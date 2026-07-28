@@ -23041,3 +23041,18 @@ Entries:
   id: 2542
   time: '2026-07-28T05:49:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4360
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Added overwatch consoles to every faction leader. Spawns in backpack
+        roundstart.
+    - type: Fix
+      message: >-
+        Fixed company biometric readers saying TSF biometrics required by
+        default.
+    - type: Fix
+      message: Fixed Denasvars not having chatrank.
+  id: 2543
+  time: '2026-07-28T08:53:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4363
