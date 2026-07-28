@@ -921,14 +921,14 @@ entities:
     - type: Transform
       pos: -6.5,5.5
       parent: 2
-- proto: BasePirateUplinkRadioDebug
+- proto: BasePDVUplinkRadioDebug
   entities:
   - uid: 88
     components:
     - type: Transform
       pos: 1.2513101,7.779885
       parent: 2
-- proto: BaseSecurityUplinkRadioDebug
+- proto: BaseTSFUplinkRadioDebug
   entities:
   - uid: 89
     components:
@@ -6066,7 +6066,7 @@ entities:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: NFSpawnPointSeniorOfficer
+- proto: SpawnPointTsfTeamleader
   entities:
   - uid: 916
     components:
@@ -7439,7 +7439,7 @@ entities:
     - type: Transform
       pos: 3.5,7.5
       parent: 2
-- proto: SpawnPointBailiff
+- proto: SpawnPointTsfOfficer
   entities:
   - uid: 1119
     components:
@@ -7453,14 +7453,14 @@ entities:
     - type: Transform
       pos: -5.5,2.5
       parent: 2
-- proto: SpawnPointBrigmedic
+- proto: SpawnPointTsfCorpsman
   entities:
   - uid: 1121
     components:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: SpawnPointCadet
+- proto: SpawnPointTsfRecruit
   entities:
   - uid: 1122
     components:
@@ -7481,7 +7481,7 @@ entities:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: SpawnPointDeputy
+- proto: SpawnPointTsfMarine
   entities:
   - uid: 1125
     components:
@@ -7628,21 +7628,21 @@ entities:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: SpawnPointPirate
+- proto: SpawnPointPDVRahkshan
   entities:
   - uid: 1143
     components:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: SpawnPointPirateCaptain
+- proto: SpawnPointPDVGrandVizier
   entities:
   - uid: 1144
     components:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: SpawnPointPirateFirstMate
+- proto: SpawnPointPDVAsvaran
   entities:
   - uid: 1145
     components:
@@ -7677,7 +7677,7 @@ entities:
     - type: Transform
       pos: -4.5,2.5
       parent: 2
-- proto: SpawnPointSheriff
+- proto: SpawnPointTsfCommander
   entities:
   - uid: 1150
     components:

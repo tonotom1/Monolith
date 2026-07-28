@@ -110,11 +110,10 @@
     - Mieyo
     accessLevels:
     ## TSF
-    - HeadOfSecurity
-    - Armory
-    - Bailiff
-    - Sergeant
-    - Security
+    - TsfCommander
+    - TsfOfficer
+    - TsfFtl
+    - TsfGeneral
     - TsfmcEngineering
     ## USSP
     - USSPCommand
@@ -123,7 +122,7 @@
     ## PDV
     - GrandVizier
     - PDVCommand
-    - Pirate
+    - PDVGeneral
     ## VG
     - ViperCommand
     - Viper

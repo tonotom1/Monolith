@@ -5,7 +5,7 @@
   components:
   - type: ContainerFill
     containers:
-      board: [ DoorElectronicsPirate ]
+      board: [ DoorElectronicsPDV ]
 
 - type: entity
   parent: WindoorSecure
