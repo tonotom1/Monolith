@@ -23074,3 +23074,10 @@ Entries:
   id: 2545
   time: '2026-07-28T15:45:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4371
+- author: kasature90
+  changes:
+    - type: Add
+      message: Intellicards are now printable at exosuit fabricators.
+  id: 2546
+  time: '2026-07-28T16:17:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4369
