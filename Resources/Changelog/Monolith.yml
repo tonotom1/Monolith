@@ -23081,3 +23081,16 @@ Entries:
   id: 2546
   time: '2026-07-28T16:17:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4369
+- author: EldritchPineapple
+  changes:
+    - type: Tweak
+      message: >-
+        upped the hours requirement for multiple roles to be internally
+        consistent between PDV and TSF
+    - type: Tweak
+      message: >-
+        changed a few localization files to reflect how monolith and its
+        factions are better than previous descriptions
+  id: 2547
+  time: '2026-07-28T16:59:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4269
