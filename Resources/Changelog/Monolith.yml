@@ -23067,3 +23067,10 @@ Entries:
   id: 2544
   time: '2026-07-28T15:30:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4370
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed Overwatch consoles having faction ships listed in them.
+  id: 2545
+  time: '2026-07-28T15:45:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4371
