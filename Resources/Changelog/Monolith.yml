@@ -23032,3 +23032,12 @@ Entries:
   id: 2541
   time: '2026-07-28T05:25:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4138
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Sellsword Bofors replaced with AK820. Durability and maneuverability
+        slightly increased. Price raised to 62000.
+  id: 2542
+  time: '2026-07-28T05:49:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4360
