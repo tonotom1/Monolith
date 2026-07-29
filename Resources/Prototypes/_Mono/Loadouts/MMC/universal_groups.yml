@@ -68,8 +68,10 @@
   minLimit: 0
   maxLimit: 1
   loadouts:
-  - MMCVendorLoadout
-  fallbacks:
+  - MMCRCDLoadout
+  - MMCRPDLoadout
+  - MMCMotionDetectorLoadout
+  - MMCSRDLoadout
   - MMCVendorLoadout
 
 # Corpsec below
