@@ -23113,3 +23113,12 @@ Entries:
   id: 2549
   time: '2026-07-29T07:48:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4368
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Ported sandevistans and mantis blades from goob, added some other T2/T3
+        cybernetics for TSF/PDV/MMC.
+  id: 2550
+  time: '2026-07-29T08:43:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4380
