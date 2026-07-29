@@ -23122,3 +23122,15 @@ Entries:
   id: 2550
   time: '2026-07-29T08:43:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4380
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Added an alternate recipe for Iridite that doesn't need atmos magic. Now
+        all you need is an industrial arc furnace, industrial ore processor, a
+        processing centrifuge, and a chemlab (with a good chemist).
+    - type: Tweak
+      message: Lowered the price of Iridite to 300/sheet instead of 1250/sheet.
+  id: 2551
+  time: '2026-07-29T13:09:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4381
