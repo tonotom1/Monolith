@@ -32,3 +32,10 @@
   storage:
     back:
     - VendingMachineMieyoAutomatedFlatpack
+
+- type: loadout
+  id: MMCSandevistanLoadout # Biggest money sink ever
+  price: 2500000
+  storage:
+    back:
+    - AutosurgeonSandevistanMieyoFlatpack
