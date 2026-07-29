@@ -22,3 +22,32 @@
     Carbon: 30
     Silicon: 30
   recipeType: ArcFurnace
+
+- type: microwaveMealRecipe
+  id: IriditePowderIntoCrystal
+  name: iridite powder pulverization
+  result: IriditeCrystal
+  time: 30
+  group: ArcFurnace
+  solids:
+    IriditePowder: 3
+  reagents:
+    Napalm: 10
+    Thermite: 10
+  recipeType: ArcFurnace
+
+- type: microwaveMealRecipe
+  id: IriditeCrystalIntoPlate
+  name: iridite decrystallization
+  result: SheetIridite1
+  time: 60
+  group: ArcFurnace
+  solids:
+    IriditeCrystal: 1
+  reagents:
+    SodiumPolyacrylate: 5
+    Acetone: 10
+    PolytrinicAcid: 5
+    Fersilicite: 5
+    Opporozidone: 15
+  recipeType: ArcFurnace

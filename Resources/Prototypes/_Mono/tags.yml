@@ -99,6 +99,17 @@
 - type: Tag
   id: SandMaterial
 
+# Iridite processing
+
+- type: Tag
+  id: IriditeSlag
+
+- type: Tag
+  id: IriditePowder
+
+- type: Tag
+  id: IriditeCrystal
+
 # Heavy airlocks
 
 - type: Tag
