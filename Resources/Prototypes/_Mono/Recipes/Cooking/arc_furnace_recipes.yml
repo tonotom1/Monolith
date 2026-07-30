@@ -1,11 +1,11 @@
 - type: microwaveMealRecipe
   id: RecipeArmorPlate2
   name: heavy armor plate recipe
-  result: ArmorPlateEconomy2
+  result: ArmorPlateEconomy2Finished
   time: 15
   group: ArcFurnace
   solids:
-    ArmorPlateEconomy1: 2
+    ArmorPlateEconomy3Fragment: 2
   reagents:
     Silver: 100
   recipeType: ArcFurnace
@@ -17,11 +17,39 @@
   time: 15
   group: ArcFurnace
   solids:
-    ArmorPlateEconomy2: 2
+    ArmorPlateEconomy2Finished: 2
   reagents:
-    Carbon: 30
-    Silicon: 30
+    LithiumHydroxide: 30
   recipeType: ArcFurnace
+
+- type: microwaveMealRecipe
+  id: RecipeArmorPlate4Start
+  name: EMAG plate part 1 recipe
+  result: ArmorPlateEconomy4Start
+  time: 20
+  group: ArcFurnace
+  solids:
+    ArmorPlateEconomy3: 1
+  reagents:
+    Superconductant: 60
+  recipeType: ArcFurnace
+
+# end armor recipes
+
+- type: microwaveMealRecipe
+  id: RecipeSiliconBoule
+  name: silicon boule recipe
+  result: SiliconBouleEconomy
+  time: 30
+  group: ArcFurnace
+  solids:
+    MaterialDiamond1: 1 # seed crystal
+  reagents:
+    Silicon: 500
+    EZNutrient: 30 # doping agent
+  recipeType: ArcFurnace
+
+# end silicon
 
 - type: microwaveMealRecipe
   id: IriditePowderIntoCrystal
@@ -51,3 +79,4 @@
     Fersilicite: 5
     Opporozidone: 15
   recipeType: ArcFurnace
+
