@@ -23184,3 +23184,10 @@ Entries:
   id: 2557
   time: '2026-07-30T09:50:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4389
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed AK-820 projectile radar blips being really small.
+  id: 2558
+  time: '2026-07-30T10:36:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4391
