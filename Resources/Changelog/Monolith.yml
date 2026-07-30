@@ -23177,3 +23177,10 @@ Entries:
   id: 2556
   time: '2026-07-30T05:01:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4358
+- author: kasature90
+  changes:
+    - type: Add
+      message: Ammo loaders for ships don't suck anymore!
+  id: 2557
+  time: '2026-07-30T09:50:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4389
