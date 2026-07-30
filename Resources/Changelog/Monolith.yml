@@ -23170,3 +23170,10 @@ Entries:
   id: 2555
   time: '2026-07-30T04:37:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4386
+- author: TheScienceOfKSP
+  changes:
+    - type: Tweak
+      message: Redid Brig holding cell
+  id: 2556
+  time: '2026-07-30T05:01:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4358
