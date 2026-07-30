@@ -23163,3 +23163,10 @@ Entries:
   id: 2554
   time: '2026-07-30T04:36:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4387
+- author: marklyfied
+  changes:
+    - type: Tweak
+      message: Material Silo can now be researched and fabricated.
+  id: 2555
+  time: '2026-07-30T04:37:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4386
