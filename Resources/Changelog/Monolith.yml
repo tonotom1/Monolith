@@ -23156,3 +23156,10 @@ Entries:
   id: 2553
   time: '2026-07-30T04:36:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4390
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: AMEs have been rebranded as IREs (Isotopes Reaction Engines).
+  id: 2554
+  time: '2026-07-30T04:36:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4387
