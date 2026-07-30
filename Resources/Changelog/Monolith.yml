@@ -23219,3 +23219,12 @@ Entries:
   id: 2562
   time: '2026-07-30T17:18:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4396
+- author: Onezero0
+  changes:
+    - type: Remove
+      message: >-
+        Nuked like 80% of the draupnirs on the Jupiter. I'm not giving them
+        back.
+  id: 2563
+  time: '2026-07-30T22:56:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4400
