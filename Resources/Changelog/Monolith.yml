@@ -23228,3 +23228,14 @@ Entries:
   id: 2563
   time: '2026-07-30T22:56:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4400
+- author: Onezero0
+  changes:
+    - type: Remove
+      message: Removed super data farms from faction bases.
+    - type: Tweak
+      message: >-
+        Sevastopol now gets two bolted data farms and point disk printers. Also
+        a few new surprises.
+  id: 2564
+  time: '2026-07-31T16:57:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4401
