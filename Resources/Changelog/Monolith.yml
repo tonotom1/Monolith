@@ -23327,3 +23327,15 @@ Entries:
   id: 2572
   time: '2026-08-01T16:32:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4404
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: >-
+        Every weapon is like really powerful now. If you're having audio
+        problems with the firerate, do "cvar audio.default_concurrent 32" in
+        console.
+    - type: Tweak
+      message: WSPR has full auto again.
+  id: 2573
+  time: '2026-08-01T19:12:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4412
