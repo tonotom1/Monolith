@@ -27,7 +27,7 @@
     angleIncrease: 6
     angleDecay: 40
     cameraRecoilScalar: 0
-    fireRate: 9
+    fireRate: 12.5
     availableModes:
     - FullAuto
     soundGunshot:
