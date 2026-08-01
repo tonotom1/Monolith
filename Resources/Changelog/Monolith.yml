@@ -23320,3 +23320,10 @@ Entries:
   id: 2571
   time: '2026-08-01T16:16:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4414
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: Deaddrops should be worthwhile again.
+  id: 2572
+  time: '2026-08-01T16:32:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4404
