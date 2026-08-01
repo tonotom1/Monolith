@@ -91,5 +91,5 @@
   resultCount: 2
   solids:
     ComponentBrickEconomy1: 1 # replace this with something fitting one day
-  recipeType: PrecisionAssembler
+  recipeType: ArcFurnace
 
