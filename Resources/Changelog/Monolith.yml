@@ -23339,3 +23339,14 @@ Entries:
   id: 2573
   time: '2026-08-01T19:12:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4412
+- author: kasature90
+  changes:
+    - type: Add
+      message: Scrap processor can now drop some economy components at a rare chance.
+    - type: Tweak
+      message: Moved economy matter bins to the plate press from electronics press.
+    - type: Fix
+      message: Fixed heavy armor plates and optics being unobtainable from Industry.
+  id: 2574
+  time: '2026-08-01T20:22:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4420
