@@ -23300,3 +23300,14 @@ Entries:
   id: 2569
   time: '2026-08-01T16:10:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4416
+- author: tonotom1
+  changes:
+    - type: Add
+      message: 'Two T0 drones to fill LINEAR Cluster: MOTE and DANDER.'
+    - type: Tweak
+      message: >-
+        Reduced general difficulty of drone pool used by Linear Cluster to be
+        more manageable for small miners.
+  id: 2570
+  time: '2026-08-01T16:11:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4417
