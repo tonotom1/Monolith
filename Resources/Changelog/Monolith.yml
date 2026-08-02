@@ -23421,3 +23421,19 @@ Entries:
   id: 2581
   time: '2026-08-02T20:52:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4431
+- author: kasature90
+  changes:
+    - type: Add
+      message: Added ready-to-use 1x1 machine frames to RCD electrical category.
+    - type: Tweak
+      message: >-
+        Reduced some of the more extreme economy recipes (such as crystallizer,
+        cloning gear, data/bitcoin farms, etc) to use simpler and/or less
+        components.
+    - type: Fix
+      message: Fixed infinite money from vendor flatpacks with their components.
+    - type: Fix
+      message: Fixed economy matter bins having the same name as real ones.
+  id: 2582
+  time: '2026-08-02T21:31:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4434
