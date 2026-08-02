@@ -48,6 +48,30 @@
         defaultPrototype: ComponentBrickEconomy1
 
 - type: entity
+  id: PrecisionAssemblerEconomyCompactCircuitboard
+  parent: BaseMachineCircuitboard
+  name: compact precision assembler machine board
+  description: A machine printed circuit board for a compact precision assembler.
+  components:
+  - type: Sprite
+    state: engineering
+  - type: MachineBoard
+    flatpackable: false
+    prototype: PrecisionAssemblerEconomyCompact
+    stackRequirements:
+      CableHV: 5
+    tagRequirements:
+      MicroprocessorEconomy1:
+        amount: 2
+        defaultPrototype: MicroprocessorEconomy1
+      MotorEconomy1:
+        amount: 4
+        defaultPrototype: MotorEconomy1
+      ComponentBrickEconomy1:
+        amount: 1
+        defaultPrototype: ComponentBrickEconomy1
+
+- type: entity
   id: IndustrialPressEconomyPlatesMachineCircuitboard
   parent: BaseMachineCircuitboard
   name: industrial press (plates) machine board

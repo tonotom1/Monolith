@@ -13,6 +13,26 @@
           state: "optics1"
         name: optical sensor
         doAfter: 1
+      - tag: CapacitorEconomy1
+        icon:
+          sprite: _Mono/Objects/Materials/bayponents.rsi
+          state: "capacitor1"
+        name: basic capacitor
+        doAfter: 1
+      - tag: MicroprocessorEconomy1
+        icon:
+          sprite: _Mono/Objects/Materials/bayponents.rsi
+          state: "microprocessor1"
+        name: microprocessor
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
 
   - node: MatterBinEconomy2
     edges:
@@ -23,6 +43,42 @@
           sprite: _Mono/Objects/Materials/bayponents.rsi
           state: "optics1"
         name: optical sensor
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tag: OpticsEconomy1
+        icon:
+          sprite: _Mono/Objects/Materials/bayponents.rsi
+          state: "optics1"
+        name: optical sensor
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tag: OpticsEconomy1
+        icon:
+          sprite: _Mono/Objects/Materials/bayponents.rsi
+          state: "optics1"
+        name: optical sensor
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
+        doAfter: 1
+      - tool: Cutting
         doAfter: 1
 
   - node: finished_1_t2
@@ -153,8 +209,8 @@
       - tag: MicroprocessorEconomy1
         icon:
           sprite: _Mono/Objects/Materials/bayponents.rsi
-          state: "capacitor1"
-        name: basic capacitor
+          state: "microprocessor1"
+        name: microprocessor
         doAfter: 1
       - tool: Cutting
         doAfter: 1
