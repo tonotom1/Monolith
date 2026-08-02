@@ -23403,3 +23403,10 @@ Entries:
   id: 2579
   time: '2026-08-02T18:43:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4427
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Portstrike timing has been changed - Now its random from 3.5h to 4.5h
+  id: 2580
+  time: '2026-08-02T20:48:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4433
