@@ -98,7 +98,7 @@
   time: 15
   group: PrecisionAssembler
   solids:
-    ElectromagnetEconomy1: 3
+    ElectromagnetEconomy1: 2
   reagents:
     Superconductant: 60
   recipeType: PrecisionAssembler
