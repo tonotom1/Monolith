@@ -23368,3 +23368,22 @@ Entries:
   id: 2576
   time: '2026-08-02T09:47:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4418
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Added a compact precision assembler. It's only half the speed of the
+        real one.
+    - type: Add
+      message: Basic industry comps can be bought at cargo.
+    - type: Tweak
+      message: Added basic industry machines to Helios and Halcyon.
+    - type: Tweak
+      message: Added industry planner to autolathe and cargo.
+    - type: Fix
+      message: Fixed a duping issue with composite armor plates.
+    - type: Fix
+      message: Fixed missing steps in the basic components alt recipe w/ optics.
+  id: 2577
+  time: '2026-08-02T10:23:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4425
