@@ -480,6 +480,9 @@
     - type: Sprite
       sprite: _Mono/Objects/Materials/bayponents.rsi
       state: "radio1"
+    - type: Construction
+      graph: ComponentBrickEconomy
+      node: RadioEconomy1
 
 - type: entity
   name: HF signal tranciever component
