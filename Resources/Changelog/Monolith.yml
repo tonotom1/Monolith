@@ -23350,3 +23350,12 @@ Entries:
   id: 2574
   time: '2026-08-01T20:22:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4420
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: >-
+        Iridite arc furnace recipe is now easier to do reagent-wise, and outputs
+        2 sheets instead of 1.
+  id: 2575
+  time: '2026-08-02T08:31:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4423
