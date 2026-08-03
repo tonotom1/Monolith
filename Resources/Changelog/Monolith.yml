@@ -23446,3 +23446,18 @@ Entries:
   id: 2583
   time: '2026-08-02T22:10:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4435
+- author: tonotom1
+  changes:
+    - type: Add
+      message: Ruined and lootable Medicus derelict to derelict event circulation.
+    - type: Remove
+      message: Frontier Tide ship from derelict event circulation
+    - type: Tweak
+      message: >-
+        Medicus power capacity increased for QOL, guns rearranged to meet
+        guidelines.
+    - type: Tweak
+      message: There are now always 3 salvage wrecks and never 2.
+  id: 2584
+  time: '2026-08-03T14:24:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4428
