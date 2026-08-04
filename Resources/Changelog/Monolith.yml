@@ -23492,3 +23492,13 @@ Entries:
   id: 2587
   time: '2026-08-04T10:06:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4436
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: >-
+        Replaced gameplay voting for now with random gamemode (like normal
+        station servers). Now has a chance for greenshifts (no ADS/chimera
+        threat).
+  id: 2588
+  time: '2026-08-04T17:33:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4443
