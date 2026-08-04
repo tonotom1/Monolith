@@ -1,4 +1,24 @@
 - type: gamePreset
+  id: MonoSecret
+  alias:
+  - monosecret
+  name: mono-secret-title
+  showInVote: false
+  description: mono-secret-description
+  rules:
+  - Secret
+
+- type: weightedRandom
+  id: MonoSecret
+  weights:
+    MonoStandard: 0.5
+    MonoADS: 0.3
+    MonoMixed: 0.1
+    MonoChimera: 0.1
+    MonoAllAtOnce: 0.1
+    #MonoRogueTSFHyperwar: 0.05
+
+- type: gamePreset
   id: MonoStandard
   alias:
     - standard
@@ -7,7 +27,7 @@
     - MonoGreenshift
   name: mono-standard-title
   description: mono-standard-description
-  showInVote: false # For admin usage really. Not that boring, but I'd rather just let players choose their main threat instead of choosing no threat.
+  showInVote: true
   rules:
   - NFAdventure
   - BasicStationEventScheduler
