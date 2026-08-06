@@ -23530,3 +23530,12 @@ Entries:
   id: 2589
   time: '2026-08-06T00:28:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4444
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Ported better/unified sprites for those alerts on the side of your
+        screen (like health) from Hullrot.
+  id: 2590
+  time: '2026-08-06T02:27:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4450
