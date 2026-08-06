@@ -23548,3 +23548,10 @@ Entries:
   id: 2591
   time: '2026-08-06T12:53:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4452
+- author: NazrinNya
+  changes:
+    - type: Remove
+      message: Firing through shoulder.
+  id: 2592
+  time: '2026-08-06T13:37:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4453
