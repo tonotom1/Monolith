@@ -23539,3 +23539,12 @@ Entries:
   id: 2590
   time: '2026-08-06T02:27:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4450
+- author: NazrinNya
+  changes:
+    - type: Fix
+      message: Reagent requirements for lathes displaying incorrectly
+    - type: Fix
+      message: Fixed beaker slot of assembler lathes being able to accept any item .
+  id: 2591
+  time: '2026-08-06T12:53:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4452
