@@ -1377,7 +1377,7 @@
           defaultPrototype: ElectromagnetEconomy1
         ArmorPlateEconomy2:
           amount: 1
-          defaultPrototype: ArmorPlateEconomy2Finished
+          defaultPrototype: ArmorPlateEconomy2
 
 - type: entity
   parent: BaseMachineCircuitboard

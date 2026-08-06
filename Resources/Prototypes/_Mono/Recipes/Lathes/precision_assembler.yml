@@ -1,8 +1,22 @@
 # Capsule
 
 - type: latheRecipe
+  id: MotorEconomy1
+  result: MotorEconomy1
+  categories:
+  - Components
+  completetime: 15
+  entities:
+    ElectromagnetEconomy1: 1
+    ArmorPlateEconomy1: 1
+
+# Capsule
+
+- type: latheRecipe
   id: MatterBinEconomy2
   result: MatterBinEconomy2
+  categories:
+  - Components
   completetime: 15
   entities:
     MatterBinEconomy1: 2
@@ -11,49 +25,102 @@
 # Microprocessors
 
 - type: latheRecipe
+  id: MicroprocessorEconomy2Alt
+  result: MicroprocessorEconomy2
+  categories:
+  - Components
+  completetime: 10
+  entities:
+    MicroprocessorEconomy1: 1
+    SiliconWaferEconomy: 1
+
+- type: latheRecipe
   id: MicroprocessorEconomy2
   result: MicroprocessorEconomy2
+  categories:
+  - Components
   completetime: 15
   entities:
     MicroprocessorEconomy1: 2
-    SiliconWaferEconomy: 1
-  reagents:
-    Plasma: 100
+    OpticsEconomy1: 2
 
 - type: latheRecipe
   id: MicroprocessorEconomy3
   result: MicroprocessorEconomy3
+  categories:
+  - Components
   completetime: 15
   entities:
     MicroprocessorEconomy2: 1
-    OpticsEconomy1: 1
+    SiliconWaferEconomy: 1
   reagents:
-    SodiumPolyacrylate: 30
+    Plasma: 30
 
 - type: latheRecipe
   id: SiliconWaferEconomy
   result: SiliconWaferEconomySliceSpawner8
+  categories:
+  - Components
   completetime: 15
   entities:
     SiliconBouleEconomy: 1
+  icon:
+    sprite: _Mono/Objects/Materials/silicon.rsi
+    state: "cuticon"
 
 # Optics
 
 - type: latheRecipe
-  id: OpticsEconomy2
+  id: OpticsEconomy2Alt
   result: OpticsEconomy2
-  completetime: 15
+  categories:
+  - Components
+  completetime: 10
   entities:
     OpticsEconomy1: 1
     CapacitorEconomy1: 2
   reagents:
     Phenol: 20
 
+- type: latheRecipe
+  id: OpticsEconomy2
+  result: OpticsEconomy2
+  categories:
+  - Components
+  completetime: 15
+  entities:
+    OpticsEconomy1: 1
+    CapacitorEconomy1: 2
+
+# Camera
+
+- type: latheRecipe
+  id: CameraEconomy1
+  result: CameraEconomy1
+  categories:
+  - Components
+  completetime: 15
+  entities:
+    ArmorPlateEconomy1: 1
+    OpticsEconomy1: 1
+
 # Radios
+
+- type: latheRecipe
+  id: RadioEconomy1
+  result: RadioEconomy1
+  categories:
+  - Components
+  completetime: 15
+  entities:
+    ArmorPlateEconomy1: 1
+    MicroprocessorEconomy1: 1
 
 - type: latheRecipe
   id: RadioEconomy2
   result: RadioEconomy2
+  categories:
+  - Components
   completetime: 15
   entities:
     RadioEconomy1: 1
@@ -63,17 +130,32 @@
 # Capacitors
 
 - type: latheRecipe
-  id: CapacitorEconomy2
+  id: CapacitorEconomy2Alt
   result: CapacitorEconomy2
-  completetime: 15
+  categories:
+  - Components
+  - AltRecipes
+  completetime: 10
   entities:
     CapacitorEconomy1: 1
   reagents:
-    Superconductant: 60
+    Superconductant: 30
+
+- type: latheRecipe
+  id: CapacitorEconomy2
+  result: CapacitorEconomy2
+  categories:
+  - Components
+  completetime: 15
+  entities:
+    CapacitorEconomy1: 1
+    ElectromagnetEconomy1: 1
 
 - type: latheRecipe
   id: CapacitorEconomy3
   result: CapacitorEconomy3
+  categories:
+  - Components
   completetime: 15
   entities:
     CapacitorEconomy2: 2
@@ -84,27 +166,55 @@
 - type: latheRecipe
   id: ElectromagnetEconomy2
   result: ElectromagnetEconomy2
+  categories:
+  - Components
   completetime: 15
   entities:
     ElectromagnetEconomy1: 2
+    CapacitorEconomy1: 2
+
+- type: latheRecipe
+  id: ElectromagnetEconomy2Alt
+  result: ElectromagnetEconomy2
+  categories:
+  - Components
+  - AltRecipes
+  completetime: 10
+  entities:
+    ElectromagnetEconomy1: 2
   reagents:
-    Superconductant: 60
+    Superconductant: 30
 
 - type: latheRecipe
   id: ElectromagnetEconomy3
   result: ElectromagnetEconomy3
+  categories:
+  - Components
   completetime: 15
   entities:
     ElectromagnetEconomy2: 2
     CapacitorEconomy2: 2
+
+- type: latheRecipe
+  id: ElectromagnetEconomy3Alt
+  result: ElectromagnetEconomy3
+  categories:
+  - Components
+  - AltRecipes
+  completetime: 10
+  entities:
+    ElectromagnetEconomy2: 2
   reagents:
     LithiumHydroxide: 20
+    Superconductant: 20
 
 # Component bricks
 
 - type: latheRecipe
   id: ComponentBrickEconomy1
   result: ComponentBrickEconomy1
+  categories:
+  - Components
   completetime: 15
   entities:
     MicroprocessorEconomy1: 1
@@ -114,10 +224,12 @@
 - type: latheRecipe
   id: ComponentBrickEconomy2
   result: ComponentBrickEconomy2
+  categories:
+  - Components
   completetime: 20
   entities:
     MicroprocessorEconomy2: 1
-    ArmorPlateEconomy2Finished: 1
+    ArmorPlateEconomy2: 1
     MatterBinEconomy2: 1
     ComponentBrickEconomy1: 1
 
@@ -126,6 +238,8 @@
 - type: latheRecipe
   id: MaterialIndustryElectronics
   result: MaterialIndustryElectronics
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 3
   entities:
@@ -138,6 +252,8 @@
 - type: latheRecipe
   id: MaterialIndustryElectronicsAdvanced
   result: MaterialIndustryElectronicsAdvanced
+  categories:
+  - ComponentMaterials
   completetime: 30
   resultCount: 2
   entities:
@@ -149,6 +265,8 @@
 - type: latheRecipe
   id: MaterialIndustryElectronicsAdvancedAlt
   result: MaterialIndustryElectronicsAdvanced
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 2
   entities:
@@ -159,6 +277,8 @@
 - type: latheRecipe
   id: MaterialIndustryFCS
   result: MaterialIndustryFCS
+  categories:
+  - ComponentMaterials
   completetime: 10
   entities:
     MicroprocessorEconomy1: 2
@@ -169,6 +289,8 @@
 - type: latheRecipe
   id: MaterialIndustryMechanical
   result: MaterialIndustryMechanical
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 2
   entities:
@@ -180,15 +302,19 @@
 - type: latheRecipe
   id: MaterialIndustryPlates
   result: MaterialIndustryPlates
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 2
   entities:
-    ArmorPlateEconomy2Finished: 2
+    ArmorPlateEconomy2: 2
     ArmorPlateEconomy1: 4
 
 - type: latheRecipe
   id: MaterialIndustryPlatesAlt
   result: MaterialIndustryPlates
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 3
   entities:
@@ -197,6 +323,8 @@
 - type: latheRecipe
   id: MaterialIndustryRecievers
   result: MaterialIndustryRecievers
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 2 # may seem very grindy to get guns - 1 comp is 5u though
   entities:
@@ -205,6 +333,8 @@
 - type: latheRecipe
   id: MaterialIndustrySensors
   result: MaterialIndustrySensors
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 2
   entities:
@@ -215,6 +345,8 @@
 - type: latheRecipe
   id: MaterialIndustryShip
   result: MaterialIndustryShip
+  categories:
+  - ComponentMaterials
   completetime: 10
   resultCount: 5
   entities:

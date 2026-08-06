@@ -66,9 +66,6 @@
     solution: capsule
   - type: Spillable
     solution: capsule
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: MatterBinEconomy1
 
 - type: entity
   id: MatterBinEconomy2
@@ -104,9 +101,6 @@
       Steel: 1000
       Plastic: 1000
       Glass: 500
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: MatterBinEconomy2
 
 - type: entity
   name: basic components
@@ -123,9 +117,6 @@
   - type: SpawnOnDespawn
     count: 0
     prototype: MatterBinEconomy2
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: MatterBinEconomy2Spawn
 
 - type: entity
   id: MatterBinEconomy3
@@ -219,9 +210,6 @@
           collection: MetalBreak
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: MicroprocessorEconomy2
 
 - type: entity
   name: quantum processor
@@ -288,9 +276,6 @@
     - type: MachinePart
       part: Capacitor
       rating: 3
-    - type: Construction
-      graph: ComponentBrickEconomy
-      node: CapacitorEconomy2
 
 - type: entity
   name: industrial supercapacitor
@@ -325,9 +310,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "componentbrick1"
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: finished_1
 
 - type: entity
   name: basic components
@@ -344,9 +326,6 @@
   - type: SpawnOnDespawn
     count: 2
     prototype: ComponentBrickEconomy1
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: finished_1_t2
 
 - type: entity
   name: advanced components
@@ -393,9 +372,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "electromagnet1"
-  - type: Construction
-    graph: ElectromagnetEconomy
-    node: ElectromagnetEconomy1
 
 - type: entity
   name: compound electromagnet (unfinished)
@@ -409,9 +385,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "electromagnet2_unfinished"
-  - type: Construction
-    graph: ElectromagnetEconomy
-    node: unfinished
 
 - type: entity
   name: compound electromagnet
@@ -426,9 +399,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "electromagnet2"
-  - type: Construction
-    graph: ElectromagnetEconomy
-    node: finished
 
 - type: entity
   name: superconductive electromagnet (unfinished)
@@ -442,9 +412,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "electromagnet3_unfinished"
-  - type: Construction
-    graph: ElectromagnetEconomy
-    node: unfinished_ElectromagnetEconomy3
 
 - type: entity
   name: superconductive electromagnet
@@ -459,9 +426,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "electromagnet3"
-  - type: Construction
-    graph: ElectromagnetEconomy
-    node: finished_ElectromagnetEconomy3
 
 # end magnets
 
@@ -480,9 +444,6 @@
     - type: Sprite
       sprite: _Mono/Objects/Materials/bayponents.rsi
       state: "radio1"
-    - type: Construction
-      graph: ComponentBrickEconomy
-      node: RadioEconomy1
 
 - type: entity
   name: HF signal tranciever component
@@ -547,9 +508,6 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "camera"
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: CameraEconomy1
   # flash stuff
   - type: EmitSoundOnTrigger
     sound:
@@ -581,6 +539,3 @@
   - type: Sprite
     sprite: _Mono/Objects/Materials/bayponents.rsi
     state: "motor"
-  - type: Construction
-    graph: ComponentBrickEconomy
-    node: MotorEconomy1

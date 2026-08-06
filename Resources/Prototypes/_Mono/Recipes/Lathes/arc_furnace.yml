@@ -1,6 +1,6 @@
 - type: latheRecipe
   id: ArmorPlate2
-  result: ArmorPlateEconomy2Finished
+  result: ArmorPlateEconomy2
   completetime: 15
   entities:
     ArmorPlateEconomy3Fragment: 2
@@ -12,7 +12,7 @@
   result: ArmorPlateEconomy3
   completetime: 15
   entities:
-    ArmorPlateEconomy2Finished: 2
+    ArmorPlateEconomy2: 2
   reagents:
     LithiumHydroxide: 30
 
@@ -67,6 +67,8 @@
 - type: latheRecipe
   id: MaterialIndustrySterile
   result: MaterialIndustrySterile
+  categories:
+  - ComponentMaterials
   completetime: 5
   resultCount: 2
   entities:

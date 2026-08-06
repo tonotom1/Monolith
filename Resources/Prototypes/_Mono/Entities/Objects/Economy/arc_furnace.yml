@@ -31,9 +31,6 @@
         acts: [ "Destruction" ]
   - type: StaticPrice
     price: 1000
-  - type: Construction
-    graph: ArmorPlateEconomy1Finish
-    node: unfinished
 
 - type: entity
   name: heavy armor plate (unfinished)
@@ -49,9 +46,6 @@
   - type: SpawnOnDespawn
     count: 1
     prototype: ArmorPlateEconomy2Start
-  - type: Construction
-    graph: ArmorPlateEconomy1Finish
-    node: finished
 
 - type: entity
   name: broken basic armor plate
@@ -172,7 +166,7 @@
   name: heavy armor plate
   description: A heavier, layered alloy armor plate. Heavy, but strong. Useful for things that need significant structural stability, or more commonly, the ability to take a hit.
   parent: ArmorPlateEconomy2Broken
-  id: ArmorPlateEconomy2Finished
+  id: ArmorPlateEconomy2
   components:
   - type: Tag
     tags:
@@ -199,9 +193,6 @@
         acts: [ "Destruction" ]
   - type: StaticPrice
     price: 3000
-  - type: Construction
-    graph: ArmorPlateEconomy2Finish
-    node: finished
 
 - type: entity
   name: heavy armor plate (unfinished)
@@ -231,9 +222,6 @@
             max: 1
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
-  - type: Construction
-    graph: ArmorPlateEconomy2Finish
-    node: unfinished
 
 - type: entity
   name: broken heavy armor plate
@@ -415,6 +403,11 @@
     spawned:
       - id: ArmorPlateEconomy3Fragment
         amount: 4
+  - type: ExtendDescription
+    descriptionList:
+    - description: Can be cut with a knife to create four fragments.
+      color: "#4f94ad"
+      requireDetailRange: true
 
 - type: entity
   name: broken composite armor plate
@@ -493,9 +486,6 @@
     chemicalComposition:
       Carbon: 25
       Silicon: 25
-  - type: Construction
-    graph: ArmorPlateEconomy4Finish
-    node: unfinished
 
 - type: entity
   name: EMAG armor plate
@@ -527,9 +517,6 @@
             max: 1
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
-  - type: Construction
-    graph: ArmorPlateEconomy4Finish
-    node: finished
 
 - type: entity
   name: broken EMAG armor plate
