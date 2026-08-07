@@ -23599,3 +23599,12 @@ Entries:
   id: 2596
   time: '2026-08-07T18:26:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4451
+- author: Onezero0
+  changes:
+    - type: Add
+      message: Heavy/ceramic armor plates now have non-chemical requiring recipes.
+    - type: Fix
+      message: Fixed not being able to craft heavy armor plates.
+  id: 2597
+  time: '2026-08-07T21:34:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4457
