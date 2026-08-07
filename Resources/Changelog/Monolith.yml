@@ -23573,3 +23573,10 @@ Entries:
   id: 2594
   time: '2026-08-07T00:22:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4441
+- author: NazrinNya
+  changes:
+    - type: Fix
+      message: Ignoring reagent requirements in lathe by using jug
+  id: 2595
+  time: '2026-08-07T07:51:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4455
