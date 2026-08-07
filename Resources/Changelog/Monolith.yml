@@ -23566,3 +23566,10 @@ Entries:
   id: 2593
   time: '2026-08-06T14:43:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4430
+- author: kasature90
+  changes:
+    - type: Add
+      message: Feroxi species. From DV.
+  id: 2594
+  time: '2026-08-07T00:22:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4441
