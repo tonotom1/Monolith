@@ -23617,3 +23617,12 @@ Entries:
   id: 2598
   time: '2026-08-08T19:23:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4461
+- author: kasature90
+  changes:
+    - type: Add
+      message: Ported operative hud from Goob/WWDP.
+    - type: Add
+      message: Ported toggleable tinted windows from Goob.
+  id: 2599
+  time: '2026-08-09T13:39:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4467
