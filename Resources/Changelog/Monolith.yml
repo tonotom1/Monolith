@@ -23651,3 +23651,12 @@ Entries:
   id: 2601
   time: '2026-08-10T12:24:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4468
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added four new Vox quilstyles.
+    - type: Tweak
+      message: Changed making limits for Vox.
+  id: 2602
+  time: '2026-08-10T12:25:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4355
