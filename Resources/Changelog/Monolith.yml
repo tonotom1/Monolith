@@ -23660,3 +23660,10 @@ Entries:
   id: 2602
   time: '2026-08-10T12:25:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4355
+- author: ondrej008
+  changes:
+    - type: Add
+      message: Holding a nanite applicator now shows you an overlay of damaged things!
+  id: 2603
+  time: '2026-08-10T15:22:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4445
