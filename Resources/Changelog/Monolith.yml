@@ -23667,3 +23667,10 @@ Entries:
   id: 2603
   time: '2026-08-10T15:22:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4445
+- author: Sniperzero112
+  changes:
+    - type: Tweak
+      message: Dragon lungs now work in space!
+  id: 2604
+  time: '2026-08-10T16:52:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4471
