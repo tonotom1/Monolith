@@ -23626,3 +23626,10 @@ Entries:
   id: 2599
   time: '2026-08-09T13:39:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4467
+- author: kasature90
+  changes:
+    - type: Add
+      message: Welding sparks for doors and walls and whatnot.
+  id: 2600
+  time: '2026-08-10T12:22:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4466
