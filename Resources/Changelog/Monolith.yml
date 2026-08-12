@@ -23701,3 +23701,10 @@ Entries:
   id: 2607
   time: '2026-08-12T05:55:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4463
+- author: Helicaste
+  changes:
+    - type: Add
+      message: Anomalous Lab now has a bolted datafarm.
+  id: 2608
+  time: '2026-08-12T13:42:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4473
