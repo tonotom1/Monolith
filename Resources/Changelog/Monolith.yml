@@ -23692,3 +23692,12 @@ Entries:
   id: 2606
   time: '2026-08-12T05:55:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4465
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Updated Helios' sentries to be remote ones (access-based, custom access
+        restrictions). Control panel is in CIC, by the door.
+  id: 2607
+  time: '2026-08-12T05:55:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4463
