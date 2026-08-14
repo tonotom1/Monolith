@@ -23731,3 +23731,16 @@ Entries:
   id: 2611
   time: '2026-08-13T21:40:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4459
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: >-
+        .357 magnum FMJ is now hypervelocity, acting as hitscan and piercing 1
+        entity
+    - type: Tweak
+      message: >-
+        14.5mm is now hypervelocity, dealing 200 (190 in case of hristov) damage
+        and piercing 10 entities.
+  id: 2612
+  time: '2026-08-14T09:48:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4335
