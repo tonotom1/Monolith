@@ -23744,3 +23744,13 @@ Entries:
   id: 2612
   time: '2026-08-14T09:48:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4335
+- author: SuperGDPWYL
+  changes:
+    - type: Add
+      message: >-
+        The Phaeton Dynasty Vanguard can now obtain elite web vests. They are
+        specialised to protect against energy weapons, however the vest falters
+        under ballistic gunfire.
+  id: 2613
+  time: '2026-08-14T15:43:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4478
