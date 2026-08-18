@@ -23888,3 +23888,10 @@ Entries:
   id: 2627
   time: '2026-08-18T08:33:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4496
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed Feroxi being able to take nanite repair drones trait.
+  id: 2628
+  time: '2026-08-18T13:35:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4515
