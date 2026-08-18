@@ -23868,3 +23868,14 @@ Entries:
   id: 2625
   time: '2026-08-18T08:22:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4514
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed IPCs not having a surgery to reinsert their pump (heart).
+    - type: Fix
+      message: >-
+        Fixed dwarf livers/liquor lifeline not healing damage when drinking
+        ethanol.
+  id: 2626
+  time: '2026-08-18T08:23:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4513
