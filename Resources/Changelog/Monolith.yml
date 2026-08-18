@@ -23902,3 +23902,24 @@ Entries:
   id: 2629
   time: '2026-08-18T15:41:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4497
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: >-
+        Nerfed M92-x, ICWS, Lee Enfield, civ Vulcan, DB shotgun and buffed the
+        Python. Made CV-53 better against heat.
+    - type: Tweak
+      message: >-
+        Doubles smilodon battery box capacity, Jugsuit has slightly less stamres
+        and pulse weapons deal slightly less damage.
+    - type: Tweak
+      message: 400thz does a smidge more damage.
+    - type: Tweak
+      message: >-
+        Hristov has a laser pointer. Hristov and Shenzhen laser pointers switch
+        color when detecting a target.
+    - type: Tweak
+      message: Plating no longer cancels out other footstep modifiers.
+  id: 2630
+  time: '2026-08-18T20:53:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4510
