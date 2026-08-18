@@ -23861,3 +23861,10 @@ Entries:
   id: 2624
   time: '2026-08-18T05:14:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4506
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed Chimeras getting drunk from letoferol.
+  id: 2625
+  time: '2026-08-18T08:22:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4514
