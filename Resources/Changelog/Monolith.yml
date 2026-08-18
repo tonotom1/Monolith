@@ -23923,3 +23923,12 @@ Entries:
   id: 2630
   time: '2026-08-18T20:53:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4510
+- author: lordsej
+  changes:
+    - type: Add
+      message: Added all the mothroaches
+    - type: Remove
+      message: Removed animal legs
+  id: 2631
+  time: '2026-08-18T21:08:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4290
