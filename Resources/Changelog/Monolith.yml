@@ -23939,3 +23939,10 @@ Entries:
   id: 2632
   time: '2026-08-18T21:12:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4481
+- author: kasature90
+  changes:
+    - type: Add
+      message: (hopefully) All guns have basic secondary melee attacks now.
+  id: 2633
+  time: '2026-08-19T07:20:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4511
