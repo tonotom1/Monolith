@@ -24074,3 +24074,12 @@ Entries:
   id: 2646
   time: '2026-08-21T12:50:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4534
+- author: Helicaste
+  changes:
+    - type: Add
+      message: >-
+        Added Dynasty Stamped Gold and Federation Nanite Canisters as high-value
+        event items for use in mapping. Not currently implemented anywhere.
+  id: 2647
+  time: '2026-08-21T18:17:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4493
