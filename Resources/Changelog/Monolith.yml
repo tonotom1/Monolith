@@ -24025,3 +24025,20 @@ Entries:
   id: 2641
   time: '2026-08-21T01:42:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4170
+- author: Onezero0
+  changes:
+    - type: Add
+      message: >-
+        Added 6.8x52mm Plasma, in cartridge form and rechargable battery.
+        Expensive but basically incendiary+. Great against chimera. 
+    - type: Add
+      message: >-
+        Added 14.5x114 (hristov) EMPHE ammo, for advanced EMP application and
+        area denial.
+    - type: Tweak
+      message: >-
+        Buffed smilodon accuracy gain rate, slight damage buff but increased
+        slowdown on wield.
+  id: 2642
+  time: '2026-08-21T01:49:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4522
