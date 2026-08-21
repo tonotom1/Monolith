@@ -24092,3 +24092,12 @@ Entries:
   id: 2648
   time: '2026-08-21T18:36:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4535
+- author: SuperGDPWYL
+  changes:
+    - type: Remove
+      message: >-
+        The vast majority of civilian/neutral military ships are no longer
+        obtainable.
+  id: 2649
+  time: '2026-08-21T20:43:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4537
