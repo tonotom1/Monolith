@@ -78,6 +78,7 @@
   - AmmoBox8x65mmSKRIncendiary
   - AmmoBox8x65mmSKRPractice
   - AmmoBox145x114mm
+  - AmmoBox145x114mmEMP
   - AmmoBox145x114mmBig
   - Magazine556x45mmFMJ
   - Magazine556x45mmPlasteelAP
@@ -903,6 +904,7 @@
   - MagazineSmartMagnum
   - MagazineSmartMagnumExt
   - AmmoBox145x114mm
+  - AmmoBox145x114mmEMP
   - AmmoBox145x114mmBig
   - Magazine35mmGrenade
   - Magazine127x99mm
@@ -919,6 +921,9 @@
   - AmmoBox10Phz
   - LargePowerCell400Thz
   - LargePowerCell700Thz
+  - LargePowerCellPlasma68x52mm
+  - Magazine68x52mmCaselessPlasma
+  - AmmoBox68x52mmCaselessPlasma
 
 #Big Ammo Boxes
   - AmmoBox762x39mmBigFMJ
@@ -947,3 +952,6 @@
   - AmmoBox10Phz
   - LargePowerCell400Thz
   - LargePowerCell700Thz
+  - LargePowerCellPlasma68x52mm
+  - Magazine68x52mmCaselessPlasma
+  - AmmoBox68x52mmCaselessPlasma
