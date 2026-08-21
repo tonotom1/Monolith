@@ -24014,3 +24014,14 @@ Entries:
   id: 2640
   time: '2026-08-21T01:35:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4525
+- author: Minerva
+  changes:
+    - type: Add
+      message: >-
+        Tape recorders have been ported from Frontier for recording speech. They
+        can be printed in Autolathes or selected in loadout. They can also be
+        signal-controlled by using four signal ports corresponding to their
+        buttons.
+  id: 2641
+  time: '2026-08-21T01:42:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4170
