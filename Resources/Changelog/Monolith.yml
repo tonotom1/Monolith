@@ -23972,3 +23972,10 @@ Entries:
   id: 2636
   time: '2026-08-21T01:09:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4529
+- author: Kiterny
+  changes:
+    - type: Add
+      message: Added bodycams to TSF/PDV uplinks and neck loadouts.
+  id: 2637
+  time: '2026-08-21T01:30:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4474
