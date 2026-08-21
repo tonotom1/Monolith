@@ -24007,3 +24007,10 @@ Entries:
   id: 2639
   time: '2026-08-21T01:34:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4523
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Partial smuggling crate resprite
+  id: 2640
+  time: '2026-08-21T01:35:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4525
