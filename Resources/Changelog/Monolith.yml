@@ -24051,3 +24051,10 @@ Entries:
   id: 2643
   time: '2026-08-21T02:02:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4500
+- author: SuperGDPWYL
+  changes:
+    - type: Fix
+      message: TSF Contractors and PDV Freemen can now use civilian shipyard consoles.
+  id: 2644
+  time: '2026-08-21T04:55:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4532
