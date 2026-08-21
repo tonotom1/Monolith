@@ -24083,3 +24083,12 @@ Entries:
   id: 2647
   time: '2026-08-21T18:17:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4493
+- author: SuperGDPWYL
+  changes:
+    - type: Remove
+      message: >-
+        Mercenaries have been removed. Play as a Vagrant if you want to be a
+        lone wolf fending for yourself.
+  id: 2648
+  time: '2026-08-21T18:36:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4535
