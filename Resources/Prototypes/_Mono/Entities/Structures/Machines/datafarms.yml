@@ -107,7 +107,7 @@
   components:
   - type: ResearchClient
   - type: ResearchPointSource
-    pointsPerSecond: 200
+    pointsPerSecond: 35
     active: true
   - type: ApcPowerReceiver
     powerLoad: 10000
