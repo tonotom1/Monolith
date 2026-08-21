@@ -23979,3 +23979,22 @@ Entries:
   id: 2637
   time: '2026-08-21T01:30:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4474
+- author: Onezero0
+  changes:
+    - type: Add
+      message: >-
+        Factions now have affiliated civ roles. They spawn in improved civilian
+        areas of their bases.
+    - type: Tweak
+      message: >-
+        Spacers are now known as Vagrant Spacers and are timelocked. Feel free
+        to steal their loot.
+    - type: Tweak
+      message: Everyone should have merc access now.
+    - type: Tweak
+      message: Factions start with some materials.
+    - type: Add
+      message: Factions have datafarms again. 35 points.
+  id: 2638
+  time: '2026-08-21T01:30:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4498
