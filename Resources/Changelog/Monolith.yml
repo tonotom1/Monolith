@@ -24116,3 +24116,12 @@ Entries:
   id: 2650
   time: '2026-08-21T20:51:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4533
+- author: Onezero0
+  changes:
+    - type: Fix
+      message: Fixed sevastopol data farms being really weak.
+    - type: Tweak
+      message: Hyperwar faction bases have better point generators.
+  id: 2651
+  time: '2026-08-22T01:19:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4542
