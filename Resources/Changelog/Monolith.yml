@@ -24157,3 +24157,12 @@ Entries:
   id: 2655
   time: '2026-08-23T13:05:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4550
+- author: SuperGDPWYL
+  changes:
+    - type: Add
+      message: >-
+        You can now, for the most part, equip your old Mercenary drip as a
+        Vagrant!
+  id: 2656
+  time: '2026-08-23T13:09:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4540
