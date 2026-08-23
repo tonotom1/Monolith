@@ -24150,3 +24150,10 @@ Entries:
   id: 2654
   time: '2026-08-23T13:04:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4553
+- author: lordsej
+  changes:
+    - type: Tweak
+      message: More EVA helmets are compatible with Vim Construction
+  id: 2655
+  time: '2026-08-23T13:05:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4550
