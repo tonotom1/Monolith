@@ -24166,3 +24166,10 @@ Entries:
   id: 2656
   time: '2026-08-23T13:09:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4540
+- author: lordsej
+  changes:
+    - type: Tweak
+      message: mantis blades cause flammable damage on first five strikes
+  id: 2657
+  time: '2026-08-23T13:10:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4528
