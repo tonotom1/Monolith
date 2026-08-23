@@ -24191,3 +24191,16 @@ Entries:
   id: 2659
   time: '2026-08-23T15:10:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4554
+- author: Onezero0
+  changes:
+    - type: Add
+      message: >-
+        Added the "Stellar Blessing" colonization frigate, a new civ spawn for
+        TSF contractors.
+    - type: Remove
+      message: >-
+        Removed TSF civilians spawning on the Halcyon. it still has good civ
+        amenities though.
+  id: 2660
+  time: '2026-08-23T19:32:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4556
