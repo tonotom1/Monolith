@@ -24132,3 +24132,12 @@ Entries:
   id: 2652
   time: '2026-08-23T12:51:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4551
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Zvezda is now a spawn for vagrants. Only vagrants. No factions allowed
+        here pal. Also updated the station a bit.
+  id: 2653
+  time: '2026-08-23T12:52:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4546
