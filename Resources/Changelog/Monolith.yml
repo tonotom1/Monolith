@@ -24125,3 +24125,10 @@ Entries:
   id: 2651
   time: '2026-08-22T01:19:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4542
+- author: lordsej
+  changes:
+    - type: Fix
+      message: Sandevistan Recharge Fixed
+  id: 2652
+  time: '2026-08-23T12:51:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4551
