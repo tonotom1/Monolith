@@ -24220,3 +24220,16 @@ Entries:
   id: 2662
   time: '2026-08-24T00:27:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4560
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Caelestinus station received much deserved love and care
+    - type: Tweak
+      message: You can pawn your vessel off at Zeta node now
+    - type: Fix
+      message: >-
+        The world now once again has biome markers. Biome information was
+        touched up to match recent topological reworks.
+  id: 2663
+  time: '2026-08-24T09:17:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4480
