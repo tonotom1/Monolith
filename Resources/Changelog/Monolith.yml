@@ -24280,3 +24280,12 @@ Entries:
   id: 2668
   time: '2026-08-25T22:14:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4579
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: POI walls are now twice as durable.
+    - type: Tweak
+      message: POI shields are now twice as durable and recharge faster.
+  id: 2669
+  time: '2026-08-26T19:43:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4574
