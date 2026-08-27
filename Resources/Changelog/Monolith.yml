@@ -24314,3 +24314,10 @@ Entries:
   id: 2670
   time: '2026-08-26T21:25:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4578
+- author: AthrunZala33092
+  changes:
+    - type: Add
+      message: Two additional neck slots
+  id: 2671
+  time: '2026-08-27T23:34:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4541
