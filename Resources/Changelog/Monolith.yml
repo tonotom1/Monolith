@@ -24370,3 +24370,10 @@ Entries:
   id: 2676
   time: '2026-08-28T09:36:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4589
+- author: Mapleflavoureds
+  changes:
+    - type: Tweak
+      message: Tripled RTG output! 10kw -> 30kw
+  id: 2677
+  time: '2026-08-28T22:54:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4592
