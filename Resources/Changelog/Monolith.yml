@@ -24330,3 +24330,14 @@ Entries:
   id: 2672
   time: '2026-08-27T23:48:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4584
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Mapping change: You can now put start-on volumetrics and pressure pumps
+        in secondary and tertiary pipe layers.
+    - type: Tweak
+      message: Caelestinus minor atmos and lighting touchups
+  id: 2673
+  time: '2026-08-28T09:26:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4566
