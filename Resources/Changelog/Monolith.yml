@@ -24359,3 +24359,14 @@ Entries:
   id: 2675
   time: '2026-08-28T09:30:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4587
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: >-
+        Expanded the safety deposit box blacklist for entities. No more 6ku of
+        persistent letoferol guys. It's over.
+    - type: Fix
+      message: Fixed safety deposit box withdrawing being able to duplicate boxes.
+  id: 2676
+  time: '2026-08-28T09:36:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4589
