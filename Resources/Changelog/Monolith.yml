@@ -24386,3 +24386,10 @@ Entries:
   id: 2678
   time: '2026-08-31T20:00:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4606
+- author: eris-webserv
+  changes:
+    - type: Add
+      message: The sun now exists.
+  id: 2679
+  time: '2026-08-31T20:48:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4610
