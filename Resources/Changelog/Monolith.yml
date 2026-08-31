@@ -24393,3 +24393,10 @@ Entries:
   id: 2679
   time: '2026-08-31T20:48:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4610
+- author: kasature90
+  changes:
+    - type: Remove
+      message: IRS shot dead. Taxes are gone.
+  id: 2680
+  time: '2026-08-31T21:39:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4611
