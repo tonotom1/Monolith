@@ -24377,3 +24377,12 @@ Entries:
   id: 2677
   time: '2026-08-28T22:54:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4592
+- author: eris-webserv
+  changes:
+    - type: Add
+      message: >-
+        A new device revision for the plant analyzer has been broadcasted to all
+        research servers.
+  id: 2678
+  time: '2026-08-31T20:00:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4606
