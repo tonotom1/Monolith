@@ -24400,3 +24400,10 @@ Entries:
   id: 2680
   time: '2026-08-31T21:39:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4611
+- author: eris-webserv
+  changes:
+    - type: Add
+      message: 'Plants now have a few more chemicals they can produce. '
+  id: 2681
+  time: '2026-09-02T00:50:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4614
