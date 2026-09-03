@@ -24407,3 +24407,10 @@ Entries:
   id: 2681
   time: '2026-09-02T00:50:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4614
+- author: Pcolik505
+  changes:
+    - type: Fix
+      message: Fixed inhand ship repair matter sprite
+  id: 2682
+  time: '2026-09-03T00:40:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4619
