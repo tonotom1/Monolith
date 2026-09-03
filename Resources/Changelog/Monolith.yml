@@ -24414,3 +24414,14 @@ Entries:
   id: 2682
   time: '2026-09-03T00:40:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4619
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Added Turjan Alyahn's highfleet tracks to the jukebox, and 2 of them to
+        the lobby.
+    - type: Add
+      message: Added the Halo songs from the lobby to jukebox.
+  id: 2683
+  time: '2026-09-03T00:52:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4621
