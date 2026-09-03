@@ -24448,3 +24448,19 @@ Entries:
   id: 2686
   time: '2026-09-03T01:16:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4622
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Plate balance was overhauled to be more impactful. You can now buy
+        piercing plates in cargo. Lathe costs for printing plates have been
+        reduced overall. Iridite plate now costs iridite. You can now repair
+        plates with a nanite applicator.
+    - type: Tweak
+      message: >-
+        Hardsuits with shield generators are now prohibited from equipping
+        plates. You still have the 2x2 inventory to fill with other stuff
+        instead.
+  id: 2687
+  time: '2026-09-03T01:19:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4281
