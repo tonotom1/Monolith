@@ -13,6 +13,7 @@ using Content.Server.GameTicking;
 using Content.Server.GameTicking.Presets;
 using Content.Server.GameTicking.Rules;
 using Content.Shared._NF.Bank;
+using Content.Server._Mono.MonoCoins;
 using Content.Shared._NF.CCVar;
 using Content.Shared.GameTicking;
 using Content.Shared.GameTicking.Components;
@@ -36,6 +37,8 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
     [Dependency] private IPlayerManager _player = default!;
     [Dependency] private IPrototypeManager _proto = default!;
     [Dependency] private BankSystem _bank = default!;
+    [Dependency] private MonoCoinsManager _coins = default!;
+    [Dependency] private ISharedPlayerManager _playerManager = default!;
     [Dependency] private GameTicker _ticker = default!;
     [Dependency] private PointOfInterestSystem _poi = default!;
     [Dependency] private IBaseServer _baseServer = default!;
@@ -63,16 +66,22 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
         public int StartBalance;
         // Ending balance, obtained on game end or detach (NOTE: multiple detaches possible), whichever happens first.
         public int EndBalance;
+        // Initial savings, obtained on spawn
+        public long StartSavings;
+        // Ending savings, obtained on game end or detach (NOTE: multiple detaches possible), whichever happens first.
+        public long EndSavings;
         // Entity name: used for display purposes ("The Feel of Fresh Bills earned 100,000 spesos")
         public string Name;
         // User ID: used to validate incoming information.
         // If, for whatever reason, another player takes over this character, their initial balance is inaccurate.
         public NetUserId UserId;
 
-        public PlayerRoundBankInformation(int startBalance, string name, NetUserId userId)
+        public PlayerRoundBankInformation(int startBalance, long startSavings, string name, NetUserId userId)
         {
             StartBalance = startBalance;
             EndBalance = -1;
+            StartSavings = startSavings;
+            EndSavings = -1;
             Name = name;
             UserId = userId;
         }
@@ -116,12 +125,13 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
             {
                 endBalance = bankBalance;
             }
+            var endSavings = GetEntSavings(player);
 
             // Check if endBalance is valid (non-negative)
             if (endBalance < 0)
                 continue;
 
-            var profit = endBalance - playerInfo.StartBalance;
+            var profit = endBalance - playerInfo.StartBalance + endSavings - playerInfo.StartSavings;
             var playerBankData = new BankData()
             {
                 PlayerName = playerInfo.Name,
@@ -146,6 +156,13 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
 
             ev.AddLine($"- {data.PlayerName} {summaryText}");
         }
+    }
+
+    private long GetEntSavings(EntityUid uid)
+    {
+        if (_playerManager.TryGetSessionByEntity(uid, out var session))
+            return _coins.GetMonoCoinsBalance(session.UserId) ?? 0;
+        return 0;
     }
 
     private string GetTopFor(List<BankData> orderedData, LocId adventureWebhookId, bool reverse = false)
@@ -218,7 +235,7 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
 
             // Store player info with the bank balance - we have it directly, and BankSystem won't have a cache yet.
             if (!_players.ContainsKey(mobUid))
-                _players[mobUid] = new PlayerRoundBankInformation(ev.Profile.BankBalance, MetaData(mobUid).EntityName, ev.Player.UserId);
+                _players[mobUid] = new PlayerRoundBankInformation(ev.Profile.BankBalance, GetEntSavings(mobUid), MetaData(mobUid).EntityName, ev.Player.UserId);
         }
     }
 
@@ -236,6 +253,7 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
             _bank.TryGetBalance(ev.Player, out var bankBalance))
         {
             value.EndBalance = bankBalance;
+            value.EndSavings = GetEntSavings(mobUid);
         }
     }
 
@@ -279,6 +297,7 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
 
         var playerInfo = playerEntry.Value;
         var endBalance = playerInfo.EndBalance;
+        var endSavings = GetEntSavings(playerEntry.Key);
 
         // Try to get current balance if end balance wasn't set
         if (_bank.TryGetBalance(playerEntry.Key, out var bankBalance))
@@ -510,7 +529,7 @@ public sealed partial class NFAdventureRuleSystem : GameRuleSystem<NFAdventureRu
 public record struct BankData
 {
     public string PlayerName { get; set; }
-    public int Profit { get; set; }
+    public long Profit { get; set; }
 
     public BankData(string playerName, int profit)
     {
