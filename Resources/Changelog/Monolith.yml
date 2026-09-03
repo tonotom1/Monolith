@@ -24432,3 +24432,10 @@ Entries:
   id: 2684
   time: '2026-09-03T01:06:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3110
+- author: MantasDab360
+  changes:
+    - type: Fix
+      message: Savings are now included into summary.
+  id: 2685
+  time: '2026-09-03T01:12:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4067
