@@ -24439,3 +24439,12 @@ Entries:
   id: 2685
   time: '2026-09-03T01:12:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4067
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: ER, Judge, Rahk and Marine timelocks lowered to 4 hours.
+    - type: Remove
+      message: Removed timelocks for Vagrants.
+  id: 2686
+  time: '2026-09-03T01:16:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4622
