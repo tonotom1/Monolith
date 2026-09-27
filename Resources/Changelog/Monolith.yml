@@ -25483,3 +25483,18 @@ Entries:
   id: 2769
   time: '2026-09-26T23:02:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4782
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: >-
+        Adjusted the names of shipgun calibers so an AK820 isn't firing 120mm
+        shells at 3.5 RPS. That's really absurd, if you didn't know. Purely
+        visual change, no stat changes done.
+    - type: Tweak
+      message: >-
+        Edited the current AK820 sprite to be dual-barreled. Added a
+        single-barreled variant with half the firerate & GCS cost, but it isn't
+        mapped anywhere.
+  id: 2770
+  time: '2026-09-27T04:22:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4786
