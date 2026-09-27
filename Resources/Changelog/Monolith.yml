@@ -25498,3 +25498,12 @@ Entries:
   id: 2770
   time: '2026-09-27T04:22:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4786
+- author: Mrrpip
+  changes:
+    - type: Tweak
+      message: Chimeras now show up a bit later in biothreat.
+    - type: Tweak
+      message: Chimeras will spawn in lighter ships until the 1:15 mark.
+  id: 2771
+  time: '2026-09-27T04:28:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4787
