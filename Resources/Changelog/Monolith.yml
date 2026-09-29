@@ -25554,3 +25554,10 @@ Entries:
   id: 2776
   time: '2026-09-29T15:31:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4767
+- author: DoubleHypercube
+  changes:
+    - type: Fix
+      message: Volta sprite is no longer an error for vulps
+  id: 2777
+  time: '2026-09-29T15:59:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4788
