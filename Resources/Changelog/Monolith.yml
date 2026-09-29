@@ -25507,3 +25507,10 @@ Entries:
   id: 2771
   time: '2026-09-27T04:28:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4787
+- author: DoubleHypercube
+  changes:
+    - type: Tweak
+      message: Bumped most species arm/leg marking count max to 8 for parity
+  id: 2772
+  time: '2026-09-29T15:26:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4797
