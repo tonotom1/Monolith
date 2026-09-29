@@ -58,9 +58,7 @@
     - Flash
     - RubberStampSr
     - DoorRemoteCommand
-    - EncryptionKeyCentCom
     - EncryptionKeyStationMasterSR #Mono start
-    - EncryptionKeyDiplomacy
   # - ShipVoucherFrontierGuard # Mono
     - PhoneInstrumentHigh
     - CCHandheldOverwatchConsole
