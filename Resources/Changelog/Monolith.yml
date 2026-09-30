@@ -25608,3 +25608,13 @@ Entries:
   id: 2781
   time: '2026-09-30T02:51:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4785
+- author: Cosmopillow
+  changes:
+    - type: Tweak
+      message: >-
+        Changed the DOC and overseer Icons to be green, also made adjusted the
+        icons of overseer and judges to be a shield instead. no more confusing
+        them for TSF!
+  id: 2782
+  time: '2026-09-30T02:53:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4763
