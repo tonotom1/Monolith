@@ -25590,3 +25590,12 @@ Entries:
   id: 2779
   time: '2026-09-30T02:25:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4798
+- author: SuperGDPWYL
+  changes:
+    - type: Tweak
+      message: >-
+        You can't take the Heretic trait as a member of the TSFMC or PDV
+        anymore.
+  id: 2780
+  time: '2026-09-30T02:50:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4789
