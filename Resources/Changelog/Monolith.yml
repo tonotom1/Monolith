@@ -25618,3 +25618,12 @@ Entries:
   id: 2782
   time: '2026-09-30T02:53:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4763
+- author: SuperGDPWYL
+  changes:
+    - type: Tweak
+      message: >-
+        The PDV VT-7 blade is now able to be swung with both hands for a
+        stronger blow.
+  id: 2783
+  time: '2026-09-30T02:55:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4749
