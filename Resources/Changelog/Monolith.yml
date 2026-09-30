@@ -25599,3 +25599,12 @@ Entries:
   id: 2780
   time: '2026-09-30T02:50:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4789
+- author: Mrrpip
+  changes:
+    - type: Remove
+      message: >-
+        Removed PDV tech disks that exclusively used Adamantite from the
+        Sevastopol loot pools.
+  id: 2781
+  time: '2026-09-30T02:51:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4785
