@@ -25651,3 +25651,20 @@ Entries:
   id: 2785
   time: '2026-10-01T09:43:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4804
+- author: kasature90
+  changes:
+    - type: Fix
+      message: >-
+        Fixed MMC cash loan bounties giving 1x more than intended (cash doesn't
+        sell)
+    - type: Fix
+      message: Fixed ERs who spawn roundstart not being able to leave room.
+    - type: Fix
+      message: >-
+        Fixed an issue where removing a recoil-modifying attachment from a gun
+        wouldn't undo the bonuses to the wield bonus.
+    - type: Fix
+      message: Fixed balaclavas layering above hats for IPCs.
+  id: 2786
+  time: '2026-10-01T11:15:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4805
