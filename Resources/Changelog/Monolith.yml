@@ -25634,3 +25634,20 @@ Entries:
   id: 2784
   time: '2026-10-01T00:48:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4801
+- author: kasature90
+  changes:
+    - type: Add
+      message: Added a forest camo variant of the TSF jumpsuit. Finally.
+    - type: Add
+      message: Added a ground combat mode as playtest-ready. Admin only for now.
+    - type: Add
+      message: >-
+        Ported a lot of N14 assets. Only in changelog because a small amount of
+        them are in construction menu.
+    - type: Tweak
+      message: Wood uses the wizden texture now.
+    - type: Fix
+      message: Fixed muzzle flashes not working.
+  id: 2785
+  time: '2026-10-01T09:43:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4804
