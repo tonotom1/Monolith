@@ -25627,3 +25627,10 @@ Entries:
   id: 2783
   time: '2026-09-30T02:55:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4749
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Vulpkanins now have the Tajaran-style fox tail marking.
+  id: 2784
+  time: '2026-10-01T00:48:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4801
