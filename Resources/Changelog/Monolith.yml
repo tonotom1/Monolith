@@ -25706,3 +25706,12 @@ Entries:
   id: 2788
   time: '2026-10-02T00:24:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4808
+- author: SuperGDPWYL
+  changes:
+    - type: Tweak
+      message: >-
+        There are now much, much longer options for the duration of the C-4's
+        fuse.
+  id: 2789
+  time: '2026-10-02T01:46:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4803
