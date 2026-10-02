@@ -25726,3 +25726,14 @@ Entries:
   id: 2790
   time: '2026-10-02T01:49:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4802
+- author: AthrunZala33092
+  changes:
+    - type: Add
+      message: Wireless Camera Router to Halcyon
+    - type: Remove
+      message: M290 sentries from Halcyon armory
+    - type: Tweak
+      message: Named a lot of Halcyon cameras
+  id: 2791
+  time: '2026-10-02T01:51:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4776
