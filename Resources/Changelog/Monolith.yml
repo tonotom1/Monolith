@@ -25783,3 +25783,12 @@ Entries:
   id: 2794
   time: '2026-10-03T17:51:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4814
+- author: SuperGDPWYL
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the CV-53, M-92X, Enforcer MkII and MEDUSA having 2x their
+        intended shield HP.
+  id: 2795
+  time: '2026-10-03T21:46:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4817
