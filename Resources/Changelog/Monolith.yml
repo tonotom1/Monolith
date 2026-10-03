@@ -25765,3 +25765,10 @@ Entries:
   id: 2792
   time: '2026-10-03T10:28:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4812
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed respawn timers sometimes being instant.
+  id: 2793
+  time: '2026-10-03T17:35:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4813
