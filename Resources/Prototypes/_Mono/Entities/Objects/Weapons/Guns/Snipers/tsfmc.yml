@@ -287,10 +287,11 @@
     maxAngle: 54 # Mono
     angleIncrease: 14
     angleDecay: 5
+    damageModifier: 2
     selectedMode: SemiAuto
     availableModes:
     - SemiAuto
-    fireRate: 2
+    fireRate: 1.5
     soundGunshot:
       collection: DMRFire
   - type: ChamberMagazineAmmoProvider
