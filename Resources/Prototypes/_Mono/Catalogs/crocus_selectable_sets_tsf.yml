@@ -14,7 +14,7 @@
   - Magazine68x52mmCaseless
   - Magazine68x52mmCaseless
   - AmmoBox68x52mmCaseless
-  - Medkit
+  - MedkitFilled
   - Tourniquet
   - Tourniquet
   - GrenadeFlashBang
@@ -35,8 +35,8 @@
   - Magazine45_ACPSubMachineGunFMJ
   - Magazine45_ACPSubMachineGunFMJ
   - AmmoBox45_ACPFMJ
-  - MedkitCombat
-  - MedkitCombat
+  - MedkitCombatFilled
+  - MedkitCombatFilled
   - ClothingMaskSterile
   - HandheldHealthAnalyzer
   - Hemostat
@@ -60,7 +60,7 @@
   - Magazine45_ACPSubMachineGunFMJ
   - Magazine45_ACPSubMachineGunFMJ
   - AmmoBox45_ACPFMJ
-  - Medkit
+  - MedkitFilled
   - ClothingHelmetAttachmentNVGsBasic
   - ClothingHelmetCoverHelmetMount
   - BreachingCharge
@@ -98,7 +98,7 @@
   - Magazine45_ACPSubMachineGunFMJ
   - Magazine45_ACPSubMachineGunFMJ
   - AmmoBox45_ACPFMJ
-  - Medkit
+  - MedkitFilled
   - ExGrenade
   - ExGrenade
   - ExGrenade
@@ -121,6 +121,6 @@
   - Magazine8x65mmSKR
   - Magazine8x65mmSKR
   - AmmoBox8x65mmSKR
-  - Medkit
+  - MedkitFilled
   - ClothingHelmetAttachmentNVGsBasic
   - ClothingHelmetCoverHelmetMount

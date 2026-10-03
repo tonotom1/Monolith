@@ -14,7 +14,7 @@
   - Magazine762x51mmFMJ
   - Magazine762x51mmFMJ
   - AmmoBox762x51mmFMJ
-  - Medkit
+  - MedkitFilled
   - Tourniquet
   - Tourniquet
   - GrenadeFlashBang
@@ -35,8 +35,8 @@
   - Magazine556x45mmFMJ
   - Magazine556x45mmFMJ
   - AmmoBox556x45mmFMJ
-  - MedkitCombat
-  - MedkitCombat
+  - MedkitCombatFilled
+  - MedkitCombatFilled
   - ClothingMaskSterile
   - HandheldHealthAnalyzer
   - Hemostat
@@ -60,7 +60,7 @@
   - Magazine556x45mmFMJ
   - Magazine556x45mmFMJ
   - AmmoBox556x45mmFMJ
-  - Medkit
+  - MedkitFilled
   - ClothingHelmetAttachmentNVGsBasic
   - ClothingHelmetCoverHelmetMount
   - BreachingCharge
@@ -102,7 +102,7 @@
   - Magazine9x19mmSubMachineGunFMJ
   - Magazine9x19mmSubMachineGunFMJ
   - AmmoBox9x19mmFMJ
-  - Medkit
+  - MedkitFilled
   - ExGrenade
   - ExGrenade
   - ExGrenade
@@ -126,6 +126,6 @@
   - Magazine635x40mmCaseless
   - Magazine635x40mmCaseless
   - AmmoBox635x40mmCaseless
-  - Medkit
+  - MedkitFilled
   - GrenadeFlashBang
   - GrenadeFlashBang
