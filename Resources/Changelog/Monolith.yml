@@ -25841,3 +25841,10 @@ Entries:
   id: 2796
   time: '2026-10-04T22:31:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4822
+- author: RikuTheKiller
+  changes:
+    - type: Fix
+      message: Fixed dead drops not spawning on Zvezda and Caelestinus Central.
+  id: 2797
+  time: '2026-10-05T00:12:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4823
