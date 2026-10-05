@@ -25848,3 +25848,10 @@ Entries:
   id: 2797
   time: '2026-10-05T00:12:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4823
+- author: Mrrpip
+  changes:
+    - type: Fix
+      message: Fixed an inappropriate locker on the Talon.
+  id: 2798
+  time: '2026-10-05T00:50:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4811
