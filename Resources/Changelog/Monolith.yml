@@ -25862,3 +25862,14 @@ Entries:
   id: 2799
   time: '2026-10-05T17:03:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4824
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Added a custom parallax instead of using the same one as Frontier.
+        Finally, planets no longer drawing in front of asteroids.
+    - type: Add
+      message: FTL-space got a custom parallax too. With ambient light even.
+  id: 2800
+  time: '2026-10-05T20:20:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4828
