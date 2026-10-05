@@ -107,6 +107,8 @@ entities:
     - type: ImplicitRoof
     - type: RadiationGridResistance
     - type: ExplosionAirtightGrid
+    - type: Parallax
+      parallax: SnowballStation
 - proto: CableApcExtension
   entities:
   - uid: 3
