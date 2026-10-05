@@ -25855,3 +25855,10 @@ Entries:
   id: 2798
   time: '2026-10-05T00:50:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4811
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: Alternate gamemodes now need a minimum pop of 30 to be votable.
+  id: 2799
+  time: '2026-10-05T17:03:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4824
