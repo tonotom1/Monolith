@@ -25959,3 +25959,16 @@ Entries:
   id: 2808
   time: '2026-10-08T20:37:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4835
+- author: Tuerk
+  changes:
+    - type: Add
+      message: >-
+        Ironman characters are now able to purchase ships. Simply insert credits
+        like you would a Vendomat and your ID.
+    - type: Add
+      message: >-
+        Ironman characters selling their ship will now be returned the sell
+        value in cash.
+  id: 2809
+  time: '2026-10-08T20:40:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3913
