@@ -25933,3 +25933,12 @@ Entries:
   id: 2805
   time: '2026-10-08T20:12:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4748
+- author: SuperGDPWYL
+  changes:
+    - type: Remove
+      message: >-
+        You can no longer fire a gun while holding a shield, with the exception
+        of ballistic sidearms.
+  id: 2806
+  time: '2026-10-08T20:17:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4722
