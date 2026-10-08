@@ -25942,3 +25942,13 @@ Entries:
   id: 2806
   time: '2026-10-08T20:17:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4722
+- author: kasature90
+  changes:
+    - type: Remove
+      message: >-
+        Kills CD disk crate from cargo. Was going to filter it out, but after
+        removing all the Goob metaclique/syndie/NT stuff it was just almost
+        empty.
+  id: 2807
+  time: '2026-10-08T20:27:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4834
