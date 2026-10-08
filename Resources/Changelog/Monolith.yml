@@ -25972,3 +25972,57 @@ Entries:
   id: 2809
   time: '2026-10-08T20:40:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3913
+- author: SuperGDPWYL
+  changes:
+    - type: Add
+      message: >-
+        Added the Underground Black Market, a hideout harboring up to five
+        Fugitives from the TSFMC and ran by the Godfather. Both are very much
+        wanted by the TSF and the TSFMC will receive FMC if they can be caught.
+    - type: Add
+      message: >-
+        Added the RX-01 modsuit (formerly a Spasaka-exclusive item) to the
+        UndergroundVend (formerly ContraVend), four of which can be found on the
+        Underground Black Market.
+    - type: Add
+      message: >-
+        Added the Damocles as the Godfather's exclusive sidearm, packing an
+        incredible punch. It only accepts 9x19mm machine pistol magazines, which
+        can now be bought from the UndergroundVend for 15 TC each.
+    - type: Tweak
+      message: >-
+        The Typewriter, WL-01 and all Ullman Industries items are now Black
+        Market items. The Typewriter's rate of fire has been buffed, and they're
+        all exchangeable for FMC now. The Fugitive can now spawn with the WL-01,
+        and both the Fugitive and Godfather can spawn with the Typewriter.
+    - type: Tweak
+      message: >-
+        The pierce resistance of the UI pilot and engineer suits has been buffed
+        to 35%.
+    - type: Tweak
+      message: KamiCats (formerly SyndiCats) no longer spawn in surplus crates.
+    - type: Tweak
+      message: >-
+        Nerfed the pierce resistance of the RD experimental hardsuit and
+        spationaut hardsuit.
+    - type: Tweak
+      message: >-
+        Underground pinpointers (formerly Syndicate pinpointers) now point to
+        the Underground Black Market instead of PDV Jupiter.
+    - type: Remove
+      message: >-
+        Vagrants can no longer spawn with U.I. suits (Fugitives still can).
+        Vagrants can no longer spawn with the Magnate Modsuit or Captain
+        Hardsuit (Fugitives cannot either).
+    - type: Remove
+      message: Removed or replaced a LOT of Syndicate and Nanotrasen references.
+    - type: Remove
+      message: The C-20r and Bulldog can no longer be bought from the UndergroundVend.
+    - type: Fix
+      message: >-
+        PDV Denasvar and Spasaka now output to the right channel when they enter
+        cryosleep. MMC, USSP, VG and Caelestinus roles now output to their own
+        channels when they enter cryosleep.
+  id: 2810
+  time: '2026-10-08T21:04:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4816
