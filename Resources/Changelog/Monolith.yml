@@ -25952,3 +25952,10 @@ Entries:
   id: 2807
   time: '2026-10-08T20:27:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4834
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: ~15 new vinyls by Nulb/Deltarisk!
+  id: 2808
+  time: '2026-10-08T20:37:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4835
