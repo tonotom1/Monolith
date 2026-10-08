@@ -25918,3 +25918,18 @@ Entries:
   id: 2804
   time: '2026-10-08T04:18:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4656
+- author: SuperGDPWYL
+  changes:
+    - type: Remove
+      message: Jetpacks can no longer be detected on radar.
+    - type: Tweak
+      message: The 20mm autocannon no longer instantly kills anyone it hits.
+    - type: Tweak
+      message: >-
+        Thruster strength and ship acceleration has been significantly nerfed.
+        Ships should be quite a bit slower now.
+    - type: Remove
+      message: MK-290s no longer spawn in Halcyon's armory.
+  id: 2805
+  time: '2026-10-08T20:12:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4748
