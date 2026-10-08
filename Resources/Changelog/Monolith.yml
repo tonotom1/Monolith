@@ -25900,3 +25900,14 @@ Entries:
   id: 2802
   time: '2026-10-07T04:47:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4831
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Ported Goob radio host. News/radio host room replaces one of the CC
+        maint rooms right next to the firing range. Radio flatpack vend replaces
+        a random drink/food vendor by shipyard consoles. Added some station
+        radios around to CC only. It's available in R&D too.
+  id: 2803
+  time: '2026-10-08T04:16:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4833
