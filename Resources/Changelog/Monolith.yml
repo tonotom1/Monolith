@@ -25911,3 +25911,10 @@ Entries:
   id: 2803
   time: '2026-10-08T04:16:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4833
+- author: lordsej
+  changes:
+    - type: Tweak
+      message: Loose Limbs are now edible!
+  id: 2804
+  time: '2026-10-08T04:18:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4656
