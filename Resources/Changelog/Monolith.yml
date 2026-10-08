@@ -26026,3 +26026,21 @@ Entries:
   id: 2810
   time: '2026-10-08T21:04:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4816
+- author: SuperGDPWYL
+  changes:
+    - type: Remove
+      message: The Overseer now actually no longer has TSF, PDV or HiComm comms.
+    - type: Remove
+      message: The "Central Command" department has been removed.
+    - type: Add
+      message: >-
+        The Caelestinus Worker has been added as a general-purpose member of
+        Caelestinus. Its playtime requirement has been removed.
+    - type: Tweak
+      message: >-
+        C-Medical or Medical Dispatch is now officially a part of Caelestinus.
+        The Overseer and Director of Care can now keep track of each other's
+        branches via their handheld overwatch consoles.
+  id: 2811
+  time: '2026-10-08T21:07:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4807
