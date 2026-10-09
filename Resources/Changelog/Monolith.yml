@@ -26073,3 +26073,13 @@ Entries:
   id: 2813
   time: '2026-10-09T01:27:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4838
+- author: SuperGDPWYL
+  changes:
+    - type: Tweak
+      message: >-
+        The "Mudskipper" model of ship is no longer sold by the scrapyard
+        console. It is now found in the underground shipyard console found on
+        the Underground Black Market.
+  id: 2814
+  time: '2026-10-09T01:30:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4837
