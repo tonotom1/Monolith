@@ -102,6 +102,10 @@
         alwaysFaceTarget: true
         inRangeMaxSpeed: 50
         avoidProjectiles: true
+        #Heavily lobotomized the dodging
+        evasionSectorDepth: 2
+        evasionSectorCount: 6
+        ProjectileSearchBounds: 256
         range: 350
         rangeTolerance: 50
         targetKey: TargetCoordinates
@@ -144,12 +148,60 @@
         avoidProjectiles: true
         range: 750
         rangeTolerance: 150
+        #Heavily lobotomized the dodging
+        evasionSectorDepth: 2
+        evasionSectorCount: 6
+        ProjectileSearchBounds: 256
         targetKey: TargetCoordinates
     - !type:HTNPrimitiveTask
       operator: !type:ShipFireGunsOperator
         shutdownState: TaskFinished
         removeKeyOnFinish: false
         leadingAccuracy: 0.6 # knows how to aim
+        targetKey: TargetCoordinates
+      services:
+      - !type:UtilityService
+        id: TargetsService
+        proto: NearbyShuttleTargets
+        key: Target
+        coordinatesKey: TargetCoordinates
+      
+- type: htnCompound
+  id: DroneCompoundGust
+  branches:
+  - tasks:
+    - !type:HTNPrimitiveTask
+      operator: !type:UtilityOperator
+        proto: NearbyShuttleTargets
+    - !type:HTNCompoundTask
+      task: ShuttleAttackDroneCompoundGust
+      
+- type: htnCompound
+  id: ShuttleAttackDroneCompoundGust
+  branches:
+  - preconditions:
+    - !type:KeyExistsPrecondition
+      key: TargetCoordinates
+    tasks:
+    - !type:HTNPrimitiveTask
+      operator: !type:ShipMoveToOperator
+        shutdownState: PlanFinished
+        removeKeyOnFinish: false
+        alwaysFaceTarget: true
+        inRangeMaxSpeed: 4
+        avoidProjectiles: true
+        range: 650
+        rangeTolerance: 150
+        #WHAT IT TOOK TO CAGE ME
+        evasionSectorDepth: 2
+        evasionSectorCount: 6
+        ProjectileSearchBounds: 64
+        targetKey: TargetCoordinates
+    - !type:HTNPrimitiveTask
+      operator: !type:ShipFireGunsOperator
+        shutdownState: TaskFinished
+        removeKeyOnFinish: false
+        leadingAccuracy: 0.6
         targetKey: TargetCoordinates
       services:
       - !type:UtilityService
@@ -312,8 +364,8 @@
         targetKey: TargetCoordinates
         mode: OrbitCW
         orbitOffset: 5
-        evasionSectorDepth: 5
-        evasionSectorCount: 36
+        evasionSectorDepth: 3
+        evasionSectorCount: 12
       services:
       - !type:UtilityService
         id: TargetsService
