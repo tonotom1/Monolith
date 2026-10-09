@@ -102,10 +102,9 @@
         alwaysFaceTarget: true
         inRangeMaxSpeed: 50
         avoidProjectiles: true
-        #Heavily lobotomized the dodging
+        #Mildly lobotomized the dodging
         evasionSectorDepth: 2
-        evasionSectorCount: 6
-        ProjectileSearchBounds: 256
+        evasionSectorCount: 12
         range: 350
         rangeTolerance: 50
         targetKey: TargetCoordinates
@@ -148,10 +147,9 @@
         avoidProjectiles: true
         range: 750
         rangeTolerance: 150
-        #Heavily lobotomized the dodging
+        #Mildly lobotomized the dodging
         evasionSectorDepth: 2
-        evasionSectorCount: 6
-        ProjectileSearchBounds: 256
+        evasionSectorCount: 12
         targetKey: TargetCoordinates
     - !type:HTNPrimitiveTask
       operator: !type:ShipFireGunsOperator
@@ -190,12 +188,12 @@
         alwaysFaceTarget: true
         inRangeMaxSpeed: 4
         avoidProjectiles: true
-        range: 650
+        range: 750
         rangeTolerance: 150
-        #WHAT IT TOOK TO CAGE ME
+        #Heavily lobotomized dodging
         evasionSectorDepth: 2
-        evasionSectorCount: 6
-        ProjectileSearchBounds: 64
+        evasionSectorCount: 8
+        projectileSearchBounds: 336
         targetKey: TargetCoordinates
     - !type:HTNPrimitiveTask
       operator: !type:ShipFireGunsOperator
