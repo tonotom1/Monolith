@@ -26051,3 +26051,25 @@ Entries:
   id: 2812
   time: '2026-10-09T00:48:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4839
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Electrical machines are flammable now if they get hit by flammable
+        things. Not by fires yet, static entities don't collide with eachother.
+        Fuel tanks & ship ammo flammable too now, you actually have to worry
+        about those.
+    - type: Tweak
+      message: >-
+        Electrical machine explosions replaced with ones that cause fire more
+        than tile damage. Gyros and generators too, so now you'll just burn to
+        death instead of getting fucked over instantly.
+    - type: Tweak
+      message: Tiles are slightly more flammable now.
+    - type: Tweak
+      message: Fire needs less oxygen to spread now.
+    - type: Fix
+      message: Fixed scrubbers not scrubbing smoke by default.
+  id: 2813
+  time: '2026-10-09T01:27:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4838
