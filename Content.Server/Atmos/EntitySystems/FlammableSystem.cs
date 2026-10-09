@@ -508,7 +508,7 @@ namespace Content.Server.Atmos.EntitySystems
 
                     // If we're in an oxygenless environment, put the fire out.
                     // ES START
-                    if (air == null || air.GetMoles(Gas.Oxygen) < 5f)
+                    if (air == null || air.GetMoles(Gas.Oxygen) < 2f)
                     // ES END
                     {
                         Extinguish(uid, flammable);
