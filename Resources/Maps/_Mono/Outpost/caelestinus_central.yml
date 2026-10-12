@@ -4,8 +4,8 @@ meta:
   engineVersion: 277.0.0
   forkId: ""
   forkVersion: ""
-  time: 10/11/2026 22:33:27
-  entityCount: 10114
+  time: 10/11/2026 23:11:01
+  entityCount: 10115
 maps:
 - 1
 grids:
@@ -335,11 +335,11 @@ entities:
     - type: ThermalSignature
     - type: SpreaderGrid
       spreadQueues:
-        ESTileFire: []
-        Puddle: []
-        MetalFoam: []
-        Kudzu: []
         Smoke: []
+        ESTileFire: []
+        MetalFoam: []
+        Puddle: []
+        Kudzu: []
     - type: Shuttle
       dampingModifier: 0.25
     - type: ImplicitRoof
@@ -14447,11 +14447,6 @@ entities:
     - type: Transform
       pos: -31.5,30.5
       parent: 2
-  - uid: 1229
-    components:
-    - type: Transform
-      pos: -42.5,40.5
-      parent: 2
   - uid: 1230
     components:
     - type: Transform
@@ -17087,15 +17082,15 @@ entities:
     - type: Transform
       pos: -39.5,12.5
       parent: 2
-  - uid: 1890
-    components:
-    - type: Transform
-      pos: -41.5,40.5
-      parent: 2
   - uid: 1891
     components:
     - type: Transform
       pos: -33.5,40.5
+      parent: 2
+  - uid: 1892
+    components:
+    - type: Transform
+      pos: -43.5,40.5
       parent: 2
   - uid: 10062
     components:
@@ -17773,15 +17768,20 @@ entities:
       parent: 2
 - proto: CableApcStack1
   entities:
+  - uid: 1229
+    components:
+    - type: Transform
+      pos: -41.5,40.5
+      parent: 2
   - uid: 1599
     components:
     - type: Transform
       pos: -40.5,40.5
       parent: 2
-  - uid: 1892
+  - uid: 1890
     components:
     - type: Transform
-      pos: -43.496616,40.42115
+      pos: -42.5,40.5
       parent: 2
 - proto: CableHV
   entities:
@@ -20137,10 +20137,11 @@ entities:
       parent: 2
 - proto: CableHVStack
   entities:
-  - uid: 2363
+  - uid: 6415
     components:
     - type: Transform
-      pos: -49.67189,0.42513847
+      rot: 3.141592653589793 rad
+      pos: -49.615295,0.3259722
       parent: 2
 - proto: CableHVStack1
   entities:
@@ -47081,12 +47082,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: -43.5,-17.5
       parent: 2
-  - uid: 6368
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -43.5,25.5
-      parent: 2
   - uid: 6369
     components:
     - type: Transform
@@ -47120,6 +47115,12 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -43.5,6.5
+      parent: 2
+  - uid: 6551
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -42.5,26.5
       parent: 2
 - proto: PoweredLEDSmallLight
   entities:
@@ -47199,6 +47200,12 @@ entities:
       parent: 2
 - proto: Poweredlight
   entities:
+  - uid: 6368
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -27.5,50.5
+      parent: 2
   - uid: 6387
     components:
     - type: Transform
@@ -47361,12 +47368,6 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -29.5,41.5
-      parent: 2
-  - uid: 6415
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -29.5,50.5
       parent: 2
   - uid: 6416
     components:
@@ -47795,6 +47796,12 @@ entities:
       parent: 2
 - proto: PoweredSmallLightEmpty
   entities:
+  - uid: 2363
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -49.5,0.5
+      parent: 2
   - uid: 6487
     components:
     - type: Transform
@@ -47824,26 +47831,25 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -51.5,8.5
       parent: 2
-  - uid: 6492
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -48.5,0.5
-      parent: 2
-  - uid: 6493
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -48.5,3.5
-      parent: 2
   - uid: 6494
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -40.5,-27.5
       parent: 2
+  - uid: 10071
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -49.5,3.5
+      parent: 2
 - proto: PoweredStrobeGreenEnabled
   entities:
+  - uid: 6493
+    components:
+    - type: Transform
+      pos: 5.5,-9.5
+      parent: 2
   - uid: 6495
     components:
     - type: Transform
@@ -48174,6 +48180,12 @@ entities:
       parent: 2
 - proto: PoweredWarmSmallLight
   entities:
+  - uid: 6492
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -17.5,51.5
+      parent: 2
   - uid: 6545
     components:
     - type: Transform
@@ -48207,12 +48219,6 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -40.5,8.5
-      parent: 2
-  - uid: 6551
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -17.5,51.5
       parent: 2
   - uid: 6552
     components:
