@@ -26211,3 +26211,10 @@ Entries:
   id: 2825
   time: '2026-10-12T05:37:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4859
+- author: DoubleHypercube
+  changes:
+    - type: Tweak
+      message: Saved around ~270MB of VRAM.
+  id: 2826
+  time: '2026-10-13T02:23:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4866
