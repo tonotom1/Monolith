@@ -246,7 +246,7 @@ public partial class ChatSystem
         RaiseLocalEvent(uid, ref ev);
     }
 
-    //Mono: Chat-only override
+    //Mono: Chat-only overload
     private void InvokeEmoteEventChatOnly(EntityUid uid, string textInput)
     {
         var ev = new EmoteEventChatOnly(textInput);
