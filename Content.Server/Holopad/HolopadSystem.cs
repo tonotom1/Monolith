@@ -75,6 +75,7 @@ public sealed partial class HolopadSystem : SharedHolopadSystem
 
         // Misc events
         SubscribeLocalEvent<HolopadUserComponent, EmoteEvent>(OnEmote);
+        SubscribeLocalEvent<HolopadUserComponent, EmoteEventChatOnly>(OnEmoteChatOnly); // Mono
         SubscribeLocalEvent<HolopadUserComponent, JumpToCoreEvent>(OnJumpToCore);
         SubscribeLocalEvent<HolopadComponent, GetVerbsEvent<AlternativeVerb>>(AddToggleProjectorVerb);
         SubscribeLocalEvent<HolopadComponent, EntRemovedFromContainerMessage>(OnAiRemove);
@@ -380,6 +381,33 @@ public sealed partial class HolopadSystem : SharedHolopadSystem
 
                 // Force the emote, because if the user can do it, the hologram can too
                 _chatSystem.TryEmoteWithChat(receiver.Comp.Hologram.Value, args.Emote, range, false, name, true, true);
+            }
+        }
+    }
+
+    // MONO: It's the same shit as above but with a slightly different overload to handle chat-only emotes
+    private void OnEmoteChatOnly(Entity<HolopadUserComponent> entity, ref EmoteEventChatOnly args)
+    {
+        foreach (var linkedHolopad in entity.Comp.LinkedHolopads)
+        {
+            if (!HasComp<ActiveListenerComponent>(linkedHolopad))
+                continue;
+
+            if (TryComp<TelephoneComponent>(linkedHolopad, out var linkedHolopadTelephone) && linkedHolopadTelephone.Muted)
+                continue;
+
+            var receivingHolopads = GetLinkedHolopads(linkedHolopad);
+            var range = receivingHolopads.Count > 1 ? ChatTransmitRange.HideChat : ChatTransmitRange.GhostRangeLimit;
+
+            foreach (var receiver in receivingHolopads)
+            {
+                if (receiver.Comp.Hologram == null)
+                    continue;
+
+                var ent = Identity.Entity(entity, EntityManager);
+                var name = Loc.GetString("holopad-hologram-name", ("name", ent));
+
+                _chatSystem.TrySendInGameICMessage(receiver.Comp.Hologram.Value, args.Emote, InGameICChatType.Emote, range, nameOverride: name, checkRadioPrefix: false, ignoreActionBlocker: true);
             }
         }
     }
