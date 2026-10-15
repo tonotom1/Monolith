@@ -187,9 +187,7 @@ public partial class ChatSystem
         }
 
         if (!validEmote) // DeltaV
-        {
             return;
-        }
 
         static string TrimPunctuation(string textInput)
         {
