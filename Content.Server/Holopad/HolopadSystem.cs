@@ -385,7 +385,9 @@ public sealed partial class HolopadSystem : SharedHolopadSystem
         }
     }
 
-    // MONO: It's the same shit as above but with a slightly different overload to handle chat-only emotes
+    /// MONO: It's the same thing as above but with a slightly different overload to handle chat-only emotes
+    /// It looks hideous but this preserves whatever was written by Wizden in case of a terrible merge conflict
+    /// (TOUGH SHIT, TODO: MERGE LATEST HOLOPAD IMPROVEMENTS THEN DO THIS FROM SCRATCH)
     private void OnEmoteChatOnly(Entity<HolopadUserComponent> entity, ref EmoteEventChatOnly args)
     {
         foreach (var linkedHolopad in entity.Comp.LinkedHolopads)
