@@ -26278,3 +26278,10 @@ Entries:
   id: 2831
   time: '2026-10-16T20:22:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4849
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Pulsar damage buff rescinded.
+  id: 2832
+  time: '2026-10-16T20:23:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4860
