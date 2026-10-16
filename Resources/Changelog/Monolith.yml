@@ -26256,3 +26256,12 @@ Entries:
   id: 2829
   time: '2026-10-16T20:18:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4878
+- author: SuperGDPWYL
+  changes:
+    - type: Tweak
+      message: >-
+        You can now play Godfather without playing Fugitive if you have 60 hours
+        overall.
+  id: 2830
+  time: '2026-10-16T20:19:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4843
