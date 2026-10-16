@@ -26265,3 +26265,16 @@ Entries:
   id: 2830
   time: '2026-10-16T20:19:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4843
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: New languages "Felyaic" and "Classical"
+    - type: Add
+      message: Ported chat prefixes from Starlight.
+    - type: Add
+      message: Canilunzt is now a selectable language.
+    - type: Remove
+      message: Gary has been taken out back.
+  id: 2831
+  time: '2026-10-16T20:22:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4849
