@@ -26249,3 +26249,10 @@ Entries:
   id: 2828
   time: '2026-10-15T23:16:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4845
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed Helios/UGBM making ships have IFF off permanently.
+  id: 2829
+  time: '2026-10-16T20:18:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4878
