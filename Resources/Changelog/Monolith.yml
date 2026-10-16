@@ -26285,3 +26285,22 @@ Entries:
   id: 2832
   time: '2026-10-16T20:23:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4860
+- author: Mrrpip
+  changes:
+    - type: Fix
+      message: Fixes blunt names.
+    - type: Fix
+      message: Fixes Shulilian's right sided main large thruster.
+    - type: Fix
+      message: Links Camelot's nuclear reactor monitor to the reactor.
+    - type: Fix
+      message: >-
+        Fixes a  shipyard descriptions having old calibers. (Send any others to
+        the #bugs channel, I only did the ones I was aware of.)
+    - type: Fix
+      message: Adds directional fans to the CSEC Hornet.
+    - type: Fix
+      message: Charon APHE explodes when it's stopped, rather than on it's first hit.
+  id: 2833
+  time: '2026-10-16T20:26:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4873
