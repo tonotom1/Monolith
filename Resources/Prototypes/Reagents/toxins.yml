@@ -640,7 +640,7 @@
         - !type:ReagentThreshold
           min: 13
         reagent: Pax
-        amount: -4
+        amount: -13
       - !type:PopupMessage # Mono: Popup so you know what's happening to you
         type: Local
         visualType: Medium
