@@ -640,7 +640,7 @@
         - !type:ReagentThreshold
           min: 13
         reagent: Pax
-        amount: -6
+        amount: -4
 
 - type: reagent
   id: Honk
