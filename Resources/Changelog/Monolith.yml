@@ -26324,3 +26324,10 @@ Entries:
   id: 2835
   time: '2026-10-22T14:47:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4900
+- author: tonotom1
+  changes:
+    - type: Add
+      message: UW Sandbox, A ship intended to do what the Framework did.
+  id: 2836
+  time: '2026-10-22T17:54:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4794
