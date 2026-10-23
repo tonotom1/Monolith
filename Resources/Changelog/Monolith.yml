@@ -26374,3 +26374,12 @@ Entries:
   id: 2840
   time: '2026-10-23T19:48:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4902
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Janicart and Chemmaster now drain puddles into their buffers.
+    - type: Tweak
+      message: Chemmaster has received a buffer limit - 250 000u
+  id: 2841
+  time: '2026-10-23T19:49:07.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4901
