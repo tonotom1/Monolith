@@ -26363,3 +26363,14 @@ Entries:
   id: 2839
   time: '2026-10-23T19:46:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4904
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Steel recipe for crystallizer
+    - type: Tweak
+      message: Buffed engineer and chief engineer hardsuits
+    - type: Tweak
+      message: Wood and Coal can now burn, producing extremely high temperatures.
+  id: 2840
+  time: '2026-10-23T19:48:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4902
