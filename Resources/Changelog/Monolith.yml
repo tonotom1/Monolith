@@ -26383,3 +26383,12 @@ Entries:
   id: 2841
   time: '2026-10-23T19:49:07.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4901
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Placing tiles with RCD is now instant!
+    - type: Fix
+      message: Mieyo SRD is now actually 2x faster than normal one.
+  id: 2842
+  time: '2026-10-23T19:49:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4905
