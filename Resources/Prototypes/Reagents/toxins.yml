@@ -625,6 +625,7 @@
   color: "#AAAAAA"
   metabolisms:
     Poison:
+      metabolismRate: 1
       effects:
       - !type:GenericStatusEffect # Mono: No cheese touch
         conditions:
@@ -640,7 +641,7 @@
         - !type:ReagentThreshold
           min: 13
         reagent: Pax
-        amount: -13
+        amount: -6
       - !type:PopupMessage # Mono: Popup so you know what's happening to you
         type: Local
         visualType: Medium
