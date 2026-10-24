@@ -625,7 +625,7 @@
   color: "#AAAAAA"
   metabolisms:
     Poison:
-      metabolismRate: 1
+      metabolismRate: 1 # Mono: Double decay rate
       effects:
       - !type:GenericStatusEffect # Mono: No cheese touch
         conditions:
