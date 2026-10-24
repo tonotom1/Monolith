@@ -26424,3 +26424,16 @@ Entries:
   id: 2846
   time: '2026-10-23T22:11:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4907
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Salvage mode to industrial mining laser.
+    - type: Add
+      message: >-
+        Bolted techfabs that come with packed research. Mapped on
+        department-related ships.
+    - type: Tweak
+      message: Blue wrecks now have lithium and copper in the crates
+  id: 2847
+  time: '2026-10-24T18:57:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4912
